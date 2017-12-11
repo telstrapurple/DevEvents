@@ -6,14 +6,11 @@ TODO
 
 
 # 2018
-|Event Name|State||Date From|Date To|Tags|
-|----------|-----||---------|-------|----|---|
-|[YoW! Melbourne](http://melbourne.yowconference.com.au/)|VIC|30/11/2017|12/1/2017|Agile, Lean, Product|
-|[YoW! Brisbane](http://melbourne.yowconference.com.au/)|VIC|30/11/2017|12/1/2017|Agile, Lean, Product|
+
+| Event Name | State | Date From | Date To | Tags |
+| ---------- | ----- | --------- | ------- | ---- |
+| [YoW! Melbourne](http://melbourne.yowconference.com.au/) | VI C| 30/11/2017 | 12/1/2017 | Agile, Lean, Product |
+| [YoW! Brisbane](http://melbourne.yowconference.com.au/) | VIC | 30/11/2017 | 12/1/2017 | Agile, Lean, Product |
 
 
 # 2017
-|Event Name|State||Date From|Date To|Tags|
-|----------|-----||---------|-------|----|---|
-|[YoW! Melbourne](http://melbourne.yowconference.com.au/)|VIC|30/11/2017|12/1/2017|Agile, Lean, Product|
-|[YoW! Brisbane](http://melbourne.yowconference.com.au/)|VIC|30/11/2017|12/1/2017|Agile, Lean, Product|
