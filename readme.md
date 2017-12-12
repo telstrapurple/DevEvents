@@ -4,49 +4,6 @@ This repository contains events occurring in Australia of interest to developers
 
 If you want to make an addition or fix up a mistake please consider contributing to keep this a useful resource.
 
-## FAQ ##
-
-### My event is not listed/wrongly classified/there is a mistake! ###
-No problem - please see [**How do I Contribute**](https://github.com/Readify/DevEvents#how-do-i-contribute) for details of how you can fix this
-
-### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc ###
-This resource is only as good as people's contributions so we wanted to make it as easy as possible for people to make changes. Markdown in conjunction with GitHub markdown editor makes it very easy for anyone to modify the content. Feel free to build something cool based on this data.
-
-### I am not technical - how can I contribute to this? ###
-Please [sign up on github](https://github.com/join) and follow the easy steps detailed at [**How do I Contribute**](https://github.com/Readify/DevEvents#how-do-i-contribute). You can also log an issue by clicking the issue tab and we will get to it when we can.
-
-### What is Readify's involvement ###
-[Readify](https://readify.net) is an Australian IT Consultancy and this repository is hosted under the Readify organization. Readify team members merge PR requests. All events related to developers are welcome including those of our competitors.
-
-### What is the license for this project? ###
-This repository is licensed under Creative Commons CC0.
-
-### How do I contribute? ###
-
-Contributing to DevEvents is very easy with the GitHub markdown editor; you can do it all from your browser. (You are also welcome to use a standard PR process if you would prefer.)
-
-To submit a change using GitHub markdown editor, do the following:
-
-1. Browse to [readme.md](https://github.com/Readify/DevEvents/blob/master/readme.md), the actual file behind it all
-1. Click the [_Edit this file_ pencil icon](https://github.com/Readify/DevEvents/edit/master/readme.md)
-1. Make your changes, respecting the rules below please
-1. Use the _Preview Changes_ tab at the top to make sure everything still looks right
-1. Scroll to the _Commit Changes_ section at the bottom
-1. Supply a basic description of your change in the first field (`Add Super Awesome Conf 2019`)
-1. Select the _Create a new branch for this commit and start a pull request_ option
-1. Hit _Propose file change_
-1. Hit _Create pull request_
-
-For content:
-
-- Note we are currently only interested in Australian based events and no earlier than 2016
-- The event should be of interest to the dev community (specialist and related topics are fine e.g. AI and agile)
-- Please add events in chronological order
-- Check any links you are adding are correct
-- Ensure dates are in dd/mm/yyyy format (in case we want to parse this data later)
-- Ensure no additional spaces or formatting characters are present (this will make parsing easier later)
-- Ensure states are specified as VIC, NSW, ACT, WA, SA, NT, QLD, ALL, TAS, OTH (Other)
-
 ## 2018 ##
 
 | Event Name | State | Date From | Date To | Tags |
@@ -128,3 +85,46 @@ For content:
 | ---------- | ----- | --------- | ------- | ---- |
 | [Unite](https://unite.unity.com/) | VIC | 23/10/2016 | 31/10/2016	| Unity	|
 | [MixInConf](http://mixinconf.com/) | WA | 28/10/2016 | 28/10/2016 | Design/Web |
+
+## FAQ ##
+
+### My event is not listed/wrongly classified/there is a mistake! ###
+No problem - please see [**How do I Contribute**](https://github.com/Readify/DevEvents#how-do-i-contribute) for details of how you can fix this
+
+### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc ###
+This resource is only as good as people's contributions so we wanted to make it as easy as possible for people to make changes. Markdown in conjunction with GitHub markdown editor makes it very easy for anyone to modify the content. Feel free to build something cool based on this data.
+
+### I am not technical - how can I contribute to this? ###
+Please [sign up on github](https://github.com/join) and follow the easy steps detailed at [**How do I Contribute**](https://github.com/Readify/DevEvents#how-do-i-contribute). You can also log an issue by clicking the issue tab and we will get to it when we can.
+
+### What is Readify's involvement ###
+[Readify](https://readify.net) is an Australian IT Consultancy and this repository is hosted under the Readify organization. Readify team members merge PR requests. All events related to developers are welcome including those of our competitors.
+
+### What is the license for this project? ###
+This repository is licensed under Creative Commons CC0.
+
+### How do I contribute? ###
+
+Contributing to DevEvents is very easy with the GitHub markdown editor; you can do it all from your browser. (You are also welcome to use a standard PR process if you would prefer.)
+
+To submit a change using GitHub markdown editor, do the following:
+
+1. Browse to [readme.md](https://github.com/Readify/DevEvents/blob/master/readme.md), the actual file behind it all
+1. Click the [_Edit this file_ pencil icon](https://github.com/Readify/DevEvents/edit/master/readme.md)
+1. Make your changes, respecting the rules below please
+1. Use the _Preview Changes_ tab at the top to make sure everything still looks right
+1. Scroll to the _Commit Changes_ section at the bottom
+1. Supply a basic description of your change in the first field (`Add Super Awesome Conf 2019`)
+1. Select the _Create a new branch for this commit and start a pull request_ option
+1. Hit _Propose file change_
+1. Hit _Create pull request_
+
+For content:
+
+- Note we are currently only interested in Australian based events and no earlier than 2016
+- The event should be of interest to the dev community (specialist and related topics are fine e.g. AI and agile)
+- Please add events in chronological order
+- Check any links you are adding are correct
+- Ensure dates are in dd/mm/yyyy format (in case we want to parse this data later)
+- Ensure no additional spaces or formatting characters are present (this will make parsing easier later)
+- Ensure states are specified as VIC, NSW, ACT, WA, SA, NT, QLD, ALL, TAS, OTH (Other)
