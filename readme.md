@@ -62,6 +62,8 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [LAST Conf](https://www.lastconference.com/) | VIC | 29/07/2017 | 30/07/2017 | Agile, Lean, Product |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 	12/8/2017 |	12/8/2017 | Various	|
 | [Dev World](http://www.devworld.com.au/	) | VIC	 | 28/08/2017 | 30/08/2017 | Various |
+| [AWS DevDay Brisbane](https://aws.amazon.com/devday/australia/	) | QLD	 | 05/09/2017 | 05/09/2017 | AWS |
+| [AWS DevDay Melbourne](https://aws.amazon.com/devday/australia/	) | VIC	 | 07/09/2017 | 05/09/2017 | AWS |
 | [DDD Perth](https://dddperth.com/) | WA | 16/09/2017 | 16/09/2017 | Various |
 | [NDC Sydney](https://ndcsydney.com/) | NSW | 17/09/2017 | 21/09/2017 | Various |
 | [Yow Connected](http://connected.yowconference.com.au/) | VIC | 21/09/2017 | 22/09/2017 | Mobile	|
