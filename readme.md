@@ -69,6 +69,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [YoW! Data](http://data.yowconference.com.au/	) | NSW	 | 22/09/2017 | 23/09/2017 | Data |
 | [Devops days](https://www.devopsdays.org/) | WA | 14/10/2017 | 15/10/2017 | Devops |
 | [Agile Encore](http://www.agileencore.com/) | VIC | 21/10/2017 | 21/10/2017 | Agile |
+| [Ruxcon](https://ruxcon.org.au) | VIC | 21/10/2017 | 22/10/2017 | Security |
 | [Pax](http://aus.paxsite.com/) | VIC | 27/10/2017 | 29/10/2017 | Games |
 | [Rails Camp](https://rails.camp/#au_nov_2017) | VIC | 01/11/2017 | 02/11/2017 | Rails |
 | [HealthHack](https://www.healthhack.com.au/) | Multi | 03/11/2017 | 04/11/2017 | Hackathon |
