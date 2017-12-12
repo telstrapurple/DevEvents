@@ -31,6 +31,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [SheHacks](http://shehacks.com.au/) | NSW	| 13/08/2018 | 13/08/2018	| Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24/08/2018	| 26/08/2018 | Python |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17/09/2018	| 21/09/2018 | Various |
+| [AISA Australian Cyber Conference] (https://cyberconference.com.au) | VIC | 09/10/2018 | 11/10/2018 | Security |
 | [Web Directions Design](http://www.webdirections.org/design/	) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design|
 | [Web Directions AI](	http://www.webdirections.org/ai/) | NSW	| 07/11/2018	 | 07/11/2018 | AI |
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 08/11/2018 | 09/11/2018 | Web (front end/design)	|
@@ -79,6 +80,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [YoW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 30/11/2017 | 12/01/2017 | Agile, Lean, Product |
 | [BuzzConf](https://buzzconf.io/) | VIC | 01/12/2017 | 03/12/2017 | Future Tech |
 | [DDD Brisbane](http://www.dddbrisbane.com/) |	QLD	 | 	02/12/2017 | 02/12/2017	| Various |
+| [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 04/12/2017 | 05/12/2017 | Various |
 | [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 07/12/2017 | 08/12/2017 | Various |
 | [TConf](https://tconf.io/) | VIC | 08/12/2017 | 08/12/2017 | Testing |
 
