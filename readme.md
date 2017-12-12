@@ -19,25 +19,25 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [JSConf](	http://2018.jsconfau.com/) | VIC | 21/03/2018 | 22/03/2018 | JS/Web	|
 | [Angular Conf](https://www.angularconf.com.au/) | VIC	 | 21/03/2018 | 22/03/2018 | Angular |
 | [Devops Talks]() | VIC | 22/03/2018 | 23/03/2018 | Devops	|
+| [Web Directions Design](http://www.webdirections.org/design/) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design |
 | [Global Azure Bootcamp](	https://global.azurebootcamp.net/) | ALL | 21/04/2018 | 21/04/2018 | Azure	|
 | [Voxx days](	https://voxxeddays.com/melbourne/) | VIC | 02/05/2018 | 03/05/2018 | Various |
 | [SCRSYD](	https://scrsyd.wordpress.com/) | NSW | 05/05/2018 | 07/05/2018 | Agile |
 | [YOW! Data](http://data.yowconference.com.au/) | NSW | 14/05/2018 | 15/05/2018 | Data |
-| [Lambda Jam](	http://lambdajam.yowconference.com.au/	) | NSW	 | 21/05/2018	 | 	23/05/2018 | Functional Programming	|
-| [IoT Festival](	https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC	 | 	04/06/2018 | 04/06/2018 | IOT	|
+| [Lambda Jam](	http://lambdajam.yowconference.com.au/) | NSW	 | 21/05/2018	 | 23/05/2018 | Functional Programming	|
+| [IoT Festival](	https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC	| 04/06/2018 | 04/06/2018 | IOT	|
 | [Agile Australia](http://agileaustralia.com.au/2018/	) | NSW	 | 	18/06/2018 | 19/06/2018	| Agile	|
-| [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01/08/2018 | 01/08/2018 | 	Team lead/culture|
+| [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01/08/2018 | 01/08/2018 | Team lead/culture|
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02/08/2018 | 03/08/2018 | Web (more code)	|
 | [SheHacks](http://shehacks.com.au/) | NSW	| 13/08/2018 | 13/08/2018	| Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24/08/2018	| 26/08/2018 | Python |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17/09/2018	| 21/09/2018 | Various |
 | [AISA Australian Cyber Conference] (https://cyberconference.com.au) | VIC | 09/10/2018 | 11/10/2018 | Security |
-| [Web Directions Design](http://www.webdirections.org/design/	) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design|
-| [Web Directions AI](	http://www.webdirections.org/ai/) | NSW	| 07/11/2018	 | 07/11/2018 | AI |
+| [Web Directions AI](http://www.webdirections.org/ai/) | NSW	| 07/11/2018 | 07/11/2018 | AI |
+| [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 07/11/2018 | 07/11/2018 | Culture	|
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 08/11/2018 | 09/11/2018 | Web (front end/design)	|
-| [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 	08/11/2018 | 08/11/2018 | Culture	|
 | [ACSWAofficial](	https://www.acs.org.au/	) | WA | TBC | TBC | Various	| 
-| [Perth Web Accessibility Camp	](	https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC	| TBC | Web accessibility	|
+| [Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC	| TBC | Web accessibility	|
 
 
 ## 2017 ##
@@ -70,7 +70,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [Agile Encore](http://www.agileencore.com/) | VIC | 21/10/2017 | 21/10/2017 | Agile |
 | [Pax](http://aus.paxsite.com/) | VIC | 27/10/2017 | 29/10/2017 | Games |
 | [Rails Camp](https://rails.camp/#au_nov_2017) | VIC | 01/11/2017 | 02/11/2017 | Rails |
-| [HealthHack](https://www.healthhack.com.au/) | Multi | 03/11/2017 | 04/11/2017 | Hackathon	|
+| [HealthHack](https://www.healthhack.com.au/) | Multi | 03/11/2017 | 04/11/2017 | Hackathon |
 | [Agile tour Sydney](https://www.eventbrite.com.au/e/agile-tour-sydney-2017-tickets-29363059702) | VIC | 06/11/2017	| 06/11/2017 | Agile	|
 | [Open Stack Summit](	https://www.openstack.org/summit/) | NSW | 06/11/2017 | 08/11/2017 | Infrastructure |
 | [Latency Conf](https://www.latencyconf.io/) | WA | 16/11/2017 | 16/11/2017 | High performance apps |
