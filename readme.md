@@ -52,6 +52,7 @@ For content:
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
 | [LinuxConf AU](https://linux.conf.au/) | NSW | 22/01/2018 | 23/01/2018 | Linux |
+| [Global Game Jam](https://globalgamejam.org/2018/jam-sites?title=&country=AU&locality=&field_site_address_administrative_area=)| Multi | 26/01/2018 | 28/01/2018 | GameDev, Hackaton |
 | [Agile Coach Camp](http://www.agilecoachcampaustralia.org/) | WA | 17/2/1018 | 17/02/2018 | Agile |
 | [1st Conference](https://www.eventbrite.com.au/e/1st-conference-2018-registration-39601332652?aff=es2) | VIC | 26/02/2018 | 27/02/2018 | Agile, Lean, Product	|
 | [Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2	) | VIC	| 27/02/2018 | 27/02/2018 | Agile, Organisation etc	|
@@ -79,6 +80,7 @@ For content:
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 	08/11/2018 | 08/11/2018 | Culture	|
 | [ACSWAofficial](	https://www.acs.org.au/	) | WA | TBC | TBC | Various	| 
 | [Perth Web Accessibility Camp	](	https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC	| TBC | Web accessibility	|
+
 
 ## 2017 ##
 
