@@ -120,6 +120,7 @@ For content:
 | [YoW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 30/11/2017 | 12/01/2017 | Agile, Lean, Product |
 | [BuzzConf](https://buzzconf.io/) | VIC | 01/12/2017 | 03/12/2017 | Future Tech |
 | [DDD Brisbane](http://www.dddbrisbane.com/) |	QLD	 | 	02/12/2017 | 02/12/2017	| Various |
+| [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 07/12/2017 | 08/12/2017 | Various |
 | [TConf](https://tconf.io/) | VIC | 08/12/2017 | 08/12/2017 | Testing |
 
 ## Pre-2017 ##
