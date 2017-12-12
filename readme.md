@@ -6,7 +6,7 @@ If you want to make an addition or fix up a mistake please consider [contributin
 
 ## FAQ ##
 
-You've got a question, do you? Awesome! [The FAQ](https://github.com/Readify/DevEvents/blob/master/faq.md) likely has the answer you need.
+You've got a question, do you? Awesome! [The FAQ](https://github.com/Readify/DevEvents/blob/master/FAQ.md) likely has the answer you need.
 
 ### Can I contribute? ###
 
