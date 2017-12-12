@@ -11,6 +11,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [LinuxConf AU](https://linux.conf.au/) | NSW | 22/01/2018 | 23/01/2018 | Linux |
 | [Global Game Jam](https://globalgamejam.org/2018/jam-sites?title=&country=AU&locality=&field_site_address_administrative_area=)| Multi | 26/01/2018 | 28/01/2018 | GameDev, Hackaton |
 | [Agile Coach Camp](http://www.agilecoachcampaustralia.org/) | WA | 17/02/1018 | 17/02/2018 | Agile |
+| [CrikeyCon](https://www.crikeycon.com) | QLD | 24/02/1018 | 24/02/2018 | Security |
 | [1st Conference](https://www.eventbrite.com.au/e/1st-conference-2018-registration-39601332652?aff=es2) | VIC | 26/02/2018 | 27/02/2018 | Agile, Lean, Product	|
 | [Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2	) | VIC	| 27/02/2018 | 27/02/2018 | Agile, Organisation etc	|
 | [RubyConf](	https://www.rubyconf.org.au/2018) | NSW | 08/03/2018 | 09/03/2018 | Ruby |
