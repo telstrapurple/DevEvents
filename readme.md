@@ -7,7 +7,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 ## FAQ ##
 
 ### My event is not listed/wrongly classified/there is a mistake! ###
-No problem - please see **How do I Contribute** for details of how you can fix this
+No problem - please see [**How do I Contribute**](https://github.com/Readify/DevEvents#how-do-i-contribute) for details of how you can fix this
 
 ### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc ###
 This resource is only as good as peoples contributions so we wanted to make it as easy as possible for people to make changes. Markdown in conjunction with GitHub markdown editor makes it very easy for anyone to modify the content. Feel free to build something cool based on this data.
