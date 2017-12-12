@@ -10,13 +10,16 @@ If you want to make an addition or fix up a mistake please consider contributing
 No problem - please see [**How do I Contribute**](https://github.com/Readify/DevEvents#how-do-i-contribute) for details of how you can fix this
 
 ### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc ###
-This resource is only as good as peoples contributions so we wanted to make it as easy as possible for people to make changes. Markdown in conjunction with GitHub markdown editor makes it very easy for anyone to modify the content. Feel free to build something cool based on this data.
+This resource is only as good as people's contributions so we wanted to make it as easy as possible for people to make changes. Markdown in conjunction with GitHub markdown editor makes it very easy for anyone to modify the content. Feel free to build something cool based on this data.
+
+### I am not technical - how can I contribute to this? ###
+Please [sign up on github](https://github.com/join) and follow the easy steps detailed at [**How do I Contribute**](https://github.com/Readify/DevEvents#how-do-i-contribute). You can also log an issue by clicking the issue tab and we will get to it when we can.
 
 ### What is Readify's involvement ###
 [Readify](https://readify.net) is an Australian IT Consultancy and this repository is hosted under the Readify organization. Readify team members merge PR requests. All events related to developers are welcome including those of our competitors.
 
 ### What is the license for this project? ###
-This repository is licensed under MIT.
+This repository is licensed under Creative Commons CC0.
 
 ### How do I contribute? ###
 Contributing to DevEvents is very easy with the GitHub markdown editor (you are also welcome to use a standard PR process if you would prefer).
