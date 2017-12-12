@@ -1,10 +1,10 @@
 # Australian Dev Events
 This repository contains events occurring in Australia of interest to developers covering everything from technical focused topics to leadership to agile.
 
-## Contributing
+## ## Contributing ##
 TODO
 
-#2018
+## 2018 ##
 
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
@@ -26,7 +26,7 @@ TODO
 | [Agile Australia](http://agileaustralia.com.au/2018/	) | NSW	 | 	18/06/2018 | 19/06/2018	| Agile	|
 | [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 1/08/2018 | 1/08/2018 | 	Team lead/culture|
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 2/08/2018 | 3/08/2018 | Web (more code)	|
-| [SheHacks](http://shehacks.com.au/) | NSW	 | 	13/08/2018	| 	13/08/2018	| Hackathon |
+| [SheHacks](http://shehacks.com.au/) | NSW	| 13/08/2018 | 13/08/2018	| Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24/08/2018	| 26/08/2018 | Python |
 | [Web Directions Design](http://www.webdirections.org/design/	) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design|
 | [Web Directions AI](	http://www.webdirections.org/ai/) | NSW	| 7/11/2018	 | 7/11/2018 | AI |
@@ -35,7 +35,7 @@ TODO
 | [ACSWAofficial](	https://www.acs.org.au/	) | WA | TBC | TBC | Various	| 
 | [Perth Web Accessibility Camp	](	https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC	| TBC | Web accessibility	|
 
-# 2017
+## 2017 ##
 
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
@@ -77,7 +77,7 @@ TODO
 | [DDD Brisbane](http://www.dddbrisbane.com/) |	QLD	 | 	02/12/2017 | 02/12/2017	| Various |
 | [TConf](https://tconf.io/) | VIC | 08/12/2017 | 08/12/2017 | Testing |
 
-# Pre-2017
+## Pre-2017 ##
 
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
