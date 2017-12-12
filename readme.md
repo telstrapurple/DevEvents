@@ -58,10 +58,12 @@ For content:
 | [Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2	) | VIC	| 27/02/2018 | 27/02/2018 | Agile, Organisation etc	|
 | [RubyConf](	https://www.rubyconf.org.au/2018) | NSW | 08/03/2018 | 09/03/2018 | Ruby |
 | [TestWest](	http://www.testwest.org/) | WA	| 14/03/2018 | 14/03/2018 | Testing	|
+| [AsyncConf](	http://www.justchecking.org/) | WA	| 14/03/2018 | --/--/-- | Testing	|
 | [CSSConf](	https://2018.cssconf.com.au/) | VIC	| 20/03/2018 | 20/03/2018 | CSS/Web	|
 | [JSConf](	http://2018.jsconfau.com/) | VIC | 21/03/2018 | 22/03/2018 | JS/Web	|
 | [Angular Conf](https://www.angularconf.com.au/) | VIC	 | 21/03/2018 | 22/03/2018 | Angular |
 | [Devops Talks]() | VIC | 22/03/2018 | 23/03/2018 | Devops	|
+| [AsyncConf](	http://www.asyncconf.org/) | WA	| 14/03/2018 | 14/03/2018 | Testing	|
 | [Global Azure Bootcamp](	https://global.azurebootcamp.net/) | ALL | 21/04/2018 | 21/04/2018 | Azure	|
 | [Voxx days](	https://voxxeddays.com/melbourne/) | VIC | 02/05/2018 | 03/05/2018 | Various |
 | [SCRSYD](	https://scrsyd.wordpress.com/) | NSW | 05/05/2018 | 07/05/2018 | Agile |
