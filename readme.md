@@ -5,9 +5,38 @@ This repository contains events occurring in Australia of interest to developers
 TODO
 
 #2018
-TODO
+
+| Event Name | State | Date From | Date To | Tags |
+| ---------- | ----- | --------- | ------- | ---- |
+| [LinuxConf AU](https://linux.conf.au/) | NSW | 22/01/2018 | 23/01/2018 | Linux |
+| [Agile Coach Camp](http://www.agilecoachcampaustralia.org/) | TBC | 17/2/1018 | 17/02/2018 | Agile |
+| [1st Conference](https://www.eventbrite.com.au/e/1st-conference-2018-registration-39601332652?aff=es2) | VIC | 26/02/2018 | 27/02/2018 | Agile, Lean, Product	|
+| [Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2	) | VIC	| 27/02/2018 | 27/02/2018 | Agile, Organisation etc	|
+| [RubyConf](	https://www.rubyconf.org.au/2018) | NSW | 8/03/2018 | 9/03/2018 | Ruby |
+| [TestWest](	http://www.testwest.org/) | WA	| 14/03/2018 | 14/03/2018 | Testing	|
+| [CSSConf](	https://2018.cssconf.com.au/) | VIC	| 20/03/2018 | 20/03/2018 | CSS/Web	|
+| [JSConf](	http://2018.jsconfau.com/) | VIC | 21/03/2018 | 22/03/2018 | JS/Web	|
+| [Angular Conf](https://www.angularconf.com.au/) | VIC	 | 21/03/2018 | 22/03/2018 | Angular |
+| [Devops Talks]() | VIC | 22/03/2018 | 23/03/2018 | Devops	|
+| [Global Azure Bootcamp](	https://global.azurebootcamp.net/) | ALL | 21/04/2018 | 21/04/2018 | Azure	|
+| [Voxx days](	https://voxxeddays.com/melbourne/) | VIC | 2/05/2018 | 3/05/2018 | Various |
+| [SCRSYD](	https://scrsyd.wordpress.com/) | NSW | 5/05/2018 | 7/05/2018 | Agile |
+| [Lambda Jam](	http://lambdajam.yowconference.com.au/	) | NSW	 | 21/05/2018	 | 	23/05/2018 | Functional Programming	|
+| [IoT Festival](	https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC	 | 	4/06/2018 | 4/06/2018 | IOT	|
+| [Agile Australia](http://agileaustralia.com.au/2018/	) | NSW	 | 	18/06/2018 | 19/06/2018	| Agile	|
+| [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 1/08/2018 | 1/08/2018 | 	Team lead/culture|
+| [Web Directions Code](http://www.webdirections.org/code/) | VIC | 2/08/2018 | 3/08/2018 | Web (more code)	|
+| [SheHacks](http://shehacks.com.au/) | NSW	 | 	13/08/2018	| 	13/08/2018	| Hackathon |
+| [Pycon](http://2018.pycon-au.org/) | NSW | 24/08/2018	| 26/08/2018 | Python |
+| [Web Directions Design](http://www.webdirections.org/design/	) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design|
+| [Web Directions AI](	http://www.webdirections.org/ai/) | NSW	| 7/11/2018	 | 7/11/2018 | AI |
+| [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 8/11/2018 | 9/11/2018 | Web (front end/design)	|
+| [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 	8/11/2018 | 8/11/2018 | Culture	|
+| [ACSWAofficial](	https://www.acs.org.au/	) | WA | TBC | TBC | Various	| 
+| [Perth Web Accessibility Camp	](	https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC	| TBC | Web accessibility	|
 
 # 2017
+
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
 | [SQL Saturday](http://sqlsaturday.com/) | NSW	| 18/02/2017 | 18/02/2017 |	SQL	|
