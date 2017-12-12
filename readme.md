@@ -32,7 +32,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [SheHacks](http://shehacks.com.au/) | NSW	| 13/08/2018 | 13/08/2018	| Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24/08/2018	| 26/08/2018 | Python |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17/09/2018	| 21/09/2018 | Various |
-| [AISA Australian Cyber Conference] (https://cyberconference.com.au) | VIC | 09/10/2018 | 11/10/2018 | Security |
+| [AISA Australian Cyber Conference](https://cyberconference.com.au) | VIC | 09/10/2018 | 11/10/2018 | Security |
 | [Web Directions AI](http://www.webdirections.org/ai/) | NSW	| 07/11/2018 | 07/11/2018 | AI |
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 07/11/2018 | 07/11/2018 | Culture	|
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 08/11/2018 | 09/11/2018 | Web (front end/design)	|
