@@ -63,7 +63,7 @@ For content:
 | [JSConf](	http://2018.jsconfau.com/) | VIC | 21/03/2018 | 22/03/2018 | JS/Web	|
 | [Angular Conf](https://www.angularconf.com.au/) | VIC	 | 21/03/2018 | 22/03/2018 | Angular |
 | [Devops Talks]() | VIC | 22/03/2018 | 23/03/2018 | Devops	|
-| [AsyncConf](	http://www.asyncconf.org/) | WA	| 14/03/2018 | 14/03/2018 | Testing	|
+| [AsyncConf](	http://www.asyncconf.org/) | WA	| 14/03/2018 | 28/03/2018 | Testing	|
 | [Global Azure Bootcamp](	https://global.azurebootcamp.net/) | ALL | 21/04/2018 | 21/04/2018 | Azure	|
 | [Voxx days](	https://voxxeddays.com/melbourne/) | VIC | 02/05/2018 | 03/05/2018 | Various |
 | [SCRSYD](	https://scrsyd.wordpress.com/) | NSW | 05/05/2018 | 07/05/2018 | Agile |
