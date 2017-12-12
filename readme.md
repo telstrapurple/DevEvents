@@ -1,15 +1,39 @@
 # Australian Dev Events
+
 This repository contains events occurring in Australia of interest to developers covering everything from technical focused topics to leadership to agile.
 
-## ## Contributing ##
-TODO
+If you want to make an addition or fix up a mistake please consider contributing as this resource is only useful if kept up to date.
+
+## Contributing ##
+
+Contributing to DevEvents is very easy with the Github markdown editor (you are also welcome to use a standard PR if you would prefer).
+
+To use this do the following:
+
+1. First click readme.md in the file list to open it in Github editor
+2. Click the Edit this file pencil icon (top right corner)
+3. Make your changes (check the rules below please)
+4. Select the Create a new branch for this commit and start a pull request option
+5. Submit your pull request
+
+### Contributing Rules ###
+
+Please ensure you have done the following when making changes to this file:
+
+- Note we are currently only interested in Australian based events
+- The event should be of interest to the dev community (specialist and related topics are fine e.g. AI and agile)
+- Add events in chronological order
+- Check any links you are adding are correct
+- Ensure dates are in dd/mm/yyyy format
+- Ensure no additional spaces or formatting characters are present (this will make parsing easier later)
+- Ensure states are specified as VIC, NSW, ACT, WA, SA, NT, QLD, ALL, TAS, OTH (Other)
 
 ## 2018 ##
 
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
 | [LinuxConf AU](https://linux.conf.au/) | NSW | 22/01/2018 | 23/01/2018 | Linux |
-| [Agile Coach Camp](http://www.agilecoachcampaustralia.org/) | TBC | 17/2/1018 | 17/02/2018 | Agile |
+| [Agile Coach Camp](http://www.agilecoachcampaustralia.org/) | WA | 17/2/1018 | 17/02/2018 | Agile |
 | [1st Conference](https://www.eventbrite.com.au/e/1st-conference-2018-registration-39601332652?aff=es2) | VIC | 26/02/2018 | 27/02/2018 | Agile, Lean, Product	|
 | [Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2	) | VIC	| 27/02/2018 | 27/02/2018 | Agile, Organisation etc	|
 | [RubyConf](	https://www.rubyconf.org.au/2018) | NSW | 8/03/2018 | 9/03/2018 | Ruby |
