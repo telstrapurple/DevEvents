@@ -19,6 +19,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [JSConf](	http://2018.jsconfau.com/) | VIC | 21/03/2018 | 22/03/2018 | JS/Web	|
 | [Angular Conf](https://www.angularconf.com.au/) | VIC	 | 21/03/2018 | 22/03/2018 | Angular |
 | [Devops Talks]() | VIC | 22/03/2018 | 23/03/2018 | Devops	|
+| [Web Directions Design](http://www.webdirections.org/design/	) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design|
 | [Global Azure Bootcamp](	https://global.azurebootcamp.net/) | ALL | 21/04/2018 | 21/04/2018 | Azure	|
 | [Voxx days](	https://voxxeddays.com/melbourne/) | VIC | 02/05/2018 | 03/05/2018 | Various |
 | [SCRSYD](	https://scrsyd.wordpress.com/) | NSW | 05/05/2018 | 07/05/2018 | Agile |
@@ -31,10 +32,9 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [SheHacks](http://shehacks.com.au/) | NSW	| 13/08/2018 | 13/08/2018	| Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24/08/2018	| 26/08/2018 | Python |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17/09/2018	| 21/09/2018 | Various |
-| [Web Directions Design](http://www.webdirections.org/design/	) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design|
 | [Web Directions AI](	http://www.webdirections.org/ai/) | NSW	| 07/11/2018	 | 07/11/2018 | AI |
+| [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 	07/11/2018 | 07/11/2018 | Culture	|
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 08/11/2018 | 09/11/2018 | Web (front end/design)	|
-| [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 	08/11/2018 | 08/11/2018 | Culture	|
 | [ACSWAofficial](	https://www.acs.org.au/	) | WA | TBC | TBC | Various	| 
 | [Perth Web Accessibility Camp	](	https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC	| TBC | Web accessibility	|
 
