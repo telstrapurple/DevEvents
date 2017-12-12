@@ -2,13 +2,26 @@
 
 This repository contains events occurring in Australia of interest to developers covering everything from technical focused topics to leadership to agile.
 
-If you want to make an addition or fix up a mistake please consider contributing as this resource is only useful if kept up to date.
+If you want to make an addition or fix up a mistake please consider contributing to keep this a useful resource.
 
-## Contributing ##
+## FAQ ##
 
-Contributing to DevEvents is very easy with the Github markdown editor (you are also welcome to use a standard PR if you would prefer).
+### My event is not listed/wrongly classified/there is a mistake! ###
+No problem - please see **How do I Contribute** for details of how you can fix this
 
-To use this do the following:
+### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc ###
+This resource is only as good as peoples contributions so we wanted to make it as easy as possible for people to make changes. Markdown in conjunction with Github markdown editor makes it very easy for anyone to modify the content. Feel free to build something cool based on this data.
+
+### What is Readify's involvement ###
+[Readify](https://readify.net) is an Australian IT Consultancy and this repository is hosted under the Readify organization. Readify team members merge PR requests. All events related to developers are welcome including those of our competitors.
+
+### What is the license for this project? ###
+This repository is licensed under MIT.
+
+### How do I contribute? ###
+Contributing to DevEvents is very easy with the Github markdown editor (you are also welcome to use a standard PR process if you would prefer).
+
+To submit a change using Github markdown editor do the following:
 
 1. First click readme.md in the file list to open it in Github editor
 2. Click the Edit this file pencil icon (top right corner)
@@ -16,15 +29,13 @@ To use this do the following:
 4. Select the Create a new branch for this commit and start a pull request option
 5. Submit your pull request
 
-### Contributing Rules ###
-
 Please ensure you have done the following when making changes to this file:
 
-- Note we are currently only interested in Australian based events
+- Note we are currently only interested in Australian based events and no earlier than 2016
 - The event should be of interest to the dev community (specialist and related topics are fine e.g. AI and agile)
-- Add events in chronological order
+- Please add events in chronological order
 - Check any links you are adding are correct
-- Ensure dates are in dd/mm/yyyy format
+- Ensure dates are in dd/mm/yyyy format (in case we want to parse this data later)
 - Ensure no additional spaces or formatting characters are present (this will make parsing easier later)
 - Ensure states are specified as VIC, NSW, ACT, WA, SA, NT, QLD, ALL, TAS, OTH (Other)
 
@@ -36,26 +47,27 @@ Please ensure you have done the following when making changes to this file:
 | [Agile Coach Camp](http://www.agilecoachcampaustralia.org/) | WA | 17/2/1018 | 17/02/2018 | Agile |
 | [1st Conference](https://www.eventbrite.com.au/e/1st-conference-2018-registration-39601332652?aff=es2) | VIC | 26/02/2018 | 27/02/2018 | Agile, Lean, Product	|
 | [Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2	) | VIC	| 27/02/2018 | 27/02/2018 | Agile, Organisation etc	|
-| [RubyConf](	https://www.rubyconf.org.au/2018) | NSW | 8/03/2018 | 9/03/2018 | Ruby |
+| [RubyConf](	https://www.rubyconf.org.au/2018) | NSW | 08/03/2018 | 09/03/2018 | Ruby |
 | [TestWest](	http://www.testwest.org/) | WA	| 14/03/2018 | 14/03/2018 | Testing	|
 | [CSSConf](	https://2018.cssconf.com.au/) | VIC	| 20/03/2018 | 20/03/2018 | CSS/Web	|
 | [JSConf](	http://2018.jsconfau.com/) | VIC | 21/03/2018 | 22/03/2018 | JS/Web	|
 | [Angular Conf](https://www.angularconf.com.au/) | VIC	 | 21/03/2018 | 22/03/2018 | Angular |
 | [Devops Talks]() | VIC | 22/03/2018 | 23/03/2018 | Devops	|
 | [Global Azure Bootcamp](	https://global.azurebootcamp.net/) | ALL | 21/04/2018 | 21/04/2018 | Azure	|
-| [Voxx days](	https://voxxeddays.com/melbourne/) | VIC | 2/05/2018 | 3/05/2018 | Various |
-| [SCRSYD](	https://scrsyd.wordpress.com/) | NSW | 5/05/2018 | 7/05/2018 | Agile |
+| [Voxx days](	https://voxxeddays.com/melbourne/) | VIC | 02/05/2018 | 03/05/2018 | Various |
+| [SCRSYD](	https://scrsyd.wordpress.com/) | NSW | 05/05/2018 | 07/05/2018 | Agile |
+| [YOW! Data](http://data.yowconference.com.au/) | NSW | 14/05/2018 | 15/05/2018 | Data |
 | [Lambda Jam](	http://lambdajam.yowconference.com.au/	) | NSW	 | 21/05/2018	 | 	23/05/2018 | Functional Programming	|
-| [IoT Festival](	https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC	 | 	4/06/2018 | 4/06/2018 | IOT	|
+| [IoT Festival](	https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC	 | 	04/06/2018 | 04/06/2018 | IOT	|
 | [Agile Australia](http://agileaustralia.com.au/2018/	) | NSW	 | 	18/06/2018 | 19/06/2018	| Agile	|
-| [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 1/08/2018 | 1/08/2018 | 	Team lead/culture|
-| [Web Directions Code](http://www.webdirections.org/code/) | VIC | 2/08/2018 | 3/08/2018 | Web (more code)	|
+| [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01/08/2018 | 01/08/2018 | 	Team lead/culture|
+| [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02/08/2018 | 03/08/2018 | Web (more code)	|
 | [SheHacks](http://shehacks.com.au/) | NSW	| 13/08/2018 | 13/08/2018	| Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24/08/2018	| 26/08/2018 | Python |
 | [Web Directions Design](http://www.webdirections.org/design/	) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design|
-| [Web Directions AI](	http://www.webdirections.org/ai/) | NSW	| 7/11/2018	 | 7/11/2018 | AI |
-| [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 8/11/2018 | 9/11/2018 | Web (front end/design)	|
-| [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 	8/11/2018 | 8/11/2018 | Culture	|
+| [Web Directions AI](	http://www.webdirections.org/ai/) | NSW	| 07/11/2018	 | 07/11/2018 | AI |
+| [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 08/11/2018 | 09/11/2018 | Web (front end/design)	|
+| [Web Directions Culture](http://www.webdirections.org/culture/) | NSW	 | 	08/11/2018 | 08/11/2018 | Culture	|
 | [ACSWAofficial](	https://www.acs.org.au/	) | WA | TBC | TBC | Various	| 
 | [Perth Web Accessibility Camp	](	https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC	| TBC | Web accessibility	|
 
@@ -88,10 +100,10 @@ Please ensure you have done the following when making changes to this file:
 | [Devops days](https://www.devopsdays.org/) | WA | 14/10/2017 | 15/10/2017 | Devops |
 | [Agile Encore](http://www.agileencore.com/) | VIC | 21/10/2017 | 21/10/2017 | Agile |
 | [Pax](http://aus.paxsite.com/) | VIC | 27/10/2017 | 29/10/2017 | Games |
-| [Rails Camp](https://rails.camp/#au_nov_2017) | VIC | 1/11/2017 | 2/11/2017 | Rails |
-| [HealthHack](https://www.healthhack.com.au/) | Multi | 3/11/2017 | 4/11/2017 | Hackathon	|
-| [Agile tour Sydney](https://www.eventbrite.com.au/e/agile-tour-sydney-2017-tickets-29363059702) | VIC | 6/11/2017	| 6/11/2017 | Agile	|
-| [Open Stack Summit](	https://www.openstack.org/summit/) | NSW | 6/11/2017 | 8/11/2017 | Infrastructure |
+| [Rails Camp](https://rails.camp/#au_nov_2017) | VIC | 01/11/2017 | 02/11/2017 | Rails |
+| [HealthHack](https://www.healthhack.com.au/) | Multi | 03/11/2017 | 04/11/2017 | Hackathon	|
+| [Agile tour Sydney](https://www.eventbrite.com.au/e/agile-tour-sydney-2017-tickets-29363059702) | VIC | 06/11/2017	| 06/11/2017 | Agile	|
+| [Open Stack Summit](	https://www.openstack.org/summit/) | NSW | 06/11/2017 | 08/11/2017 | Infrastructure |
 | [Latency Conf](https://www.latencyconf.io/) | WA | 16/11/2017 | 16/11/2017 | High performance apps |
 | [Puppet Camp](https://puppet.com/community/events/camp/puppet-camp-melbourne-2017	) | 	VIC	 | 	17/11/2017 | 17/11/2017 | Puppet |
 | [Global Day of Code Retreat](	http://coderetreat.org/	) | VIC	 | 18/11/2017 | 18/11/2017 | Various|
