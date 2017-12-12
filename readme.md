@@ -10,7 +10,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 No problem - please see **How do I Contribute** for details of how you can fix this
 
 ### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc ###
-This resource is only as good as peoples contributions so we wanted to make it as easy as possible for people to make changes. Markdown in conjunction with Github markdown editor makes it very easy for anyone to modify the content. Feel free to build something cool based on this data.
+This resource is only as good as peoples contributions so we wanted to make it as easy as possible for people to make changes. Markdown in conjunction with GitHub markdown editor makes it very easy for anyone to modify the content. Feel free to build something cool based on this data.
 
 ### What is Readify's involvement ###
 [Readify](https://readify.net) is an Australian IT Consultancy and this repository is hosted under the Readify organization. Readify team members merge PR requests. All events related to developers are welcome including those of our competitors.
@@ -19,11 +19,11 @@ This resource is only as good as peoples contributions so we wanted to make it a
 This repository is licensed under MIT.
 
 ### How do I contribute? ###
-Contributing to DevEvents is very easy with the Github markdown editor (you are also welcome to use a standard PR process if you would prefer).
+Contributing to DevEvents is very easy with the GitHub markdown editor (you are also welcome to use a standard PR process if you would prefer).
 
-To submit a change using Github markdown editor do the following:
+To submit a change using GitHub markdown editor do the following:
 
-1. First click readme.md in the file list to open it in Github editor
+1. First click readme.md in the file list to open it in GitHub editor
 2. Click the Edit this file pencil icon (top right corner)
 3. Make your changes (check the rules below please)
 4. Select the Create a new branch for this commit and start a pull request option
