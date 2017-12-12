@@ -72,6 +72,7 @@ For content:
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02/08/2018 | 03/08/2018 | Web (more code)	|
 | [SheHacks](http://shehacks.com.au/) | NSW	| 13/08/2018 | 13/08/2018	| Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24/08/2018	| 26/08/2018 | Python |
+| [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17/09/2018	| 21/09/2018 | Various |
 | [Web Directions Design](http://www.webdirections.org/design/	) | VIC	| 12/04/2018 | 13/04/2018 | Web/Design|
 | [Web Directions AI](	http://www.webdirections.org/ai/) | NSW	| 07/11/2018	 | 07/11/2018 | AI |
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 08/11/2018 | 09/11/2018 | Web (front end/design)	|
