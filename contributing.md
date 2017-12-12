@@ -22,7 +22,7 @@ For content:
 
 - Note we are currently only interested in Australian based events and no earlier than 2016
 - The event should be of interest to the dev community (specialist and related topics are fine e.g. AI and agile)
-- Please add events in reverse chronological order
+- Please add events in chronological order within the relevant year
 - Check any links you are adding are correct
 - Ensure dates are in dd/mm/yyyy format (in case we want to parse this data later)
 - Ensure no additional spaces or formatting characters are present (this will make parsing easier later)
