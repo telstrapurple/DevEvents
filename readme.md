@@ -64,6 +64,7 @@ If you want to make an addition or fix up a mistake please consider contributing
 | [Dev World](http://www.devworld.com.au/	) | VIC	 | 28/08/2017 | 30/08/2017 | Various |
 | [AWS DevDay Brisbane](https://aws.amazon.com/devday/australia/	) | QLD	 | 05/09/2017 | 05/09/2017 | AWS |
 | [AWS DevDay Melbourne](https://aws.amazon.com/devday/australia/	) | VIC	 | 07/09/2017 | 05/09/2017 | AWS |
+| [OWASP AppSec AU Conference](https://www.meetup.com/en-AU/Application-Security-OWASP-Melbourne/events/241082215/	) | VIC	 | 09/09/2017 | 09/09/2017 | Security |
 | [DDD Perth](https://dddperth.com/) | WA | 16/09/2017 | 16/09/2017 | Various |
 | [NDC Sydney](https://ndcsydney.com/) | NSW | 17/09/2017 | 21/09/2017 | Various |
 | [Yow Connected](http://connected.yowconference.com.au/) | VIC | 21/09/2017 | 22/09/2017 | Mobile	|
