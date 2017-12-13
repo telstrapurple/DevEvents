@@ -1,8 +1,8 @@
-# Contributing #
+# Contributing
 
 You want to help? Great!! Here's what you need to know.
 
-### How do I contribute? ###
+### How do I contribute?
 
 Contributing to DevEvents is very easy with the GitHub markdown editor; you can do it all from your browser. (You are also welcome to use a standard PR process if you would prefer.)
 
