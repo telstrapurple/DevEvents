@@ -14,7 +14,6 @@ To submit a change using GitHub markdown editor, do the following:
 1. Use the _Preview Changes_ tab at the top to make sure everything still looks right
 1. Scroll to the _Propose file change_ section at the bottom
 1. Supply a basic description of your change in the first field (`Add Super Awesome Conf 2019`)
-1. Select the _Create a new branch for this commit and start a pull request_ option
 1. Hit the _Propose file change_ button
 1. After navigating to the next page, hit the _Create pull request_ button
 
