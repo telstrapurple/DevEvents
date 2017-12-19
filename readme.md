@@ -39,7 +39,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [AusCERT](https://conference.auscert.org.au/) | QLD | 29/05/2018 | 01/06/2018 | Security |
 | [IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC | 04/06/2018 | 04/06/2018 | IOT |
 | [Agile Australia](http://agileaustralia.com.au/2018/) | VIC | 18/06/2018 | 19/06/2018 | Agile |
-| [Angular Conf](https://www.angularconf.com.au/) | VIC	 | 21/06/2018 | 22/06/2018 | Angular |
+| [Angular Conf](https://www.angularconf.com.au/) | VIC | 21/06/2018 | 22/06/2018 | Angular |
 | [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01/08/2018 | 01/08/2018 | Team lead/culture |
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02/08/2018 | 03/08/2018 | Web (more code) |
 | [SheHacks](http://shehacks.com.au/) | NSW | 13/08/2018 | 13/08/2018 | Hackathon |
