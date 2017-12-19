@@ -12,7 +12,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 # The Events
 
-## 2018 
+## 2018
 
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
@@ -27,7 +27,6 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [TestWest](http://www.testwest.org/) | WA | 14/03/2018 | 14/03/2018 | Testing |
 | [CSSConf](https://2018.cssconf.com.au/) | VIC | 20/03/2018 | 20/03/2018 | CSS/Web |
 | [JSConf](http://2018.jsconfau.com/) | VIC | 21/03/2018 | 22/03/2018 | JS/Web |
-| [Angular Conf](https://www.angularconf.com.au/) | VIC | 21/03/2018 | 22/03/2018 | Angular |
 | [Devops Talks]() | VIC | 22/03/2018 | 23/03/2018 | Devops |
 | [Australian Cyber Security](https://acsc2018.com.au/) | ACT | 10/04/2018 | 12/04/2018 | Security |
 | [AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D) | NSW | 10/04/2018 | 12/04/2018 | AWS |
@@ -40,6 +39,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [AusCERT](https://conference.auscert.org.au/) | QLD | 29/05/2018 | 01/06/2018 | Security |
 | [IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC | 04/06/2018 | 04/06/2018 | IOT |
 | [Agile Australia](http://agileaustralia.com.au/2018/) | VIC | 18/06/2018 | 19/06/2018 | Agile |
+| [Angular Conf](https://www.angularconf.com.au/) | VIC | 21/06/2018 | 22/06/2018 | Angular |
 | [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01/08/2018 | 01/08/2018 | Team lead/culture |
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02/08/2018 | 03/08/2018 | Web (more code) |
 | [SheHacks](http://shehacks.com.au/) | NSW | 13/08/2018 | 13/08/2018 | Hackathon |
@@ -49,10 +49,10 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Web Directions AI](http://www.webdirections.org/ai/) | NSW | 07/11/2018 | 07/11/2018 | AI |
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW | 07/11/2018 | 07/11/2018 | Culture |
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 08/11/2018 | 09/11/2018 | Web (front end/design) |
-| [ACSWAofficial](https://www.acs.org.au/) | WA | TBC | TBC | Various | 
+| [ACSWAofficial](https://www.acs.org.au/) | WA | TBC | TBC | Various |
 | [Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC | TBC | Web accessibility |
 
-## 2017 
+## 2017
 
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
@@ -101,7 +101,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 07/12/2017 | 08/12/2017 | Various |
 | [TConf](https://tconf.io/) | VIC | 08/12/2017 | 08/12/2017 | Testing |
 
-## Pre-2017 
+## Pre-2017
 
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
