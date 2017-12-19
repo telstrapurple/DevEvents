@@ -38,6 +38,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Lambda Jam](http://lambdajam.yowconference.com.au/) | NSW | 21/05/2018 | 23/05/2018 | Functional Programming |
 | [AusCERT](https://conference.auscert.org.au/) | QLD | 29/05/2018 | 01/06/2018 | Security |
 | [IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC | 04/06/2018 | 04/06/2018 | IOT |
+| [Global DevOps Bootcamp](http://globaldevopsbootcamp.com/) | Multi | 16/06/2018 | 16/06/2018 | Devops |
 | [Agile Australia](http://agileaustralia.com.au/2018/) | VIC | 18/06/2018 | 19/06/2018 | Agile |
 | [Angular Conf](https://www.angularconf.com.au/) | VIC | 21/06/2018 | 22/06/2018 | Angular |
 | [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01/08/2018 | 01/08/2018 | Team lead/culture |
@@ -69,6 +70,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Australian Testing Days](https://www.australiantestingdays.com/) | VIC | 20/05/2017 | 21/05/2017 | Testing |
 | [AusCERT](https://www.auscert.org.au/events/2017-05-23-16th-annual-auscert-cyber-security-conf) | QLD | 23/05/2017 | 26/05/2017 | Security |
 | [SQL Saturday](http://sqlsaturday.com/) | QLD | 27/05/2017 | 27/05/2017 | SQL |
+| [Global DevOps Bootcamp](http://globaldevopsbootcamp.com/) | Multi | 17/06/2017 | 17/06/2017 | Devops |
 | [DDD Sydney](	http://2017.dddsydney.com.au/) | NSW | 15/07/2017 | 15/07/2017 | Various |
 | [Devops days](https://www.devopsdays.org/) | VIC | 16/07/2017 | 16/07/2017 | Devops |
 | [LAST Conf](https://www.lastconference.com/) | VIC | 29/07/2017 | 30/07/2017 | Agile, Lean, Product |
