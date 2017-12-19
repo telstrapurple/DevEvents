@@ -72,7 +72,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Sydney](	http://2017.dddsydney.com.au/) | NSW | 15/07/2017 | 15/07/2017 | Various |
 | [Devops days](https://www.devopsdays.org/) | VIC | 16/07/2017 | 16/07/2017 | Devops |
 | [LAST Conf](https://www.lastconference.com/) | VIC | 29/07/2017 | 30/07/2017 | Agile, Lean, Product |
-| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 12/8/2017 | 12/8/2017 | Various |
+| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 12/08/2017 | 12/08/2017 | Various |
 | [Dev World](http://www.devworld.com.au/) | VIC | 28/08/2017 | 30/08/2017 | Various |
 | [AWS DevDay Brisbane](https://aws.amazon.com/devday/australia/) | QLD | 05/09/2017 | 05/09/2017 | AWS |
 | [AWS DevDay Melbourne](https://aws.amazon.com/devday/australia/) | VIC | 07/09/2017 | 05/09/2017 | AWS |
@@ -94,7 +94,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Puppet Camp](https://puppet.com/community/events/camp/puppet-camp-melbourne-2017) | VIC | 17/11/2017 | 17/11/2017 | Puppet |
 | [Global Day of Code Retreat](http://coderetreat.org/) | VIC | 18/11/2017 | 18/11/2017 | Various|
 | [Write the docs](http://www.writethedocs.org/) | VIC | 24/11/2017 | 24/11/2017 | Technical Documentation |
-| [YoW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 30/11/2017 | 12/01/2017 | Agile, Lean, Product |
+| [YoW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 30/11/2017 | 01/12/2017 | Agile, Lean, Product |
 | [BuzzConf](https://buzzconf.io/) | VIC | 01/12/2017 | 03/12/2017 | Future Tech |
 | [DDD Brisbane](http://www.dddbrisbane.com/) | QLD | 02/12/2017 | 02/12/2017| Various |
 | [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 04/12/2017 | 05/12/2017 | Various |
