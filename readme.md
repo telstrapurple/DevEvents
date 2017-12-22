@@ -17,15 +17,17 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
 | [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/Tfe8WZSblg0) | NSW | 17/01/2018 | 19/01/2018 | Haskell |
+| [RailsGirls](http://railsgirls.com/melbourne.html) | VIC | 19/01/2018 | 20/01/2018 | Ruby on Rails |
 | [LinuxConf AU](https://linux.conf.au/) | NSW | 22/01/2018 | 23/01/2018 | Linux |
 | [Global Game Jam](https://globalgamejam.org/2018/jam-sites?title=&country=AU&locality=&field_site_address_administrative_area=)| Multi | 26/01/2018 | 28/01/2018 | GameDev, Hackaton |
 | [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/uRKzcbzwk2A) | VIC | 29/01/2018 | 31/01/2018 | Haskell |
 | [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/727xtX7sYgk) | QLD | 06/02/2018 | 09/02/2018 | Haskell |
-| [Agile Coach Camp](http://www.agilecoachcampaustralia.org/) | WA | 17/02/1018 | 17/02/2018 | Agile |
+| [Agile Coach Camp Perth](http://www.agilecoachcampaustralia.org/) | WA | 17/02/1018 | 17/02/2018 | Agile |
 | [CrikeyCon](https://www.crikeycon.com) | QLD | 24/02/1018 | 24/02/2018 | Security |
 | [1st Conference](https://www.eventbrite.com.au/e/1st-conference-2018-registration-39601332652?aff=es2) | VIC | 26/02/2018 | 27/02/2018 | Agile, Lean, Product |
 | [Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2) | VIC | 27/02/2018 | 27/02/2018 | Agile, Organisation etc |
 | [I Love APIs](https://apigee.com/api-management/#/mde-detail/1126) | NSW | 27/02/2018 | 27/02/2018 | APIs |
+| [Agile Coach Camp Melbourne](http://www.agilecoachcampaustralia.org/) | VIC | 03/03/2018 | 03/03/2018 | Agile |
 | [RubyConf](https://www.rubyconf.org.au/2018) | NSW | 08/03/2018 | 09/03/2018 | Ruby |
 | [TestWest](http://www.testwest.org/) | WA | 14/03/2018 | 14/03/2018 | Testing |
 | [CSSConf](https://2018.cssconf.com.au/) | VIC | 20/03/2018 | 20/03/2018 | CSS/Web |
