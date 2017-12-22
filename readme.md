@@ -17,7 +17,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | Event Name | State | Date From | Date To | Tags |
 | ---------- | ----- | --------- | ------- | ---- |
 | [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/Tfe8WZSblg0) | NSW | 17/01/2018 | 19/01/2018 | Haskell |
-| [RailsGirls](http://railsgirls.com/melbourne.html) | VIC | 17/01/2018 | 19/01/2018 | Ruby on Rails |
+| [RailsGirls](http://railsgirls.com/melbourne.html) | VIC | 19/01/2018 | 20/01/2018 | Ruby on Rails |
 | [LinuxConf AU](https://linux.conf.au/) | NSW | 22/01/2018 | 23/01/2018 | Linux |
 | [Global Game Jam](https://globalgamejam.org/2018/jam-sites?title=&country=AU&locality=&field_site_address_administrative_area=)| Multi | 26/01/2018 | 28/01/2018 | GameDev, Hackaton |
 | [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/uRKzcbzwk2A) | VIC | 29/01/2018 | 31/01/2018 | Haskell |
