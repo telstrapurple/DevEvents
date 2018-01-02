@@ -2,6 +2,8 @@
 
 We've collated a list of all the events in Australia that might be of interest to software developers. Technical content, leadership, software design, agility, and more.
 
+In addition [this page](https://github.com/Readify/DevEvents/blob/master/otherDevConfLists.md) links to other development conference lists we are aware of.
+
 ### FAQ
 
 Got a question? [The FAQ](https://github.com/Readify/DevEvents/blob/master/FAQ.md) probably has the answer you need.
@@ -32,7 +34,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [TestWest](http://www.testwest.org/) | WA | 14/03/2018 | 14/03/2018 | Testing |
 | [CSSConf](https://2018.cssconf.com.au/) | VIC | 20/03/2018 | 20/03/2018 | CSS/Web |
 | [JSConf](http://2018.jsconfau.com/) | VIC | 21/03/2018 | 22/03/2018 | JS/Web |
-| [Devops Talks]() | VIC | 22/03/2018 | 23/03/2018 | Devops |
+| [Devops Talks](https://www.eventbrite.com.au/e/devops-talks-conference-2018-22-23-march-melbourne-australia-tickets-34591493087) | VIC | 22/03/2018 | 23/03/2018 | Devops |
 | [Global Integration Bootcamp](https://www.globalintegrationbootcamp.com/) | Multi | 24/03/2018 | 24/03/2018 | Integration, APIs, Azure |
 | [Australian Cyber Security](https://acsc2018.com.au/) | ACT | 10/04/2018 | 12/04/2018 | Security |
 | [AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D) | NSW | 10/04/2018 | 12/04/2018 | AWS |
