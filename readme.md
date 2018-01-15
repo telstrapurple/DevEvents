@@ -39,6 +39,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Global Integration Bootcamp](https://www.globalintegrationbootcamp.com/) | Multi | 24/03/2018 | 24/03/2018 | Integration, APIs, Azure |
 | [Australian Cyber Security](https://acsc2018.com.au/) | ACT | 10/04/2018 | 12/04/2018 | Security |
 | [AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D) | NSW | 10/04/2018 | 12/04/2018 | AWS |
+| [Web Directions Design Leaders](http://www.webdirections.org/designleaders/) | VIC | 11/04/2018 | 11/04/2018 | Team lead/culture |
 | [Web Directions Design](http://www.webdirections.org/design/) | VIC | 12/04/2018 | 13/04/2018 | Web/Design |
 | [Global Azure Bootcamp](https://global.azurebootcamp.net/) | ALL | 21/04/2018 | 21/04/2018 | Azure |
 | [Voxx days](https://voxxeddays.com/melbourne/) | VIC | 02/05/2018 | 03/05/2018 | Various |
