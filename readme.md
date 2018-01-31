@@ -11,6 +11,7 @@ Feel free to submit a PR to update anything
 | Event Name | State | Tags |
 | ---------- | ----- | ---- |
 | [Fenders](http://www.fenders.co/) | WA | Front End |
+| [Junior Dev](https://bit.ly/JDSpeakers) | WA and VIC | |
 
 ## Events
 
@@ -75,4 +76,5 @@ Feel free to submit a PR to update anything
 | [DDD Sydney](http://dddsydney.com.au/) | NSW | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Brisbane](http://dddbrisbane.com/) | QLD | TBC |  | Sep-2018 | Oct-2018 |  |
+| [Levels Conf](http://www.levelsconf.com/) | VIC | TBC | | Mar-2018 | | |
 
