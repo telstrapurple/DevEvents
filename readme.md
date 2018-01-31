@@ -18,11 +18,12 @@ Feel free to submit a PR to update anything
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
 | [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/Tfe8WZSblg0) | NSW | 17-Jan-2018 | 19-Jan-2018 | | | Haskell |
 | [RailsGirls](http://railsgirls.com/melbourne.html) | VIC | 19-Jan-2018 | 20-Jan-2018 | | | Ruby on Rails |
-| [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/uRKzcbzwk2A) | VIC | 29-Jan-2018 | 31-Jan-2018 | | | Haskell |
-| [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/727xtX7sYgk) | QLD | 06-Feb-2018 | 09-Feb-2018 | | | Haskell |
 | [LinuxConf AU](https://linux.conf.au/) | NSW | 22-Jan-2018 | 23-Jan-2018 | | | Linux |
 | [Global Game Jam](https://globalgamejam.org/2018/jam-sites?title=&country=AU&locality=&field_site_address_administrative_area=)| Multi | 26-Jan-2018 | 28-Jan-2018 | | | GameDev, Hackaton |
+| [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/uRKzcbzwk2A) | VIC | 29-Jan-2018 | 31-Jan-2018 | | | Haskell |
 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/) | VIC, NSW and QLD | 03-Feb-2018 |  | | | Conference speaking workshop
+| [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/727xtX7sYgk) | QLD | 06-Feb-2018 | 09-Feb-2018 | | | Haskell |
+| [Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | 15-Feb-2018 |  | | |  Web accessibility |
 | [Agile Coach Camp Perth](http://www.agilecoachcampaustralia.org/) | WA | 17-Feb-2018 |  | | | Agile |
 | [CrikeyCon](https://www.crikeycon.com) | QLD | 24-Feb-2018 |  | | | Security |
 | [1st Conference](https://www.eventbrite.com.au/e/1st-conference-2018-registration-39601332652?aff=es2) | VIC | 26-Feb-2018 | 27-Feb-2018 | | | Agile, Lean, Product |
@@ -38,8 +39,8 @@ Feel free to submit a PR to update anything
 | [Global Integration Bootcamp](https://www.globalintegrationbootcamp.com/) | Multi | 24-Mar-2018 |  | | | Integration, APIs, Azure |
 | [Australian Cyber Security](https://acsc2018.com.au/) | ACT | 10-Apr-2018 | 12-Apr-2018 | | | Security |
 | [AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D) | NSW | 10-Apr-2018 | 12-Apr-2018 | | | AWS |
-| [Web Directions Design Leaders](http://www.webdirections.org/designleaders/) | VIC | 11-Apr-2018 | | 1-Dec-2017 | 2-Feb-2018 | Team lead/culture |
-| [Web Directions Design](http://www.webdirections.org/design/) | VIC | 12-Apr-2018 | 13-Apr-2018 | 1-Dec-2017 | 2-Feb-2018 | Web/Design |
+| [Web Directions Design Leaders](http://www.webdirections.org/designleaders/) | VIC | 11-Apr-2018 | | 1-Dec-2017 | 06-Feb-2018 | Team lead/culture |
+| [Web Directions Design](http://www.webdirections.org/design/) | VIC | 12-Apr-2018 | 13-Apr-2018 | 1-Dec-2017 | 06-Feb-2018 | Web/Design |
 | [Global Azure Bootcamp](https://global.azurebootcamp.net/) | ALL | 21-Apr-2018 |  | | | Azure |
 | [Voxx days](https://voxxeddays.com/melbourne/) | VIC | 02-May-2018 | 03-May-2018 | | | Various |
 | [SCRSYD](https://scrsyd.wordpress.com/) | NSW | 05-May-2018 | 07-May-2018 | | | Agile |
@@ -64,7 +65,6 @@ Feel free to submit a PR to update anything
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW | 07-Nov-2018 |  | | | Culture |
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 08-Nov-2018 | 09-Nov-2018 | 01-Dec-2017 | May 2018 | Web (front end/design) |
 | [ACSWAofficial](https://www.acs.org.au/) | WA | TBC |  | | |  Various |
-| [Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | 15-Feb-2018 |  | | |  Web accessibility |
 
 
 ## To Be Confirmed
