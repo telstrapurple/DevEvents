@@ -42,6 +42,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Web Directions Design Leaders](http://www.webdirections.org/designleaders/) | VIC | 11/04/2018 | 11/04/2018 | Team lead/culture |
 | [Web Directions Design](http://www.webdirections.org/design/) | VIC | 12/04/2018 | 13/04/2018 | Web/Design |
 | [Global Azure Bootcamp](https://global.azurebootcamp.net/) | ALL | 21/04/2018 | 21/04/2018 | Azure |
+| [NDC Security](https://ndcsecurity.com.au/) | QLD | 25/04/2018 | 27/04/2018 | Security |
 | [Voxx days](https://voxxeddays.com/melbourne/) | VIC | 02/05/2018 | 03/05/2018 | Various |
 | [SCRSYD](https://scrsyd.wordpress.com/) | NSW | 05/05/2018 | 07/05/2018 | Agile |
 | [YOW! Data](http://data.yowconference.com.au/) | NSW | 14/05/2018 | 15/05/2018 | Data |
