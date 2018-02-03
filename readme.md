@@ -25,7 +25,7 @@ Feel free to submit a PR to update anything
 | ~~[LinuxConf AU](https://linux.conf.au/)~~ | ~~NSW~~ | ~~22-Jan-2018~~ | ~~23-Jan-2018~~ | | | ~~Linux~~ |
 | ~~[Global Game Jam](https://globalgamejam.org/2018/jam-sites?title=&country=AU&locality=&field_site_address_administrative_area=)~~ | ~~Multi~~ | ~~26-Jan-2018~~ | ~~28-Jan-2018~~ | | | ~~GameDev, Hackaton~~ |
 | ~~[Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/uRKzcbzwk2A)~~ | ~~VIC~~ | ~~29-Jan-2018~~ | ~~31-Jan-2018~~ | | | ~~Haskell~~ |
-| ~~[Global Diversity CFP Day](https://www.globaldiversitycfpday.com/) | VIC, NSW and QLD | 03-Feb-2018 |  | | | Conference speaking workshop ~~|
+| ~~[Global Diversity CFP Day](https://www.globaldiversitycfpday.com/)~~ | ~~VIC, NSW and QLD~~ | ~~03-Feb-2018~~ |  | | | ~~Conference speaking workshop ~~|
 | [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/727xtX7sYgk) | QLD | 06-Feb-2018 | 09-Feb-2018 | | | Haskell |
 | [Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | 15-Feb-2018 |  | | |  Web accessibility |
 | [Agile Coach Camp Perth](http://www.agilecoachcampaustralia.org/) | WA | 17-Feb-2018 |  | | | Agile |
