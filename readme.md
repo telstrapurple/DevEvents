@@ -5,7 +5,7 @@ We borrowed a list of Dev Events from [Readify](https://github.com/Readify/DevEv
 Feel free to submit a PR to update anything
 
 # Honorable Mentions
-[Yow New Voices In Tech](https://docs.google.com/forms/d/e/1FAIpQLSerIV0DhzqM0-HminnHII7FJctSpj7W2g3LRRRAVLEPduRmNg/viewform) Closes Friday 18 May
+[YOW New Voices In Tech](https://docs.google.com/forms/d/e/1FAIpQLSerIV0DhzqM0-HminnHII7FJctSpj7W2g3LRRRAVLEPduRmNg/viewform) Closes Friday 18 May
 
 
 # 2018
