@@ -63,6 +63,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [YOW! Data](http://data.yowconference.com.au/) | NSW | 14-May-2018 | 15-May-2018 | Jan-2018 | 18-Mar-2018 | Data |
 | [Deconstruct](https://www.deconstructconf.com/) | Seattle, US | 21-May-2018 | 22-May-2018 | Jan-2018 | 9-Feb-2018 | Various | 
 | [Lambda Jam](http://lambdajam.yowconference.com.au/) | NSW | 21-May-2018 | 23-May-2018 | Jan-2018 | 18-Mar-2018 | Functional Programming |
+| [Container Camp](https://2018.container.camp/au/ | VIC | 23-May-2018 | 25-May-2018 | Jan-2018 | 9-Feb-2018 | Containers |
 | [AusCERT](https://conference.auscert.org.au/) | QLD | 29-May-2018 | 01-Jun-2018 | | | Security |
 | [IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC | 04-Jun-2018 |  | | | IOT |
 | [Global DevOps Bootcamp](http://globaldevopsbootcamp.com/) | Multi | 16-Jun-2018 |  | | | Devops |
