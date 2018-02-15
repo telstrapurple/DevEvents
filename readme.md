@@ -48,6 +48,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [RubyConf](https://www.rubyconf.org.au/2018) | NSW | 08-Mar-2018 | 09-Mar-2018 | | | Ruby |
 | [TestWest](http://www.testwest.org/) | WA | 14-Mar-2018 |  | | | Testing |
 | [CSSConf](https://2018.cssconf.com.au/) | VIC | 20-Mar-2018 |  | | | CSS/Web |
+| [MongoDB.Local](https://www.mongodb.com/local/sydney/) | NSW | 20-Mar-2018 |  | | | NoSQL/MongoDB |
 | [JSConf](http://2018.jsconfau.com/) | VIC | 21-Mar-2018 | 22-Mar-2018 | | | JS/Web |
 | [Devops Talks](https://www.eventbrite.com.au/e/devops-talks-conference-2018-22-23-march-melbourne-australia-tickets-34591493087) | VIC | 22-Mar-2018 | 23-Mar-2018 | | | Devops |
 | [Decompress](https://2018.decompress.com.au/) | VIC | 23-Mar-2018 | | | | | |
