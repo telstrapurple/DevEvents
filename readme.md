@@ -81,7 +81,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17-Sep-2018 | 21-Sep-2018 | | | Various |
 | [AISA Australian Cyber Conference](https://cyberconference.com.au) | VIC | 09-Oct-2018 | 11-Oct-2018 | | | Security |
 | [Test Bash Australia](https://www.ministryoftesting.com/2017/11/testbash-australia-throw-another-testbash-barbie/) | NSW | 19-Oct-2018 |  | | | Testing |
-| [Web Directions AI](http://www.webdirections.org/ai/) | NSW | 31-Nov-2018 | | | | AI |
+| [Web Directions AI](http://www.webdirections.org/ai/) | NSW | 31-Oct-2018 | | | | AI |
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW | 31-Oct-2018 |  | | | Culture |
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 01-Nov-2018 | 02-Nov-2018 | 01-Dec-2017 | May 2018 | Web (front end/design) |
 
