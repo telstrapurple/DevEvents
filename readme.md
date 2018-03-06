@@ -84,7 +84,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Web Directions AI](http://www.webdirections.org/ai/) | NSW | 31-Oct-2018 | | | | AI |
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW | 31-Oct-2018 |  | | | Culture |
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 01-Nov-2018 | 02-Nov-2018 | 01-Dec-2017 | May 2018 | Web (front end/design) |
-
+| [TConf 2018](https://www.eventbrite.com.au/e/tconf-2018-melbournes-own-software-testing-conference-tickets-39909638804?aff=es2) | VIC | 23-Nov-2018 | | | | Testing |
 
 
 ### To Be Confirmed
