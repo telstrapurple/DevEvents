@@ -37,16 +37,15 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[Global Game Jam](https://globalgamejam.org/2018/jam-sites?title=&country=AU&locality=&field_site_address_administrative_area=)~~ | ~~Multi~~ | ~~26-Jan-2018~~ | ~~28-Jan-2018~~ | | | ~~GameDev, Hackaton~~ |
 | ~~[Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/uRKzcbzwk2A)~~ | ~~VIC~~ | ~~29-Jan-2018~~ | ~~31-Jan-2018~~ | | | ~~Haskell~~ |
 | ~~[Global Diversity CFP Day](https://www.globaldiversitycfpday.com/)~~ | ~~VIC, NSW and QLD~~ | ~~03-Feb-2018~~ |  | | | ~~Conference speaking workshop~~|
-| [Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/727xtX7sYgk) | QLD | 06-Feb-2018 | 09-Feb-2018 | | | Haskell |
-| [Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | 15-Feb-2018 |  | | |  Web accessibility |
-| [Agile Coach Camp Perth](http://www.agilecoachcampaustralia.org/) | WA | 17-Feb-2018 |  | | | Agile |
-| [CrikeyCon](https://www.crikeycon.com) | QLD | 24-Feb-2018 |  | | | Security |
-| [1st Conference](https://www.eventbrite.com.au/e/1st-conference-2018-registration-39601332652?aff=es2) | VIC | 26-Feb-2018 | 27-Feb-2018 | | | Agile, Lean, Product |
-| [Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2) | VIC | 27-Feb-2018 |  | | | Agile, Organisation etc |
-| [I Love APIs](https://apigee.com/api-management/#/mde-detail/1126) | NSW | 27-Feb-2018 |  | | | APIs |
-| [Agile Coach Camp Melbourne](http://www.agilecoachcampaustralia.org/) | VIC | 03-Mar-2018 |  | | | Agile |
-| [RubyConf](https://www.rubyconf.org.au/2018) | NSW | 08-Mar-2018 | 09-Mar-2018 | | | Ruby |
-| [TestWest](http://www.testwest.org/) | WA | 14-Mar-2018 |  | | | Testing |
+| ~~[Functional Programming Workshop by CSIRO/Data61](https://groups.google.com/forum/#!topic/nicta-fp/727xtX7sYgk)~~ | ~~QLD~~ | ~~06-Feb-2018~~ | ~~09-Feb-2018~~ | | | ~~Haskell~~ |
+| ~~[Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/)~~ | ~~WA~~ | ~~15-Feb-2018~~ |  | | |  ~~Web accessibility~~ |
+| ~~[Agile Coach Camp Perth](http://www.agilecoachcampaustralia.org/)~~ | ~~WA~~ | ~~17-Feb-2018~~ |  | | | ~~Agile~~ |
+| ~~[CrikeyCon](https://www.crikeycon.com)~~ | ~~QLD~~ | ~~24-Feb-2018~~ |  | | | ~~Security~~ | ~~Agile, Lean, Product~~ |
+| ~~[Enterprise Platform Goverance](https://www.eventbrite.com/e/enterprise-platform-governance-atlassian-and-you-tickets-40172883175?aff=es2)~~ | ~~VIC~~ | ~~27-Feb-2018~~ |  | | | ~~Agile, Organisation etc~~ |
+| ~~[I Love APIs](https://apigee.com/api-management/#/mde-detail/1126)~~ | ~~NSW~~ | ~~27-Feb-2018~~ |  | | | ~~APIs~~ |
+| ~~[Agile Coach Camp Melbourne](http://www.agilecoachcampaustralia.org/)~~ | ~~VIC~~ | ~~03-Mar-2018~~ |  | | | ~~Agile~~ |
+| ~~[RubyConf](https://www.rubyconf.org.au/2018)~~ | ~~NSW~~ | ~~08-Mar-2018~~ | ~~09-Mar-2018~~ | | | ~~Ruby~~ |
+| ~~[TestWest](http://www.testwest.org/)~~ | ~~WA~~ | ~~14-Mar-2018~~ |  | | | ~~Testing~~ |
 | [CSSConf](https://2018.cssconf.com.au/) | VIC | 20-Mar-2018 |  | | | CSS/Web |
 | [MongoDB.Local](https://www.mongodb.com/local/sydney/) | NSW | 20-Mar-2018 |  | | | NoSQL/MongoDB |
 | [JSConf](http://2018.jsconfau.com/) | VIC | 21-Mar-2018 | 22-Mar-2018 | | | JS/Web |
@@ -95,7 +94,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Sydney](http://dddsydney.com.au/) | NSW | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Brisbane](http://dddbrisbane.com/) | QLD | TBC |  | Sep-2018 | Oct-2018 |  |
-| [Levels Conf](http://www.levelsconf.com/) | VIC | TBC | | Mar-2018 | | |
+| [Levels Conf](http://www.levelsconf.com/) | VIC | 07-Jun-2018 | | 15-Mar-2018 | 24-Apr-2018 | |
 | [ACSWAofficial](https://www.acs.org.au/) | WA | TBC |  | | |  Various |
 | [Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC | TBC | Web accessibility |
 
