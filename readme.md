@@ -66,6 +66,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Container Camp](https://2018.container.camp/au/) | VIC | 23-May-2018 | 25-May-2018 | ~~Jan-2018~~ | ~~9-Feb-2018~~ | Containers |
 | [AusCERT](https://conference.auscert.org.au/) | QLD | 29-May-2018 | 01-Jun-2018 | | | Security |
 | [IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC | 04-Jun-2018 |  | | | IOT |
+| [Levels Conf](http://www.levelsconf.com/) | VIC | 07-Jun-2018 | | 15-Mar-2018 | 24-Apr-2018 | |
 | [Global DevOps Bootcamp](http://globaldevopsbootcamp.com/) | Multi | 16-Jun-2018 |  | | | Devops |
 | [Agile Australia - conference](http://agileaustralia.com.au/2018/) | VIC | 18-Jun-2018 | 19-Jun-2018 | | | Agile |
 | [Agile Australia - workshops](http://agileaustralia.com.au/2018/) | VIC | 20-Jun-2018 |  | | | Agile |
@@ -76,14 +77,19 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [CampJS](http://ix.campjs.com/) | QLD | 10-Aug-2018 | 13-Aug-2018 | 03-Feb-2018 | 29-Apr-2018 | Javascript |
 | [SheHacks](http://shehacks.com.au/) | NSW | 13-Aug-2018 |  | | | Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24-Aug-2018 | 26-Aug-2018 | | | Python |
-| [YOW! West](http://west.yowconference.com.au/) | WA | 05-Sep-2018 | 06-Sep-2018 | | | Various |
+| [YOW! Perth](http://west.yowconference.com.au/) | WA | 05-Sep-2018 | 06-Sep-2018 | | | Various |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17-Sep-2018 | 21-Sep-2018 | | | Various |
+| [YOW! Connected](http://connected.yowconference.com.au/) | VIC | 17-Sep-2018 | 18-Sep-2018 |  |  | IOT |
+| [Business Agility Conference](http://businessagility.yowconference.com.au/) | NSW | 24-Sep-2018 | 25-Sep-2018 | Feb-2018 | 31-May-2018 | Agile |
 | [AISA Australian Cyber Conference](https://cyberconference.com.au) | VIC | 09-Oct-2018 | 11-Oct-2018 | | | Security |
 | [Test Bash Australia](https://www.ministryoftesting.com/2017/11/testbash-australia-throw-another-testbash-barbie/) | NSW | 19-Oct-2018 |  | | | Testing |
 | [Web Directions AI](http://www.webdirections.org/ai/) | NSW | 31-Oct-2018 | | | | AI |
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW | 31-Oct-2018 |  | | | Culture |
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 01-Nov-2018 | 02-Nov-2018 | 01-Dec-2017 | May 2018 | Web (front end/design) |
 | [TConf 2018](https://www.eventbrite.com.au/e/tconf-2018-melbournes-own-software-testing-conference-tickets-39909638804?aff=es2) | VIC | 23-Nov-2018 | | | | Testing |
+| [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 29-Nov-2018 | 30-Nov-2018 |  |  | Various |
+| [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 03-Dec-2018 | 04-Dec-2018 |  |  | Various |
+| [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 06-Dec-2018 | 07-Dec-2018 |  |  | Various |
 
 
 ### To Be Confirmed
@@ -94,9 +100,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Sydney](http://dddsydney.com.au/) | NSW | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Brisbane](http://dddbrisbane.com/) | QLD | TBC |  | Sep-2018 | Oct-2018 |  |
-| [Levels Conf](http://www.levelsconf.com/) | VIC | 07-Jun-2018 | | 15-Mar-2018 | 24-Apr-2018 | |
 | [ACSWAofficial](https://www.acs.org.au/) | WA | TBC |  | | |  Various |
-| [Perth Web Accessibility Camp](https://www.facebook.com/PerthWebAccessibilityCamp/) | WA | TBC | TBC | Web accessibility |
 
 ## 2017
 
