@@ -61,7 +61,6 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Voxx days](https://voxxeddays.com/melbourne/) | VIC | 02-May-2018 | 03-May-2018 | | | Various |
 | [SCRSYD](https://scrsyd.wordpress.com/) | NSW | 05-May-2018 | 07-May-2018 | | | Agile |
 | [YOW! Data](http://data.yowconference.com.au/) | NSW | 14-May-2018 | 15-May-2018 | Jan-2018 | 18-Mar-2018 | Data |
-| [Deconstruct](https://www.deconstructconf.com/) | Seattle, US | 21-May-2018 | 22-May-2018 | ~~Jan-2018~~ | ~~9-Feb-2018~~ | Various |
 | [Lambda Jam](http://lambdajam.yowconference.com.au/) | NSW | 21-May-2018 | 23-May-2018 | Jan-2018 | 18-Mar-2018 | Functional Programming |
 | [Container Camp](https://2018.container.camp/au/) | VIC | 23-May-2018 | 25-May-2018 | ~~Jan-2018~~ | ~~9-Feb-2018~~ | Containers |
 | [AusCERT](https://conference.auscert.org.au/) | QLD | 29-May-2018 | 01-Jun-2018 | | | Security |
