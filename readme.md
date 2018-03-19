@@ -73,6 +73,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Angular Conf](https://www.angularconf.com.au/) | VIC | 21-Jun-2018 | 22-Jun-2018 | | | Angular |
 | [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01-Aug-2018 |  | 1-Dec-2017 | 27-Apr-2018 | Team lead/culture |
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02-Aug-2018 | 03-Aug-2018 | 1-Dec-2017 | 27-Apr-2018 | Web (more code) |
+| [DDD Perth](https://dddperth.com/) | WA | 04-Aug-2018 |  | 30-Apr-2018 | 03-Jun-2018 | Everything! |
 | [CampJS](http://ix.campjs.com/) | QLD | 10-Aug-2018 | 13-Aug-2018 | 03-Feb-2018 | 29-Apr-2018 | Javascript |
 | [SheHacks](http://shehacks.com.au/) | NSW | 13-Aug-2018 |  | | | Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24-Aug-2018 | 26-Aug-2018 | | | Python |
@@ -95,7 +96,6 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
-| [DDD Perth](https://dddperth.com/) | WA | TBC |  | Jun-2018 | Aug-2018 |  |
 | [DDD Sydney](http://dddsydney.com.au/) | NSW | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Brisbane](http://dddbrisbane.com/) | QLD | TBC |  | Sep-2018 | Oct-2018 |  |
