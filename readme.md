@@ -51,7 +51,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[JSConf](http://2018.jsconfau.com/)~~ | ~~VIC~~ | ~~21-Mar-2018~~ | ~~22-Mar-2018~~ | | | ~~JS/Web~~ |
 | ~~[Devops Talks](https://www.eventbrite.com.au/e/devops-talks-conference-2018-22-23-march-melbourne-australia-tickets-34591493087)~~ | ~~VIC~~ | ~~22-Mar-2018~~ | ~~23-Mar-2018~~ | | | ~~Devops~~ |
 | ~~[Decompress](https://2018.decompress.com.au/)~~ | ~~VIC~~ | ~~23-Mar-2018~~ | | | | | ~~CCS/JS/WebJS/Web~~ |
-| [Global Integration Bootcamp](https://www.globalintegrationbootcamp.com/) | Multi | 24-Mar-2018 |  | | | Integration, APIs, Azure |
+| ~~[Global Integration Bootcamp](https://www.globalintegrationbootcamp.com/)~~ | ~~Multi~~ | ~~24-Mar-2018~~ |  | | | ~~Integration, APIs, Azure~~ |
 | [Australian Cyber Security](https://acsc2018.com.au/) | ACT | 10-Apr-2018 | 12-Apr-2018 | | | Security |
 | [AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D) | NSW | 10-Apr-2018 | 12-Apr-2018 | | | AWS |
 | [Web Directions Design Leaders](http://www.webdirections.org/designleaders/) | VIC | 11-Apr-2018 | | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | Team lead/culture |
