@@ -65,12 +65,12 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Container Camp](https://2018.container.camp/au/) | VIC | 23-May-2018 | 25-May-2018 | ~~Jan-2018~~ | ~~9-Feb-2018~~ | Containers |
 | [AusCERT](https://conference.auscert.org.au/) | QLD | 29-May-2018 | 01-Jun-2018 | | | Security |
 | [IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC | 04-Jun-2018 |  | | | IOT |
-| [Levels Conf](http://www.levelsconf.com/) | VIC | 07-Jun-2018 | | 15-Mar-2018 | 24-Apr-2018 | |
 | [Global DevOps Bootcamp](http://globaldevopsbootcamp.com/) | Multi | 16-Jun-2018 |  | | | Devops |
 | [Agile Australia - conference](http://agileaustralia.com.au/2018/) | VIC | 18-Jun-2018 | 19-Jun-2018 | | | Agile |
 | [Agile Australia - workshops](http://agileaustralia.com.au/2018/) | VIC | 20-Jun-2018 |  | | | Agile |
 | [Agile Australia - workshops](http://agileaustralia.com.au/2018/) | NSW | 22-Jun-2018 |  | | | Agile |
 | [Angular Conf](https://www.angularconf.com.au/) | VIC | 21-Jun-2018 | 22-Jun-2018 | | | Angular |
+| [Levels Conf](http://www.levelsconf.com/) | VIC | 07-Jul-2018 | | 15-Mar-2018 | 24-Apr-2018 | |
 | [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01-Aug-2018 |  | 1-Dec-2017 | 27-Apr-2018 | Team lead/culture |
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02-Aug-2018 | 03-Aug-2018 | 1-Dec-2017 | 27-Apr-2018 | Web (more code) |
 | [DDD Perth](https://dddperth.com/) | WA | 04-Aug-2018 |  | 30-Apr-2018 | 03-Jun-2018 | Everything! |
