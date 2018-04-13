@@ -78,6 +78,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [SheHacks](http://shehacks.com.au/) | NSW | 13-Aug-2018 |  | | | Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24-Aug-2018 | 26-Aug-2018 | | | Python |
 | [YOW! Perth](http://west.yowconference.com.au/) | WA | 05-Sep-2018 | 06-Sep-2018 | | | Various |
+| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 15-Sep-2018 | | | | All the things |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17-Sep-2018 | 21-Sep-2018 | | | Various |
 | [YOW! Connected](http://connected.yowconference.com.au/) | VIC | 17-Sep-2018 | 18-Sep-2018 |  |  | IOT |
 | [Business Agility Conference](http://businessagility.yowconference.com.au/) | NSW | 24-Sep-2018 | 25-Sep-2018 | Feb-2018 | 31-May-2018 | Agile |
