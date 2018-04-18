@@ -77,9 +77,10 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Perth](https://dddperth.com/) | WA | 04-Aug-2018 |  | 30-Apr-2018 | 03-Jun-2018 | Everything! |
 | [CampJS](http://ix.campjs.com/) | QLD | 10-Aug-2018 | 13-Aug-2018 | 03-Feb-2018 | 29-Apr-2018 | Javascript |
 | [SheHacks](http://shehacks.com.au/) | NSW | 13-Aug-2018 |  | | | Hackathon |
+| [DDD Sydney](https://next.dddsydney.com.au/) | NSW | 18-Aug-2018 |  | 30-Apr-2018 | 3-Jun-2018 | All the things |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24-Aug-2018 | 26-Aug-2018 | | | Python |
 | [YOW! Perth](http://west.yowconference.com.au/) | WA | 05-Sep-2018 | 06-Sep-2018 | | | Various |
-| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 15-Sep-2018 | | | | All the things |
+| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 15-Sep-2018 | | 27-Apr-2018 | 19-Jun-2018 | All the things |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17-Sep-2018 | 21-Sep-2018 | | | Various |
 | [YOW! Connected](http://connected.yowconference.com.au/) | VIC | 17-Sep-2018 | 18-Sep-2018 |  |  | IOT |
 | [Business Agility Conference](http://businessagility.yowconference.com.au/) | NSW | 24-Sep-2018 | 25-Sep-2018 | Feb-2018 | 31-May-2018 | Agile |
@@ -98,8 +99,6 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
-| [DDD Sydney](http://dddsydney.com.au/) | NSW | TBC |  | May-2018 | Jun-2018 |  |
-| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Brisbane](http://dddbrisbane.com/) | QLD | TBC |  | Sep-2018 | Oct-2018 |  |
 | [ACSWAofficial](https://www.acs.org.au/) | WA | TBC |  | | |  Various |
 
