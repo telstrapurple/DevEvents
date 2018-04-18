@@ -74,6 +74,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01-Aug-2018 |  | 1-Dec-2017 | 27-Apr-2018 | Team lead/culture |
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02-Aug-2018 | 03-Aug-2018 | 1-Dec-2017 | 27-Apr-2018 | Web (more code) |
 | [DDD Perth](https://dddperth.com/) | WA | 04-Aug-2018 |  | 30-Apr-2018 | 03-Jun-2018 | Everything! |
+| [SQL Saturday Melbourne](http://www.sqlsaturday.com/769/eventhome.aspx) | VIC | 30-Jun-2018 |  | 01-Mar-2018 | 20-May-2018 | Everything Data Platform |
 | [CampJS](http://ix.campjs.com/) | QLD | 10-Aug-2018 | 13-Aug-2018 | 03-Feb-2018 | 29-Apr-2018 | Javascript |
 | [SheHacks](http://shehacks.com.au/) | NSW | 13-Aug-2018 |  | | | Hackathon |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24-Aug-2018 | 26-Aug-2018 | | | Python |
