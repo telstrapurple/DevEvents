@@ -52,13 +52,13 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[Devops Talks](https://www.eventbrite.com.au/e/devops-talks-conference-2018-22-23-march-melbourne-australia-tickets-34591493087)~~ | ~~VIC~~ | ~~22-Mar-2018~~ | ~~23-Mar-2018~~ | | | ~~Devops~~ |
 | ~~[Decompress](https://2018.decompress.com.au/)~~ | ~~VIC~~ | ~~23-Mar-2018~~ | | | | | ~~CCS/JS/WebJS/Web~~ |
 | ~~[Global Integration Bootcamp](https://www.globalintegrationbootcamp.com/)~~ | ~~Multi~~ | ~~24-Mar-2018~~ |  | | | ~~Integration, APIs, Azure~~ |
-| [Australian Cyber Security](https://acsc2018.com.au/) | ACT | 10-Apr-2018 | 12-Apr-2018 | | | Security |
-| [AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D) | NSW | 10-Apr-2018 | 12-Apr-2018 | | | AWS |
-| [Web Directions Design Leaders](http://www.webdirections.org/designleaders/) | VIC | 11-Apr-2018 | | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | Team lead/culture |
-| [Web Directions Design](http://www.webdirections.org/design/) | VIC | 12-Apr-2018 | 13-Apr-2018 | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | Web/Design |
+| ~~[Australian Cyber Security](https://acsc2018.com.au/)~~ | ~~ACT~~ | ~~10-Apr-2018~~ | ~~12-Apr-2018~~ | | | ~~Security~~ |
+| ~~[AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D)~~ | ~~NSW~~ | ~~10-Apr-2018~~ | ~~12-Apr-2018~~ | | | ~~AWS~~ |
+| ~~[Web Directions Design Leaders](http://www.webdirections.org/designleaders/)~~ | ~~VIC~~ | ~~11-Apr-2018~~ | | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Team lead/culture~~ |
+| ~~[Web Directions Design](http://www.webdirections.org/design/)~~ | ~~VIC~~ | ~~12-Apr-2018~~ | ~~13-Apr-2018~~ | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Web/Design~~ |
 | [Global Azure Bootcamp](https://global.azurebootcamp.net/) | ALL | 21-Apr-2018 |  | | | Azure |
 | [NDC Security](https://ndcsecurity.com.au/) | QLD | 25-Apr-2018 | 27-Apr-2018 | | | Security |
-| [Voxx days](https://voxxeddays.com/melbourne/) | VIC | 02-May-2018 | 03-May-2018 | | | Various |
+| [Voxxed Days](https://voxxeddays.com/melbourne/) | VIC | 02-May-2018 | 03-May-2018 | | | Various |
 | [SCRSYD](https://scrsyd.wordpress.com/) | NSW | 05-May-2018 | 07-May-2018 | | | Agile |
 | [YOW! Data](http://data.yowconference.com.au/) | NSW | 14-May-2018 | 15-May-2018 | Jan-2018 | 18-Mar-2018 | Data |
 | [Lambda Jam](http://lambdajam.yowconference.com.au/) | NSW | 21-May-2018 | 23-May-2018 | Jan-2018 | 18-Mar-2018 | Functional Programming |
@@ -77,9 +77,10 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Perth](https://dddperth.com/) | WA | 04-Aug-2018 |  | 30-Apr-2018 | 03-Jun-2018 | Everything! |
 | [CampJS](http://ix.campjs.com/) | QLD | 10-Aug-2018 | 13-Aug-2018 | 03-Feb-2018 | 29-Apr-2018 | Javascript |
 | [SheHacks](http://shehacks.com.au/) | NSW | 13-Aug-2018 |  | | | Hackathon |
+| [DDD Sydney](https://next.dddsydney.com.au/) | NSW | 18-Aug-2018 |  | 30-Apr-2018 | 3-Jun-2018 | All the things |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24-Aug-2018 | 26-Aug-2018 | | | Python |
 | [YOW! Perth](http://west.yowconference.com.au/) | WA | 05-Sep-2018 | 06-Sep-2018 | | | Various |
-| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 15-Sep-2018 | | | | All the things |
+| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 15-Sep-2018 | | 27-Apr-2018 | 19-Jun-2018 | All the things |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17-Sep-2018 | 21-Sep-2018 | | | Various |
 | [YOW! Connected](http://connected.yowconference.com.au/) | VIC | 17-Sep-2018 | 18-Sep-2018 |  |  | IOT |
 | [Business Agility Conference](http://businessagility.yowconference.com.au/) | NSW | 24-Sep-2018 | 25-Sep-2018 | Feb-2018 | 31-May-2018 | Agile |
@@ -98,8 +99,6 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
-| [DDD Sydney](http://dddsydney.com.au/) | NSW | TBC |  | May-2018 | Jun-2018 |  |
-| [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | TBC |  | May-2018 | Jun-2018 |  |
 | [DDD Brisbane](http://dddbrisbane.com/) | QLD | TBC |  | Sep-2018 | Oct-2018 |  |
 | [ACSWAofficial](https://www.acs.org.au/) | WA | TBC |  | | |  Various |
 
