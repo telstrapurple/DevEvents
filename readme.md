@@ -70,6 +70,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Agile Australia - workshops](http://agileaustralia.com.au/2018/) | VIC | 20-Jun-2018 |  | | | Agile |
 | [Agile Australia - workshops](http://agileaustralia.com.au/2018/) | NSW | 22-Jun-2018 |  | | | Agile |
 | [Angular Conf](https://www.angularconf.com.au/) | VIC | 21-Jun-2018 | 22-Jun-2018 | | | Angular |
+| [SQL Saturday Melbourne](http://www.sqlsaturday.com/769/eventhome.aspx) | VIC | 30-Jun-2018 |  | 01-Mar-2018 | 20-May-2018 | Everything Data Platform |
 | [Levels Conf](http://www.levelsconf.com/) | VIC | 07-Jul-2018 | | 15-Mar-2018 | 24-Apr-2018 | |
 | [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01-Aug-2018 |  | 1-Dec-2017 | 27-Apr-2018 | Team lead/culture |
 | [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02-Aug-2018 | 03-Aug-2018 | 1-Dec-2017 | 27-Apr-2018 | Web (more code) |
