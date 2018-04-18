@@ -58,7 +58,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[Web Directions Design](http://www.webdirections.org/design/)~~ | ~~VIC~~ | ~~12-Apr-2018~~ | ~~13-Apr-2018~~ | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Web/Design~~ |
 | [Global Azure Bootcamp](https://global.azurebootcamp.net/) | ALL | 21-Apr-2018 |  | | | Azure |
 | [NDC Security](https://ndcsecurity.com.au/) | QLD | 25-Apr-2018 | 27-Apr-2018 | | | Security |
-| [Voxx days](https://voxxeddays.com/melbourne/) | VIC | 02-May-2018 | 03-May-2018 | | | Various |
+| [Voxxed Days](https://voxxeddays.com/melbourne/) | VIC | 02-May-2018 | 03-May-2018 | | | Various |
 | [SCRSYD](https://scrsyd.wordpress.com/) | NSW | 05-May-2018 | 07-May-2018 | | | Agile |
 | [YOW! Data](http://data.yowconference.com.au/) | NSW | 14-May-2018 | 15-May-2018 | Jan-2018 | 18-Mar-2018 | Data |
 | [Lambda Jam](http://lambdajam.yowconference.com.au/) | NSW | 21-May-2018 | 23-May-2018 | Jan-2018 | 18-Mar-2018 | Functional Programming |
