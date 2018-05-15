@@ -56,11 +56,12 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D)~~ | ~~NSW~~ | ~~10-Apr-2018~~ | ~~12-Apr-2018~~ | | | ~~AWS~~ |
 | ~~[Web Directions Design Leaders](http://www.webdirections.org/designleaders/)~~ | ~~VIC~~ | ~~11-Apr-2018~~ | | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Team lead/culture~~ |
 | ~~[Web Directions Design](http://www.webdirections.org/design/)~~ | ~~VIC~~ | ~~12-Apr-2018~~ | ~~13-Apr-2018~~ | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Web/Design~~ |
-| [Global Azure Bootcamp](https://global.azurebootcamp.net/) | ALL | 21-Apr-2018 |  | | | Azure |
-| [NDC Security](https://ndcsecurity.com.au/) | QLD | 25-Apr-2018 | 27-Apr-2018 | | | Security |
-| [Voxxed Days](https://voxxeddays.com/melbourne/) | VIC | 02-May-2018 | 03-May-2018 | | | Various |
-| [SCRSYD](https://scrsyd.wordpress.com/) | NSW | 05-May-2018 | 07-May-2018 | | | Agile |
-| [YOW! Data](http://data.yowconference.com.au/) | NSW | 14-May-2018 | 15-May-2018 | Jan-2018 | 18-Mar-2018 | Data |
+| ~~[Global Azure Bootcamp](https://global.azurebootcamp.net/)~~ | ~~ALL~~ | ~~21-Apr-2018~~ |  | | | ~~Azure~~ |
+| ~~[NDC Security](https://ndcsecurity.com.au/)~~ | ~~QLD~~ | ~~25-Apr-2018~~ | ~~27-Apr-2018~~ | | | ~~Security~~ |
+| ~~[Voxxed Days](https://voxxeddays.com/melbourne/)~~ | ~~VIC~~ | ~~02-May-2018~~ | ~~03-May-2018~~ | | | ~~Various~~ |
+| ~~[SCRSYD](https://scrsyd.wordpress.com/)~~ | ~~NSW~~ | ~~05-May-2018~~ | ~~07-May-2018~~ | | | ~~Agile~~ |
+| ~~[YOW! Data](http://data.yowconference.com.au/)~~ | ~~NSW~~ | ~~14-May-2018~~ | ~~15-May-2018~~ | ~~Jan-2018~~ | ~~18-Mar-2018~~ | ~~Data~~ |
+| [a11y Bytes](http://a11ybytes.org/) | NSW/VIC/WA | 17-May-2018 | 17-May-2018 |  |  | Accessibility |
 | [Lambda Jam](http://lambdajam.yowconference.com.au/) | NSW | 21-May-2018 | 23-May-2018 | Jan-2018 | 18-Mar-2018 | Functional Programming |
 | [Container Camp](https://2018.container.camp/au/) | VIC | 23-May-2018 | 25-May-2018 | ~~Jan-2018~~ | ~~9-Feb-2018~~ | Containers |
 | [AusCERT](https://conference.auscert.org.au/) | QLD | 29-May-2018 | 01-Jun-2018 | | | Security |
