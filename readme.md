@@ -86,6 +86,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [YOW! Connected](http://connected.yowconference.com.au/) | VIC | 17-Sep-2018 | 18-Sep-2018 |  |  | IOT |
 | [Business Agility Conference](http://businessagility.yowconference.com.au/) | NSW | 24-Sep-2018 | 25-Sep-2018 | Feb-2018 | 31-May-2018 | Agile |
 | [AISA Australian Cyber Conference](https://cyberconference.com.au) | VIC | 09-Oct-2018 | 11-Oct-2018 | | | Security |
+| [OWASP AppSec Day](https://appsecday.io/) | VIC | 19-Oct-2018 | 19-Oct-2018 | | | Security |
 | [Test Bash Australia](https://www.ministryoftesting.com/2017/11/testbash-australia-throw-another-testbash-barbie/) | NSW | 19-Oct-2018 |  | | | Testing |
 | [Web Directions AI](http://www.webdirections.org/ai/) | NSW | 31-Oct-2018 | | | | AI |
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW | 31-Oct-2018 |  | | | Culture |
