@@ -61,11 +61,11 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[Voxxed Days](https://voxxeddays.com/melbourne/)~~ | ~~VIC~~ | ~~02-May-2018~~ | ~~03-May-2018~~ | | | ~~Various~~ |
 | ~~[SCRSYD](https://scrsyd.wordpress.com/)~~ | ~~NSW~~ | ~~05-May-2018~~ | ~~07-May-2018~~ | | | ~~Agile~~ |
 | ~~[YOW! Data](http://data.yowconference.com.au/)~~ | ~~NSW~~ | ~~14-May-2018~~ | ~~15-May-2018~~ | ~~Jan-2018~~ | ~~18-Mar-2018~~ | ~~Data~~ |
-| [a11y Bytes](http://a11ybytes.org/) | NSW/VIC/WA | 17-May-2018 | 17-May-2018 |  |  | Accessibility |
-| [Lambda Jam](http://lambdajam.yowconference.com.au/) | NSW | 21-May-2018 | 23-May-2018 | Jan-2018 | 18-Mar-2018 | Functional Programming |
-| [Container Camp](https://2018.container.camp/au/) | VIC | 23-May-2018 | 25-May-2018 | ~~Jan-2018~~ | ~~9-Feb-2018~~ | Containers |
-| [AusCERT](https://conference.auscert.org.au/) | QLD | 29-May-2018 | 01-Jun-2018 | | | Security |
-| [IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2) | VIC | 04-Jun-2018 |  | | | IOT |
+| ~~[a11y Bytes](http://a11ybytes.org/)~~ | ~~NSW/VIC/WA~~ | ~~17-May-2018~~ | ~~17-May-2018~~ |  |  | ~~Accessibility~~ |
+| ~~[Lambda Jam](http://lambdajam.yowconference.com.au/)~~ | ~~NSW~~ | ~~21-May-2018~~ | ~~23-May-2018~~ | ~~Jan-2018~~ | ~~18-Mar-2018~~ | ~~Functional Programming~~ |
+| ~~[Container Camp](https://2018.container.camp/au/)~~ | ~~VIC~~ | ~~23-May-2018~~ | ~~25-May-2018~~ | ~~Jan-2018~~ | ~~9-Feb-2018~~ | ~~Containers~~ |
+| ~~[AusCERT](https://conference.auscert.org.au/)~~ | ~~QLD~~ | ~~29-May-2018~~ | ~~01-Jun-2018~~ | | | ~~Security~~ |
+| ~~[IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2)~~ | ~~VIC~~ | ~~04-Jun-2018~~ |  | | | ~~IOT~~ |
 | [Global DevOps Bootcamp](http://globaldevopsbootcamp.com/) | Multi | 16-Jun-2018 |  | | | Devops |
 | [Agile Australia - conference](http://agileaustralia.com.au/2018/) | VIC | 18-Jun-2018 | 19-Jun-2018 | | | Agile |
 | [Agile Australia - workshops](http://agileaustralia.com.au/2018/) | VIC | 20-Jun-2018 |  | | | Agile |
