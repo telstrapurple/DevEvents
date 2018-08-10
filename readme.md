@@ -87,7 +87,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17-Sep-2018 | 21-Sep-2018 | | | Various |
 | [YOW! Connected](http://connected.yowconference.com.au/) | VIC | 17-Sep-2018 | 18-Sep-2018 |  |  | IOT |
 | [Business Agility Conference](http://businessagility.yowconference.com.au/) | NSW | 24-Sep-2018 | 25-Sep-2018 | Feb-2018 | 31-May-2018 | Agile |
-| [a11y camp](http://a11ycamp.org.au/) | VIC | 17-Oct-2018 | 19-Oct-2018 | | | accessibility |
+| [A11y Camp](https://a11ycamp.org.au/) | VIC | 17-Oct-2018 | 19-Oct-2018 | | | accessibility |
 | [AISA Australian Cyber Conference](https://cyberconference.com.au) | VIC | 09-Oct-2018 | 11-Oct-2018 | | | Security |
 | [OWASP AppSec Day](https://appsecday.io/) | VIC | 19-Oct-2018 | 19-Oct-2018 | | | Security |
 | [Test Bash Australia](https://www.ministryoftesting.com/2017/11/testbash-australia-throw-another-testbash-barbie/) | NSW | 19-Oct-2018 |  | | | Testing |
