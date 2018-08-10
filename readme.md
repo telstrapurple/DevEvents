@@ -73,21 +73,21 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[Angular Conf](https://www.angularconf.com.au/)~~ | ~~VIC~~ | ~~21-Jun-2018~~ | ~~22-Jun-2018~~ | | | ~~Angular~~ |
 | ~~[SQL Saturday Melbourne](http://www.sqlsaturday.com/769/eventhome.aspx)~~ | ~~VIC~~ | ~~30-Jun-2018~~ |  | ~~01-Mar-2018~~ | ~~20-May-2018~~ | ~~Everything Data Platform~~ |
 | ~~[Levels Conf](http://www.levelsconf.com/)~~ | ~~VIC~~ | ~~07-Jul-2018~~ | | ~~15-Mar-2018~~ | ~~24-Apr-2018~~ | |
-| [Web Directions Code Leaders](http://www.webdirections.org/leaders/) | VIC | 01-Aug-2018 |  | 1-Dec-2017 | 27-Apr-2018 | Team lead/culture |
-| [Web Directions Code](http://www.webdirections.org/code/) | VIC | 02-Aug-2018 | 03-Aug-2018 | 1-Dec-2017 | 27-Apr-2018 | Web (more code) |
-| [DDD Perth](https://dddperth.com/) | WA | 04-Aug-2018 |  | 30-Apr-2018 | 03-Jun-2018 | Everything! |
+| ~~[Web Directions Code Leaders](http://www.webdirections.org/leaders/)~~ | ~~VIC~~ | ~~01-Aug-2018~~ |  | ~~1-Dec-2017~~ | ~~27-Apr-2018~~ | ~~Team lead/culture~~ |
+| ~~[Web Directions Code](http://www.webdirections.org/code/)~~ | ~~VIC~~ | ~~02-Aug-2018~~ | ~~03-Aug-2018~~ | ~~1-Dec-2017~~ | ~~27-Apr-2018~~ | ~~Web (more code)~~ |
+| ~~[DDD Perth](https://dddperth.com/)~~ | ~~WA~~ | ~~04-Aug-2018~~ |  | ~~30-Apr-2018~~ | ~~03-Jun-2018~~ | ~~Everything!~~ |
 | [CampJS](http://ix.campjs.com/) | QLD | 10-Aug-2018 | 13-Aug-2018 | 03-Feb-2018 | 29-Apr-2018 | Javascript |
 | [SheHacks](http://shehacks.com.au/) | NSW | 13-Aug-2018 |  | | | Hackathon |
 | [DDD Sydney](https://next.dddsydney.com.au/) | NSW | 18-Aug-2018 |  | 30-Apr-2018 | 3-Jun-2018 | All the things |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24-Aug-2018 | 26-Aug-2018 | | | Python |
 | [Devworld](http://www.devworld.com.au/) | VIC | 26-Aug-2018 | 28-Aug-2018 | |15-May-2018 | iOS/Gaming|
 | [YOW! Perth](http://west.yowconference.com.au/) | WA | 05-Sep-2018 | 06-Sep-2018 | | | Various |
-| [IoT Impact](https://iotimpact.com.au/) | NSW | 10-Sep-2018 | 11-Sep-2018 | | | iot
+| [IoT Impact](https://iotimpact.com.au/) | NSW | 10-Sep-2018 | 11-Sep-2018 | | | IOT
 | [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 15-Sep-2018 | | 27-Apr-2018 | 19-Jun-2018 | All the things |
 | [NDC Sydney](http://www.ndcsydney.com/) | NSW | 17-Sep-2018 | 21-Sep-2018 | | | Various |
 | [YOW! Connected](http://connected.yowconference.com.au/) | VIC | 17-Sep-2018 | 18-Sep-2018 |  |  | IOT |
 | [Business Agility Conference](http://businessagility.yowconference.com.au/) | NSW | 24-Sep-2018 | 25-Sep-2018 | Feb-2018 | 31-May-2018 | Agile |
-| [A11y Camp](https://a11ycamp.org.au/) | VIC | 17-Oct-2018 | 19-Oct-2018 | | | accessibility |
+| [A11y Camp](https://a11ycamp.org.au/) | VIC | 17-Oct-2018 | 19-Oct-2018 | | | Accessibility |
 | [AISA Australian Cyber Conference](https://cyberconference.com.au) | VIC | 09-Oct-2018 | 11-Oct-2018 | | | Security |
 | [OWASP AppSec Day](https://appsecday.io/) | VIC | 19-Oct-2018 | 19-Oct-2018 | | | Security |
 | [Test Bash Australia](https://www.ministryoftesting.com/2017/11/testbash-australia-throw-another-testbash-barbie/) | NSW | 19-Oct-2018 |  | | | Testing |
