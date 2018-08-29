@@ -54,8 +54,8 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[Global Integration Bootcamp](https://www.globalintegrationbootcamp.com/)~~ | ~~Multi~~ | ~~24-Mar-2018~~ |  | | | ~~Integration, APIs, Azure~~ |
 | ~~[Australian Cyber Security](https://acsc2018.com.au/)~~ | ~~ACT~~ | ~~10-Apr-2018~~ | ~~12-Apr-2018~~ | | | ~~Security~~ |
 | ~~[AWS Summit Australia](https://aws.amazon.com/events/aws-summit-is-coming/?mkt_tok=eyJpIjoiT0RGa01qVmpOMlJrWlRWaSIsInQiOiJMWWZMZTNNczFOQUJxOTF3QkpQTkxxT2hpbDZkNEw3RXVPRmdmb0RGZVJoaHlxYnowOEpWTHZZaExaQ296clppZ1N6Qmt1ajgwV3JKSnpweXkzZTUrWGhzZkhIc1AyZUdaaEloSG9WXC9vVEVrWU1OY3lQQ1wvdWZLbFcwNGJEYWxsIn0%3D)~~ | ~~NSW~~ | ~~10-Apr-2018~~ | ~~12-Apr-2018~~ | | | ~~AWS~~ |
-| ~~[Web Directions Design Leaders](http://www.webdirections.org/designleaders/)~~ | ~~VIC~~ | ~~11-Apr-2018~~ | | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Team lead/culture~~ |
-| ~~[Web Directions Design](http://www.webdirections.org/design/)~~ | ~~VIC~~ | ~~12-Apr-2018~~ | ~~13-Apr-2018~~ | ~~1-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Web/Design~~ |
+| ~~[Web Directions Design Leaders](http://www.webdirections.org/designleaders/)~~ | ~~VIC~~ | ~~11-Apr-2018~~ | | ~~01-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Team lead/culture~~ |
+| ~~[Web Directions Design](http://www.webdirections.org/design/)~~ | ~~VIC~~ | ~~12-Apr-2018~~ | ~~13-Apr-2018~~ | ~~01-Dec-2017~~ | ~~06-Feb-2018~~ | ~~Web/Design~~ |
 | ~~[Global Azure Bootcamp](https://global.azurebootcamp.net/)~~ | ~~ALL~~ | ~~21-Apr-2018~~ |  | | | ~~Azure~~ |
 | ~~[NDC Security](https://ndcsecurity.com.au/)~~ | ~~QLD~~ | ~~25-Apr-2018~~ | ~~27-Apr-2018~~ | | | ~~Security~~ |
 | ~~[Voxxed Days](https://voxxeddays.com/melbourne/)~~ | ~~VIC~~ | ~~02-May-2018~~ | ~~03-May-2018~~ | | | ~~Various~~ |
@@ -63,7 +63,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[YOW! Data](http://data.yowconference.com.au/)~~ | ~~NSW~~ | ~~14-May-2018~~ | ~~15-May-2018~~ | ~~Jan-2018~~ | ~~18-Mar-2018~~ | ~~Data~~ |
 | ~~[a11y Bytes](http://a11ybytes.org/)~~ | ~~NSW/VIC/WA~~ | ~~17-May-2018~~ | ~~17-May-2018~~ |  |  | ~~Accessibility~~ |
 | ~~[Lambda Jam](http://lambdajam.yowconference.com.au/)~~ | ~~NSW~~ | ~~21-May-2018~~ | ~~23-May-2018~~ | ~~Jan-2018~~ | ~~18-Mar-2018~~ | ~~Functional Programming~~ |
-| ~~[Container Camp](https://2018.container.camp/au/)~~ | ~~VIC~~ | ~~23-May-2018~~ | ~~25-May-2018~~ | ~~Jan-2018~~ | ~~9-Feb-2018~~ | ~~Containers~~ |
+| ~~[Container Camp](https://2018.container.camp/au/)~~ | ~~VIC~~ | ~~23-May-2018~~ | ~~25-May-2018~~ | ~~Jan-2018~~ | ~~09-Feb-2018~~ | ~~Containers~~ |
 | ~~[AusCERT](https://conference.auscert.org.au/)~~ | ~~QLD~~ | ~~29-May-2018~~ | ~~01-Jun-2018~~ | | | ~~Security~~ |
 | ~~[IoT Festival](https://www.eventbrite.com.au/e/iot-festival-conference-2018-tickets-39683645853?aff=es2)~~ | ~~VIC~~ | ~~04-Jun-2018~~ |  | | | ~~IOT~~ |
 | ~~[Global DevOps Bootcamp](http://globaldevopsbootcamp.com/)~~ | ~~Multi~~ | ~~16-Jun-2018~~ |  | | | ~~Devops~~ |
@@ -73,12 +73,12 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ~~[Angular Conf](https://www.angularconf.com.au/)~~ | ~~VIC~~ | ~~21-Jun-2018~~ | ~~22-Jun-2018~~ | | | ~~Angular~~ |
 | ~~[SQL Saturday Melbourne](http://www.sqlsaturday.com/769/eventhome.aspx)~~ | ~~VIC~~ | ~~30-Jun-2018~~ |  | ~~01-Mar-2018~~ | ~~20-May-2018~~ | ~~Everything Data Platform~~ |
 | ~~[Levels Conf](http://www.levelsconf.com/)~~ | ~~VIC~~ | ~~07-Jul-2018~~ | | ~~15-Mar-2018~~ | ~~24-Apr-2018~~ | |
-| ~~[Web Directions Code Leaders](http://www.webdirections.org/leaders/)~~ | ~~VIC~~ | ~~01-Aug-2018~~ |  | ~~1-Dec-2017~~ | ~~27-Apr-2018~~ | ~~Team lead/culture~~ |
-| ~~[Web Directions Code](http://www.webdirections.org/code/)~~ | ~~VIC~~ | ~~02-Aug-2018~~ | ~~03-Aug-2018~~ | ~~1-Dec-2017~~ | ~~27-Apr-2018~~ | ~~Web (more code)~~ |
+| ~~[Web Directions Code Leaders](http://www.webdirections.org/leaders/)~~ | ~~VIC~~ | ~~01-Aug-2018~~ |  | ~~01-Dec-2017~~ | ~~27-Apr-2018~~ | ~~Team lead/culture~~ |
+| ~~[Web Directions Code](http://www.webdirections.org/code/)~~ | ~~VIC~~ | ~~02-Aug-2018~~ | ~~03-Aug-2018~~ | ~~01-Dec-2017~~ | ~~27-Apr-2018~~ | ~~Web (more code)~~ |
 | ~~[DDD Perth](https://dddperth.com/)~~ | ~~WA~~ | ~~04-Aug-2018~~ |  | ~~30-Apr-2018~~ | ~~03-Jun-2018~~ | ~~Everything!~~ |
 | ~~[CampJS](http://ix.campjs.com/)~~ | ~~QLD~~ | ~~10-Aug-2018~~ | ~~13-Aug-2018~~ | ~~03-Feb-2018~~ | ~~29-Apr-2018~~ | ~~Javascript~~ |
 | ~~[SheHacks](http://shehacks.com.au/)~~ | ~~NSW~~ | ~~13-Aug-2018~~ |  | | | ~~Hackathon~~ |
-| ~~[DDD Sydney](https://next.dddsydney.com.au/)~~ | ~~NSW~~ | ~~18-Aug-2018~~ |  | ~~30-Apr-2018~~ | ~~3-Jun-2018~~ | ~~All the things~~ |
+| ~~[DDD Sydney](https://next.dddsydney.com.au/)~~ | ~~NSW~~ | ~~18-Aug-2018~~ |  | ~~30-Apr-2018~~ | ~~03-Jun-2018~~ | ~~All the things~~ |
 | [Pycon](http://2018.pycon-au.org/) | NSW | 24-Aug-2018 | 26-Aug-2018 | | | Python |
 | [Devworld](http://www.devworld.com.au/) | VIC | 26-Aug-2018 | 28-Aug-2018 | |15-May-2018 | iOS/Gaming|
 | [YOW! Perth](http://west.yowconference.com.au/) | WA | 05-Sep-2018 | 06-Sep-2018 | | | Various |
@@ -91,6 +91,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [AISA Australian Cyber Conference](https://cyberconference.com.au) | VIC | 09-Oct-2018 | 11-Oct-2018 | | | Security |
 | [OWASP AppSec Day](https://appsecday.io/) | VIC | 19-Oct-2018 | 19-Oct-2018 | | | Security |
 | [Test Bash Australia](https://www.ministryoftesting.com/2017/11/testbash-australia-throw-another-testbash-barbie/) | NSW | 19-Oct-2018 |  | | | Testing |
+| [MeasureCamp Sydney](http://sydney.measurecamp.org/) | NSW | 20-Oct-2018 | | | | Analytics |
 | [Web Directions AI](http://www.webdirections.org/ai/) | NSW | 31-Oct-2018 | | | | AI |
 | [Web Directions Culture](http://www.webdirections.org/culture/) | NSW | 31-Oct-2018 |  | | | Culture |
 | [Web Directions Summit](http://www.webdirections.org/wds/) | NSW | 01-Nov-2018 | 02-Nov-2018 | 01-Dec-2017 | May 2018 | Web (front end/design) |
@@ -126,7 +127,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [AusCERT](https://www.auscert.org.au/events/2017-05-23-16th-annual-auscert-cyber-security-conf) | QLD | 23/05/2017 | 26/05/2017 | Security |
 | [SQL Saturday](http://sqlsaturday.com/) | QLD | 27/05/2017 | 27/05/2017 | SQL |
 | [Global DevOps Bootcamp](http://globaldevopsbootcamp.com/) | Multi | 17/06/2017 | 17/06/2017 | Devops |
-| [DDD Sydney](	http://2017.dddsydney.com.au/) | NSW | 15/07/2017 | 15/07/2017 | Various |
+| [DDD Sydney]( http://2017.dddsydney.com.au/) | NSW | 15/07/2017 | 15/07/2017 | Various |
 | [Devops days](https://www.devopsdays.org/) | VIC | 16/07/2017 | 16/07/2017 | Devops |
 | [LAST Conf](https://www.lastconference.com/) | VIC | 29/07/2017 | 30/07/2017 | Agile, Lean, Product |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | VIC | 12/08/2017 | 12/08/2017 | Various |
