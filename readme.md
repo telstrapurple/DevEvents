@@ -99,6 +99,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Latency Conf](https://www.latencyconf.io/) | WA | 15-Nov-2018 | 15-Nov-2018 |   |  27-Jul-2018 | High Performance Apps |
 | [TConf 2018](https://www.eventbrite.com.au/e/tconf-2018-melbournes-own-software-testing-conference-tickets-39909638804?aff=es2) | VIC | 23-Nov-2018 | | | | Testing |
 | [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 29-Nov-2018 | 30-Nov-2018 |  |  | Various |
+| [DDD Brisbane](http://dddbrisbane.com/) | QLD | 01-Dec-2018 |  | TBC | TBC | All the things |
 | [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 03-Dec-2018 | 04-Dec-2018 |  |  | Various |
 | [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 06-Dec-2018 | 07-Dec-2018 |  |  | Various |
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 06-Dec-2018 | 07-Dec-2018 |  |  | Various |
@@ -107,7 +108,6 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
-| [DDD Brisbane](http://dddbrisbane.com/) | QLD | TBC |  | Sep-2018 | Oct-2018 |  |
 | [ACSWAofficial](https://www.acs.org.au/) | WA | TBC |  | | |  Various |
 
 ## 2017
