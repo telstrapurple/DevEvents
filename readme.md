@@ -14,10 +14,15 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 # The Events
 
-
 ## Honorable Mentions
 [YOW New Voices In Tech](https://docs.google.com/forms/d/e/1FAIpQLSerIV0DhzqM0-HminnHII7FJctSpj7W2g3LRRRAVLEPduRmNg/viewform) Closes Friday 18 May
 
+## 2019
+
+### Events
+| Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
+| ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
+| [RubyConf](https://www.rubyconf.org.au/2019) | VIC | 07-Feb-2019 | 09-Feb-2019 | 03-Sep-2018 | 15-Oct-2018 | Ruby |
 
 ## 2018
 
