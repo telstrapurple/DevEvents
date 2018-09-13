@@ -126,5 +126,5 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 ### Prior Years
 
-* [2017 Events](blob/master/2017.md)
-* [2016 Events](blob/master/2016.md)
+* [2017 Events](2017.md)
+* [2016 Events](2016.md)
