@@ -41,13 +41,14 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Brisbane](http://dddbrisbane.com/) | QLD | 01-Dec-2018 |  | TBC | TBC | All the things |
 | [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 03-Dec-2018 | 04-Dec-2018 |  |  | Various |
 | [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 06-Dec-2018 | 07-Dec-2018 |  |  | Various |
-| [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 06-Dec-2018 | 07-Dec-2018 |  |  | Various |
+
 
 ## 2019
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
 | [RubyConf](https://www.rubyconf.org.au/2019) | VIC | 07-Feb-2019 | 09-Feb-2019 | 03-Sep-2018 | 15-Oct-2018 | Ruby |
+| [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 03-May-2019 | 04-May-2019 |  |  | Various |
 
 
 ### All Year Round CFP
