@@ -23,7 +23,7 @@ For content:
 - The event should be of interest to the dev community (specialist and related topics are fine e.g. AI and agile)
 - Please add events in chronological order within the relevant year
 - Check any links you are adding are correct
-- Ensure dates are in dd/mm/yyyy format (in case we want to parse this data later). Use TBC if the date is unconfirmed or unknown.
+- Ensure dates are in dd-mmm-yyyy format (in case we want to parse this data later). For example, `01-Jan-2019`. Use TBC if the date is unconfirmed or unknown.
 - Ensure no additional spaces or formatting characters are present (this will make parsing easier later)
 - Ensure states are specified as VIC, NSW, ACT, WA, SA, NT, QLD, ALL, TAS, OTH (Other)
 

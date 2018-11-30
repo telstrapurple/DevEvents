@@ -47,12 +47,13 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
+| [DataWorks Summit](https://10times.com/dataworks-summit-melbourne) | VIC | 06-Feb-2019 | 06-Feb-2019 |  |  | Data, AI Machine Learning |
 | [RubyConf](https://www.rubyconf.org.au/2019) | VIC | 07-Feb-2019 | 09-Feb-2019 | 03-Sep-2018 | 15-Oct-2018 | Ruby |
-| [DataWorks Summit](https://10times.com/dataworks-summit-melbourne) | VIC | 06-02-2019 | 06-02-2019 |  |  | Data, AI Machine Learning |
-| [Microsoft Ignite](https://www.microsoft.com/en-au/ignite-the-tour/sydney) | NSW | 13-Feb-2019 | 14-Feb-2019 |  |  | Cloud Infrastructure |
-| [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 19-03-2019 | 22-03-2019 |  |  | DevOps |
+| [Microsoft Ignite Tour](https://www.microsoft.com/en-au/ignite-the-tour/sydney) | NSW | 13-Feb-2019 | 14-Feb-2019 |  |  | Cloud Infrastructure |
+| [BSides Canberra](https://www.bsidescbr.com.au/) | ACT | 15-Mar-2019 | 16-Mar-2019 | 01-Nov-2018 | 31-Dec-2018 | Security |
+| [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 19-Mar-2019 | 22-Mar-2019 |  |  | DevOps |
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 03-May-2019 | 04-May-2019 |  |  | Various |
-| [AgileAus 2019](http://agileaustralia.com.au/2019/) | NSW | 25-06-2019 | 26-06-2019 |  |  | Agile |
+| [AgileAus 2019](http://agileaustralia.com.au/2019/) | NSW | 25-Jun-2019 | 26-Jun-2019 |  |  | Agile |
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 |  |  | Various |
 
 
