@@ -52,10 +52,8 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Microsoft Ignite](https://www.microsoft.com/en-au/ignite-the-tour/sydney) | NSW | 13-Feb-2019 | 14-Feb-2019 |  |  | Cloud Infrastructure |
 | [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 19-03-2019 | 22-03-2019 |  |  | DevOps |
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 03-May-2019 | 04-May-2019 |  |  | Various |
-| [AgileAus 2019](http://agileaustralia.com.au/2019/) | NSW | 25-06-2019 | 26-06-2019 |  |  | Agile|
+| [AgileAus 2019](http://agileaustralia.com.au/2019/) | NSW | 25-06-2019 | 26-06-2019 |  |  | Agile |
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 |  |  | Various |
-
-
 
 
 ### All Year Round CFP
