@@ -48,6 +48,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
 | [RubyConf](https://www.rubyconf.org.au/2019) | VIC | 07-Feb-2019 | 09-Feb-2019 | 03-Sep-2018 | 15-Oct-2018 | Ruby |
+| [BSides Canberra](https://www.bsidescbr.com.au/) | ACT | 15-Mar-2019 | 16-Mar-2019 | 01-Nov-2018 | 31-Dec-2018 | Security |
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 03-May-2019 | 04-May-2019 |  |  | Various |
 
 
