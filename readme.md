@@ -14,9 +14,6 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 
 # The Events
 
-## Honorable Mentions
-
-None Currently.
 
 # Upcoming Events
 
