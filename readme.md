@@ -12,11 +12,7 @@ Got a question? [The FAQ](https://github.com/Readify/DevEvents/blob/master/FAQ.m
 
 Of course! We'd love you to! See the [contribution guide](https://github.com/Readify/DevEvents/blob/master/contributing.md) for how.
 
-# The Events
-
-
 # Upcoming Events
-
 
 ## 2019
 
