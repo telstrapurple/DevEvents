@@ -42,6 +42,9 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Fenders](http://www.fenders.co/) | WA | Front End |
 | [Junior Dev](https://bit.ly/JDSpeakers) | WA and VIC | |
 
+### Meetups by State
+* [Victoria](VIC.md)
+
 # Completed Events
 
 ## 2019
