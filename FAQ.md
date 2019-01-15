@@ -14,7 +14,7 @@ We're looking for events that match the following basic criteria:
 
 It doesn't matter if it's free or not, and we don't care if it's an in-person event or a virtual one. As long as it meets the criteria, we're happy!
 
-As a note; User groups, meetups, and other regular, recurring events won't get listed. [Meetup](https://meetup.com) is already well established as the best place for publicising those type of events. We don't need to reinvent the wheel.
+User groups, meetups, and other regular, recurring events will get listed here if they are organised or attended by Readify staff. [Meetup](https://meetup.com) is also well established as a great place for publicising these types of events, so you can find many more such events there.
 
 ### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc
 
