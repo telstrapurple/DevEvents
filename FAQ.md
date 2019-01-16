@@ -14,8 +14,6 @@ We're looking for events that match the following basic criteria:
 
 It doesn't matter if it's free or not, and we don't care if it's an in-person event or a virtual one. As long as it meets the criteria, we're happy!
 
-User groups, meetups, and other regular, recurring events will get listed here if they are organised or attended by Readify staff. [Meetup](https://meetup.com) is also well established as a great place for publicising these types of events, so you can find many more such events there.
-
 ### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc
 
 This resource is only as good as people's contributions so we want to make it as easy as possible for people to make changes. Markdown in conjunction with GitHub markdown editor makes it very easy for anyone to modify the content, even without tooling. Feel free to build something cool based on this data.
