@@ -14,8 +14,6 @@ We're looking for events that match the following basic criteria:
 
 It doesn't matter if it's free or not, and we don't care if it's an in-person event or a virtual one. As long as it meets the criteria, we're happy!
 
-As a note; User groups, meetups, and other regular, recurring events won't get listed. [Meetup](https://meetup.com) is already well established as the best place for publicising those type of events. We don't need to reinvent the wheel.
-
 ### This should be done using RSS/ATOM/Microformat/JSON/Blockchain etc
 
 This resource is only as good as people's contributions so we want to make it as easy as possible for people to make changes. Markdown in conjunction with GitHub markdown editor makes it very easy for anyone to modify the content, even without tooling. Feel free to build something cool based on this data.
