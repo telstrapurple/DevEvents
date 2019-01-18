@@ -35,6 +35,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [pyconau](https://2019.pycon-au.org/) | NSW | 2-Aug-2019 | 6-Aug-2019 |  |  | Python |
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 |  |  | Various |
 | [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 31-Oct-2019 | 1-Nov-2019 |  |  | Front End, JavaScript, Product, Design |
+| [Latency Conf](https://www.latencyconf.io/#/) | WA | 14-Nov-2019 | 14-Nov-2019 |  |  | Various |
 | [TConf](https://tconf.io/) | NSW | 29-Nov-2019 | 29-Nov-2019 |  |  | Testing, QA |
 
 ### All Year Round CFP
