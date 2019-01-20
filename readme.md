@@ -35,7 +35,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Web Directions Code](https://www.webdirections.org/code/) | VIC | 20-Jun-2019 | 21-Jun-2019 |  |  | JavaScript, Front End, Design |
 | [AgileAus 2019](http://agileaustralia.com.au/2019/) | NSW | 25-Jun-2019 | 26-Jun-2019 |  |  | Agile |
 | [Web Directions Product](https://www.webdirections.org/product/) | VIC | 1-Aug-2019 | 2-Aug-2019 |  |  | Product, Design |
-| [pyconau](https://2019.pycon-au.org/) | NSW | 2-Aug-2019 | 6-Aug-2019 |  |  | Python |
+| [PyCon AU](https://2019.pycon-au.org/) | NSW | 2-Aug-2019 | 6-Aug-2019 |  |  | Python |
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 6-Sep-2019 | 6-Sep-2019 | 01-Dec-2018 | 06-Apr-2019 | Front End |
 | [APIDays](https://www.apidays.co) | VIC | 00-Sep-2019 | 00-Sep-2019 | 00-Jan-2019 | 00-Aug-2019 | Various |
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 |  |  | Various |
