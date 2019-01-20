@@ -27,6 +27,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Web Directions Design](https://www.webdirections.org/design/) | VIC | 11-Apr-2019 | 12-Apr-2019 |  |  | Design, UX |
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 03-May-2019 | 04-May-2019 |  |  | Various |
 | [YOW! Data](https://data.yowconference.com.au/) | NSW | 06-May-2019 | 07-May-2019 | 01-Jan-2019 | 22-Mar-2019 | Data |
+| [Rails Camp](https://rails.camp/) | WA | 10-May-2019 | 13-May-2019 | | | Ruby |
 | [YOW! Lambda Jam](https://lambdajam.yowconference.com.au/) | NSW | 13-May-2019 | 15-May-2019 | 22-Mar-2019 | 22-Mar-2019 | Functional Programming |
 | [Voxxed Days](https://australia.voxxeddays.com/) | VIC | 13-May-2019 | 14-May-2019 | 24-Oct-2018 | 11-Feb-2019 | Various |
 | [Voxxed Days](https://australia.voxxeddays.com/) | NSW | 16-May-2019 | 17-May-2019 | 25-Oct-2018 | 11-Feb-2019 | Various |
