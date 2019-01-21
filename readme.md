@@ -40,6 +40,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [APIDays](https://www.apidays.co) | VIC | 00-Sep-2019 | 00-Sep-2019 | 00-Jan-2019 | 00-Aug-2019 | Various |
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 |  |  | Various |
 | [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 31-Oct-2019 | 1-Nov-2019 |  |  | Front End, JavaScript, Product, Design |
+| [Latency Conf](https://www.latencyconf.io/#/) | WA | 14-Nov-2019 | 14-Nov-2019 |  |  | Various |
 | [TConf](https://tconf.io/) | NSW | 29-Nov-2019 | 29-Nov-2019 |  |  | Testing, QA |
 
 ### All Year Round CFP
