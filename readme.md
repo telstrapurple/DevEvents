@@ -45,7 +45,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [TConf](https://tconf.io/) | NSW | 29-Nov-2019 | 29-Nov-2019 |  |  | Testing, QA |
 | [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 05-Dec-2019 | 06-Dec-2019 |  |  | Various |
 | [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 09-Dec-2019 | 10-Dec-2019 |  |  | Various |
-| [YOW! Melbourne](http://sydney.yowconference.com.au/) | VIC | 12-Dec-2019 | 13-Dec-2019 |  |  | Various |
+| [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 12-Dec-2019 | 13-Dec-2019 |  |  | Various |
 
 ### All Year Round CFP
 | Event Name | State | Tags |
