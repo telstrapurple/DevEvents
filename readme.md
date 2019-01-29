@@ -42,7 +42,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 |  |  | Various |
 | [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 31-Oct-2019 | 1-Nov-2019 |  |  | Front End, JavaScript, Product, Design |
 | [Latency Conf](https://www.latencyconf.io/#/) | WA | 14-Nov-2019 | 14-Nov-2019 |  |  | Various |
-| [TConf](https://tconf.io/) | NSW | 29-Nov-2019 | 29-Nov-2019 |  |  | Testing, QA |
+| [TConf](https://tconf.io/) | VIC | 29-Nov-2019 | 29-Nov-2019 |  |  | Testing, QA |
 | [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 05-Dec-2019 | 06-Dec-2019 |  |  | Various |
 | [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 09-Dec-2019 | 10-Dec-2019 |  |  | Various |
 | [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 12-Dec-2019 | 13-Dec-2019 |  |  | Various |
