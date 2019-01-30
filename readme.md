@@ -20,6 +20,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
 | [DataWorks Summit](https://10times.com/dataworks-summit-melbourne) | VIC | 06-Feb-2019 | 06-Feb-2019 |  |  | Data, AI Machine Learning |
 | [RubyConf](https://www.rubyconf.org.au/2019) | VIC | 07-Feb-2019 | 09-Feb-2019 | 03-Sep-2018 | 15-Oct-2018 | Ruby |
+| [Microservices, Containers & Serverless Day](https://1point21gws.com/microservices/melbourne/) | VIC | 08-Feb-2019 | 08-Feb-2019 |  |  | Microservices |
 | [Microsoft Ignite Tour](https://www.microsoft.com/en-au/ignite-the-tour/sydney) | NSW | 13-Feb-2019 | 14-Feb-2019 |  |  | Cloud Infrastructure |
 | [BSides Canberra](https://www.bsidescbr.com.au/) | ACT | 15-Mar-2019 | 16-Mar-2019 | 01-Nov-2018 | 31-Dec-2018 | Security |
 | [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 19-Mar-2019 | 22-Mar-2019 |  |  | DevOps |
