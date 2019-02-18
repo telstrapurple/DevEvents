@@ -26,7 +26,8 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 19-Mar-2019 | 22-Mar-2019 |  |  | DevOps |
 | [CrikeyCon](https://www.crikeycon.com/) | QLD | 06-Apr-2019 | 07-Apr-2019 | 01-Jan-2019 | 06-Feb-2019 | Security |
 | [Web Directions Design](https://www.webdirections.org/design/) | VIC | 11-Apr-2019 | 12-Apr-2019 |  |  | Design, UX |
-| [Global Azure Bootcamp Melbourne](https://sessionize.com/global-azure-bootcamp-melbourne) | VIC | 27-Apr-2019 | 27-Apr-2019 | 01-Feb-2019 | 10-Mar-2019 | Azure
+| [Global Azure Bootcamp (Melbourne)](https://sessionize.com/global-azure-bootcamp-melbourne) | VIC | 27-Apr-2019 | 27-Apr-2019 | 01-Feb-2019 | 10-Mar-2019 | Microsoft Azure |
+| Global Azure Bootcamp (Sydney) [Attend](https://www.meetup.com/en-AU/Azure-Sydney-User-Group/events/256253065/) - [Speak](https://sessionize.com/sydney-azure-global-bootcamp/) | NSW | 27-Apr-2019 | 27-Apr-2019 | 22-Jan-2019 | 15-Mar-2019 | Microsoft Azure |
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 03-May-2019 | 04-May-2019 |  |  | Various |
 | [YOW! Data](https://data.yowconference.com.au/) | NSW | 06-May-2019 | 07-May-2019 | 01-Jan-2019 | 22-Mar-2019 | Data |
 | [Rails Camp](https://rails.camp/) | WA | 10-May-2019 | 13-May-2019 | | | Ruby |
