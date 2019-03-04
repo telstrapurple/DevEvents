@@ -22,6 +22,10 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [RubyConf](https://www.rubyconf.org.au/2019) | VIC | 07-Feb-2019 | 09-Feb-2019 | 03-Sep-2018 | 15-Oct-2018 | Ruby |
 | [Microservices, Containers & Serverless Day](https://1point21gws.com/microservices/melbourne/) | VIC | 08-Feb-2019 | 08-Feb-2019 |  |  | Microservices |
 | [Microsoft Ignite Tour](https://www.microsoft.com/en-au/ignite-the-tour/sydney) | NSW | 13-Feb-2019 | 14-Feb-2019 |  |  | Cloud Infrastructure |
+| [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/163) | WA | 23-Feb-2019 | 23-Feb-2019 |  |  | Tech Talks |
+| [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/122) | VIC | 02-Mar-2019 | 02-Mar-2019 |  |  | Tech Talks |
+| [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/89) | NSW | 02-Mar-2019 | 02-Mar-2019 |  |  | Tech Talks |
+| [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/199) | QLD | 02-Mar-2019 | 02-Mar-2019 |  |  | Tech Talks |
 | [BSides Canberra](https://www.bsidescbr.com.au/) | ACT | 15-Mar-2019 | 16-Mar-2019 | 01-Nov-2018 | 31-Dec-2018 | Security |
 | [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 19-Mar-2019 | 22-Mar-2019 |  |  | DevOps |
 | [CrikeyCon](https://www.crikeycon.com/) | QLD | 06-Apr-2019 | 07-Apr-2019 | 01-Jan-2019 | 06-Feb-2019 | Security |
