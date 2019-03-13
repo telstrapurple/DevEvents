@@ -39,6 +39,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [YOW! Lambda Jam](https://lambdajam.yowconference.com.au/) | NSW | 13-May-2019 | 15-May-2019 | 22-Mar-2019 | 22-Mar-2019 | Functional Programming |
 | [Voxxed Days](https://australia.voxxeddays.com/) | VIC | 13-May-2019 | 14-May-2019 | 24-Oct-2018 | 11-Feb-2019 | Various |
 | [Voxxed Days](https://australia.voxxeddays.com/) | NSW | 16-May-2019 | 17-May-2019 | 25-Oct-2018 | 11-Feb-2019 | Various |
+| [Catalyst Conference](https://catalystaustralia.girlsintech.org/) | VIC | 15/05/2017 | 16/05/2017 | | | Women in Tech |
 | [SQL Saturday Brisbane](https://www.sqlsaturday.com/838/eventhome.aspx) | QLD | 31-May-2019 | 01-Jun-2019 | 01-Jan-2019 | 02-Apr-2019 | Data |
 | [SQL Saturday Melbourne](https://www.sqlsaturday.com/865/eventhome.aspx) | VIC | 14-Jun-2019 | 15-Jun-2019 | 01-Feb-2019 | 16-Apr-2019 | Data |
 | [OzSecCon](https://www.ozseccon.com/) | VIC | 14-Jun-2019 | 16-Jun-2019 |  | 31-Mar-2019 | Security |
