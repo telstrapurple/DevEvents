@@ -9,3 +9,4 @@
 | [React Melbourne](https://www.meetup.com/React-Melbourne) | 139 Gladstone St, South Melbourne | Kogan | Quarterly | React |
 | [VIC.NET](https://www.meetup.com/VIC-NET-Meetup/) | 5/4 Freshwater Place, Southbank | Microsoft | Monthly | .NET |
 | [Angular Melbourne](https://www.meetup.com/Angular-Melbourne/) | 10/111 Bourke Street, Melbourne | Auspost | Bi-Monthly | Angular |
+| [The Web Meetup](https://www.meetup.com/the-web) | 67 Queen St, Melbourne | Zendesk | Monthly | Development, Design, UX, Process |
