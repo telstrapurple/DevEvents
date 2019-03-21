@@ -9,4 +9,5 @@
 | [MelbJS](http://melbjs.com/) | 67 Queen St, Melbourne | Zendesk | | JavaScript |
 | [React Melbourne](https://www.meetup.com/React-Melbourne) | 139 Gladstone St, South Melbourne | Kogan | Quarterly | React |
 | [Ruby Melbourne](https://www.meetup.com/Ruby-On-Rails-Oceania-Melbourne/) | 67 Queen St, Melbourne | Zendesk | Monthly | Ruby |
+| [The Web Meetup](https://www.meetup.com/the-web) | 67 Queen St, Melbourne | Zendesk | Monthly | Development, Design, UX, Process |
 | [VIC.NET](https://www.meetup.com/VIC-NET-Meetup/) | 5/4 Freshwater Place, Southbank | Microsoft | Monthly | .NET |
