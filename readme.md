@@ -36,7 +36,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 03-May-2019 | 04-May-2019 |  |  | Various |
 | [YOW! Data](https://data.yowconference.com.au/) | NSW | 06-May-2019 | 07-May-2019 | 01-Jan-2019 | 22-Mar-2019 | Data |
 | [Rails Camp](https://rails.camp/) | WA | 10-May-2019 | 13-May-2019 | | | Ruby |
-| [YOW! Lambda Jam](https://lambdajam.yowconference.com.au/) | NSW | 13-May-2019 | 15-May-2019 | 22-Mar-2019 | 22-Mar-2019 | Functional Programming |
+| [YOW! Lambda Jam](https://lambdajam.yowconference.com.au/) | VIC | 13-May-2019 | 15-May-2019 | 22-Mar-2019 | 22-Mar-2019 | Functional Programming |
 | [Voxxed Days](https://australia.voxxeddays.com/) | VIC | 13-May-2019 | 14-May-2019 | 24-Oct-2018 | 11-Feb-2019 | Various |
 | [Catalyst Conference](https://catalystaustralia.girlsintech.org/) | VIC | 15-May-2019 | 16-May-2019 | | | Women in Tech |
 | [Voxxed Days](https://australia.voxxeddays.com/) | NSW | 16-May-2019 | 17-May-2019 | 25-Oct-2018 | 11-Feb-2019 | Various |
@@ -48,6 +48,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [AgileAus 2019](http://agileaustralia.com.au/2019/) | NSW | 25-Jun-2019 | 26-Jun-2019 |  |  | Agile |
 | [Web Directions Product](https://www.webdirections.org/product/) | VIC | 1-Aug-2019 | 2-Aug-2019 |  |  | Product, Design |
 | [PyCon AU](https://2019.pycon-au.org/) | NSW | 2-Aug-2019 | 6-Aug-2019 | 3-Apr-2019 | 5-May-2019 | Python |
+| [YOW! Perth](https://yowconference.com/) | WA | 4-Sep-2019 | 5-Sep-2019 |  |  | Various |
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 6-Sep-2019 | 6-Sep-2019 | 01-Dec-2018 | 06-Apr-2019 | Front End |
 | [YOW! Business Agility Conference](https://businessagility.yowconference.com.au/) | VIC | 16-Sep-2019 | 17-Sep-2019 | 01-Feb-2019 | 30-Apr-2019 | Agile |
 | [APIDays](https://www.apidays.co) | VIC | 00-Sep-2019 | 00-Sep-2019 | 00-Jan-2019 | 00-Aug-2019 | Various |
