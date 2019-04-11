@@ -4,6 +4,7 @@
 | ---------- | -------- | ---- | --------- | ---- |
 | [ALT.NET](https://www.meetup.com/Melbourne-ALT-NET/) | 5/91 William St, Melbourne | PageUp | Monthly | .NET |
 | [Angular Melbourne](https://www.meetup.com/Angular-Melbourne/) | 10/111 Bourke Street, Melbourne | Auspost | Bi-Monthly | Angular |
+| [AWS Programming and Tools](https://www.meetup.com/Melbourne-AWS-Programming-and-Tools-Meetup/) | Various | Various | Monthly | AWS |
 | [DDD By Night](https://www.meetup.com/DDD-Melbourne-By-Night/) | 5/91 William St, Melbourne | PageUp | 3/yr | |
 | [Junior Developers](https://www.meetup.com/Junior-Developers-Melbourne/) | 67 Queen St, Melbourne | Zendesk | Monthly | |
 | [MelbJS](http://melbjs.com/) | 67 Queen St, Melbourne | Zendesk | | JavaScript |
