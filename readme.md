@@ -50,6 +50,8 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [PyCon AU](https://2019.pycon-au.org/) | NSW | 2-Aug-2019 | 6-Aug-2019 | 3-Apr-2019 | 5-May-2019 | Python |
 | [DDD Perth](https://dddperth.com/) | WA | 3-Aug-2019 | 3-Aug-2019 | 30-Apr-2019 | 2-Jun-2019 | Various |
 | [DDD Melbourne](https://dddmelbourne.com/) | VIC | 10-Aug-2019 | 10-Aug-2019 | 13-Apr-2019 | 15-Jun-2019 | Various |
+| [ServerlessDays Sydney](https://sydney.serverlessdays.io/) | NSW | 27-Aug-2019 | 27-Aug-2019 | 25-Mar-2019 | 20-May-2019 | Serverless |
+| ServerlessDays Melbourne | VIC | 29-Aug-2019 | 29-Aug-2019 | | | Serverless |
 | [YOW! Perth](https://yowconference.com/) | WA | 4-Sep-2019 | 5-Sep-2019 |  |  | Various |
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 6-Sep-2019 | 6-Sep-2019 | 01-Dec-2018 | 06-Apr-2019 | Front End |
 | [YOW! Business Agility Conference](https://businessagility.yowconference.com.au/) | VIC | 16-Sep-2019 | 17-Sep-2019 | 01-Feb-2019 | 30-Apr-2019 | Agile |
