@@ -44,6 +44,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [SQL Saturday Brisbane](https://www.sqlsaturday.com/838/eventhome.aspx) | QLD | 31-May-2019 | 01-Jun-2019 | 01-Jan-2019 | 02-Apr-2019 | Data |
 | [SQL Saturday Melbourne](https://www.sqlsaturday.com/865/eventhome.aspx) | VIC | 14-Jun-2019 | 15-Jun-2019 | 01-Feb-2019 | 16-Apr-2019 | Data |
 | [OzSecCon](https://www.ozseccon.com/) | VIC | 14-Jun-2019 | 16-Jun-2019 |  | 31-Mar-2019 | Security |
+| [Global DevOps Bootcamp](https://www.eventbrite.com/e/global-devops-bootcamp-telstrareadify-tickets-57006764768) | NSW | 15-Jun-2019 | 15-Jun-2019 | | | DevOps, Azure |
 | [Web Directions Code](https://www.webdirections.org/code/) | VIC | 20-Jun-2019 | 21-Jun-2019 |  |  | JavaScript, Front End, Design |
 | [AgileAus 2019](http://agileaustralia.com.au/2019/) | NSW | 25-Jun-2019 | 26-Jun-2019 |  |  | Agile |
 | [Web Directions Product](https://www.webdirections.org/product/) | VIC | 1-Aug-2019 | 2-Aug-2019 |  |  | Product, Design |
