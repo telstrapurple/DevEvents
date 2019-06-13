@@ -59,6 +59,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 6-Sep-2019 | 6-Sep-2019 | 01-Dec-2018 | 06-Apr-2019 | Front End |
 | [YOW! Business Agility Conference](https://businessagility.yowconference.com.au/) | VIC | 16-Sep-2019 | 17-Sep-2019 | 01-Feb-2019 | 30-Apr-2019 | Agile |
 | [APIDays](https://www.apidays.co) | VIC | 00-Sep-2019 | 00-Sep-2019 | 00-Jan-2019 | 00-Aug-2019 | Various |
+| [DDD Sydney](https://next.dddsydney.com.au) | NSW | 21-Sep-2019 | 21-Sep-2019 | 10-Jun-2019 | 14-Jul-2019 | Various |
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 | 10-Feb-2019  | 15-Jun-2019 | Various |
 | [GopherCon AU](https://gophercon.com.au/) | NSW | 30-Oct-2019 | 1-Nov-2019 | 01-May-2019 | 30-Jun-2019 | Golang |
 | [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 31-Oct-2019 | 1-Nov-2019 |  |  | Front End, JavaScript, Product, Design |
