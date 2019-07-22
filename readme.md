@@ -51,12 +51,14 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [XConf](https://www.thoughtworks.com/xconf-au-2019) | VIC | 25-Jul-2019 | 25-Jul-2019 |  |  | Thoughtworks |
 | [Web Directions Product](https://www.webdirections.org/product/) | VIC | 1-Aug-2019 | 2-Aug-2019 |  |  | Product, Design |
 | [PyCon AU](https://2019.pycon-au.org/) | NSW | 2-Aug-2019 | 6-Aug-2019 | 3-Apr-2019 | 5-May-2019 | Python |
+| [SQL Saturday Sydney](https://www.sqlsaturday.com/875/eventhome.aspx) | NSW | 03-Aug-2019 | 03-Aug-2019 |  |  | Data |
 | [DDD Perth](https://dddperth.com/) | WA | 3-Aug-2019 | 3-Aug-2019 | 30-Apr-2019 | 2-Jun-2019 | Various |
 | [DDD Melbourne](https://dddmelbourne.com/) | VIC | 10-Aug-2019 | 10-Aug-2019 | 13-Apr-2019 | 15-Jun-2019 | Various |
 | [ServerlessDays Sydney](https://sydney.serverlessdays.io/) | NSW | 27-Aug-2019 | 27-Aug-2019 | 25-Mar-2019 | 20-May-2019 | Serverless |
 | [ServerlessDays Melbourne](https://www.serverlessdays.me/) | VIC | 29-Aug-2019 | 29-Aug-2019 | 01-May-2019 | 09-Jun-2019 | Serverless |
 | [YOW! Perth](https://yowconference.com/) | WA | 4-Sep-2019 | 5-Sep-2019 |  |  | Various |
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 6-Sep-2019 | 6-Sep-2019 | 01-Dec-2018 | 06-Apr-2019 | Front End |
+| [SQL Saturday Perth](https://www.sqlsaturday.com/894/eventhome.aspx) | WA | 07-Sep-2019 | 07-Sep-2019 |  |  | Data |
 | [YOW! Business Agility Conference](https://businessagility.yowconference.com.au/) | VIC | 16-Sep-2019 | 17-Sep-2019 | 01-Feb-2019 | 30-Apr-2019 | Agile |
 | [APIDays](https://www.apidays.co) | VIC | 00-Sep-2019 | 00-Sep-2019 | 00-Jan-2019 | 00-Aug-2019 | Various |
 | [DDD Sydney](https://next.dddsydney.com.au) | NSW | 21-Sep-2019 | 21-Sep-2019 | 10-Jun-2019 | 14-Jul-2019 | Various |
