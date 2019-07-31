@@ -54,7 +54,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [SQL Saturday Sydney](https://www.sqlsaturday.com/875/eventhome.aspx) | NSW | 03-Aug-2019 | 03-Aug-2019 |  |  | Data |
 | [DDD Perth](https://dddperth.com/) | WA | 3-Aug-2019 | 3-Aug-2019 | 30-Apr-2019 | 2-Jun-2019 | Various |
 | [DDD Melbourne](https://dddmelbourne.com/) | VIC | 10-Aug-2019 | 10-Aug-2019 | 13-Apr-2019 | 15-Jun-2019 | Various |
-| [Australia Summit for Microsoft Business Applications](https://www.australiasummit.com/home) | VIC | 21-Aug-2019 | 23-Aug-2019 | | | Data, Business Applilcations, Power PLatform |
+| [Australia Summit for Microsoft Business Applications](https://www.australiasummit.com/home) | VIC | 21-Aug-2019 | 23-Aug-2019 | | | Data, Business Applications, Power Platform |
 | [ServerlessDays Sydney](https://sydney.serverlessdays.io/) | NSW | 27-Aug-2019 | 27-Aug-2019 | 25-Mar-2019 | 20-May-2019 | Serverless |
 | [ServerlessDays Melbourne](https://www.serverlessdays.me/) | VIC | 29-Aug-2019 | 29-Aug-2019 | 01-May-2019 | 09-Jun-2019 | Serverless |
 | [YOW! Perth](https://yowconference.com/) | WA | 4-Sep-2019 | 5-Sep-2019 |  |  | Various |
