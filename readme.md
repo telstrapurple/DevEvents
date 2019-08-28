@@ -49,6 +49,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [AgileAus 2019](http://agileaustralia.com.au/2019/) | NSW | 25-Jun-2019 | 26-Jun-2019 |  |  | Agile |
 | [XConf](https://www.thoughtworks.com/xconf-au-2019) | NSW | 23-Jul-2019 | 23-Jul-2019 |  |  | Thoughtworks |
 | [XConf](https://www.thoughtworks.com/xconf-au-2019) | VIC | 25-Jul-2019 | 25-Jul-2019 |  |  | Thoughtworks |
+| [Container Camp](https://2019.container.camp/au/) | NSW | 25-Jul-2019 | 26-Jul-2019 |  |  | Container, Kubernetes, Docker |
 | [Web Directions Product](https://www.webdirections.org/product/) | VIC | 1-Aug-2019 | 2-Aug-2019 |  |  | Product, Design |
 | [PyCon AU](https://2019.pycon-au.org/) | NSW | 2-Aug-2019 | 6-Aug-2019 | 3-Apr-2019 | 5-May-2019 | Python |
 | [SQL Saturday Sydney](https://www.sqlsaturday.com/875/eventhome.aspx) | NSW | 03-Aug-2019 | 03-Aug-2019 |  |  | Data |
