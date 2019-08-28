@@ -73,6 +73,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 05-Dec-2019 | 06-Dec-2019 |  |  | Various |
 | [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 09-Dec-2019 | 10-Dec-2019 |  |  | Various |
 | [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 12-Dec-2019 | 13-Dec-2019 |  |  | Various |
+| [Kubernetes Forum Sydney](https://events.linuxfoundation.org/events/kubernetes-forum-sydney-2019/) | NSW | 12-Dec-2019 | 13-Dec-2019 |  31-Jul-2019 | 06-Sep-2019 | Kubernetes, CNCF-related projects |
 
 ### All Year Round CFP
 | Event Name | State | Tags |
