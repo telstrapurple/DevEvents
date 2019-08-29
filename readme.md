@@ -59,6 +59,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [ServerlessDays Sydney](https://sydney.serverlessdays.io/) | NSW | 27-Aug-2019 | 27-Aug-2019 | 25-Mar-2019 | 20-May-2019 | Serverless |
 | [ServerlessDays Melbourne](https://www.serverlessdays.me/) | VIC | 29-Aug-2019 | 29-Aug-2019 | 01-May-2019 | 09-Jun-2019 | Serverless |
 | [YOW! Perth](https://yowconference.com/) | WA | 4-Sep-2019 | 5-Sep-2019 |  |  | Various |
+| [Global AI Night](https://www.meetup.com/Melbourne-Azure-Nights/events/264397932/) | VIC | 5-Sep-2019 | 5-Sep-2019 | | | ML, A, Bots|
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 6-Sep-2019 | 6-Sep-2019 | 01-Dec-2018 | 06-Apr-2019 | Front End |
 | [SQL Saturday Perth](https://www.sqlsaturday.com/894/eventhome.aspx) | WA | 07-Sep-2019 | 07-Sep-2019 |  |  | Data |
 | [YOW! Business Agility Conference](https://businessagility.yowconference.com.au/) | VIC | 16-Sep-2019 | 17-Sep-2019 | 01-Feb-2019 | 30-Apr-2019 | Agile |
