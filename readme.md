@@ -67,6 +67,9 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Sydney](https://next.dddsydney.com.au) | NSW | 21-Sep-2019 | 21-Sep-2019 | 10-Jun-2019 | 14-Jul-2019 | Various |
 | [Devopsdays Sydney 2019](https://devopsdays.org/events/2019-sydney/welcome/) | NSW | 10-Oct-2019 | 11-Oct-2019 | 03-Jun-2019  | 05-Aug-2019 | Various |
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 | 10-Feb-2019  | 15-Jun-2019 | Various |
+| [JetBrains Night Sydney 2019](https://info.jetbrains.com/jetbrains-night-sydney-2019.html) | NSW | 15-Oct-2019 | 15-Oct-2019 | | | Various |
+| [JetBrains Meetup Melbourne 2019](https://info.jetbrains.com/jetbrains-meetup-melbourne-2019.html) | VIC | 21-Oct-2019 | 21-Oct-2019 | | | Various |
+| [JetBrains Night Brisbane 2019](https://info.jetbrains.com/jetbrains-night-brisbane-2019.html) | QLD | 22-Oct-2019 | 22-Oct-2019 | | | Various |
 | [GopherCon AU](https://gophercon.com.au/) | NSW | 30-Oct-2019 | 1-Nov-2019 | 01-May-2019 | 30-Jun-2019 | Golang |
 | [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 31-Oct-2019 | 1-Nov-2019 |  |  | Front End, JavaScript, Product, Design |
 | [Latency Conf](https://www.latencyconf.io/#/) | WA | 14-Nov-2019 | 14-Nov-2019 |  |  | Various |
