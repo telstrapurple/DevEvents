@@ -69,7 +69,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 | 10-Feb-2019  | 15-Jun-2019 | Various |
 | [GopherCon AU](https://gophercon.com.au/) | NSW | 30-Oct-2019 | 1-Nov-2019 | 01-May-2019 | 30-Jun-2019 | Golang |
 | [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 31-Oct-2019 | 1-Nov-2019 |  |  | Front End, JavaScript, Product, Design |
-| [Latency Conf](https://www.latencyconf.io/#/) | WA | 14-Nov-2019 | 14-Nov-2019 |  |  | Various |
+| [Latency Conf](https://www.latencyconf.io/) | WA | 14-Nov-2019 | 15-Nov-2019 |  |  | Cloud Native |
 | [DDD Adelaide](https://dddadelaide.com) | SA | 23-Nov-2019 | 23-Nov-2019 | 1-Aug-2019 | 4-Sep-2019 | Various |
 | [TConf](https://tconf.io/) | VIC | 29-Nov-2019 | 29-Nov-2019 | 01-May-2019 | 30-Jun-2019  | Testing, QA |
 | [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 05-Dec-2019 | 06-Dec-2019 |  |  | Various |
