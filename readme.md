@@ -82,9 +82,86 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Adelaide](https://dddadelaide.com) | SA | 23-Nov-2019 | 23-Nov-2019 | 1-Aug-2019 | 4-Sep-2019 | Various |
 | [TConf](https://tconf.io/) | VIC | 29-Nov-2019 | 29-Nov-2019 | 01-May-2019 | 30-Jun-2019  | Testing, QA |
 | [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 05-Dec-2019 | 06-Dec-2019 |  |  | Various |
+| [Microservices, Containers & Serverless Day](https://1point21gws.com/microservices/melbourne/) | VIC | 05-Dec-2019 | 05-Dec-2019 |  |  | Microservices |
 | [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 09-Dec-2019 | 10-Dec-2019 |  |  | Various |
 | [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 12-Dec-2019 | 13-Dec-2019 |  |  | Various |
 | [Kubernetes Forum Sydney](https://events.linuxfoundation.org/events/kubernetes-forum-sydney-2019/) | NSW | 12-Dec-2019 | 13-Dec-2019 |  31-Jul-2019 | 06-Sep-2019 | Kubernetes, CNCF-related projects |
+
+
+
+## 2020
+
+| Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
+| ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
+| [DataWorks Summit] | VIC ||||| Data, AI Machine Learning |
+| [Microsoft Ignite Tour](https://www.microsoft.com/en-au/ignite-the-tour/sydney) | NSW | 13-Feb-2020 | 14-Feb-2020 ||| Cloud Infrastructure |
+| [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/223) | WA | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
+| [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/236) | VIC | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
+| [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/215) | NSW | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
+| [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/240) | QLD | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
+| [RubyConf](https://www.rubyconf.org.au/2020) | VIC | 20-Fev-2020 | 21-Feb-2020 || 8-Nov-2019 | Ruby |
+| [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 18-Mar-2020 | 20-Mar-2020 || 15-Jan-2020 | DevOps |
+| [YOW! Data](https://data.yowconference.com.au/) | NSW | 29-Apr-2020 | 1-May-2020 || 16-Feb-2020 | Data |
+| [BSides Canberra](https://www.bsidescbr.com.au/) | ACT | 1-May-2020 |2-May-2020 || 15-Jan-2020 | Security |
+| [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 3-May-2020 | 4-May-2020 ||| Various |
+| [YOW! Lambda Jam](https://lambdajam.yowconference.com.au/) | VIC | 6-May-2020 | 8-May-2020 || 23-Feb-2020 | Functional Programming |
+| [CrikeyCon](https://www.crikeycon.com/) | QLD ||||| Security |
+| [Web Directions Design](https://www.webdirections.org/design/) | VIC ||||| Design, UX |
+| [Global Azure Bootcamp (Perth)] | WA ||||| Microsoft Azure |
+| [Global Azure Bootcamp (Melbourne)] | VIC ||||| Microsoft Azure |
+| [Global Azure Bootcamp (Sydney)] | NSW ||||| Microsoft Azure |
+| [Rails Camp](https://rails.camp/) | WA ||||| Ruby |
+| [Voxxed Days](https://australia.voxxeddays.com/) | VIC ||||| Various |
+| [Catalyst Conference](https://catalystaustralia.girlsintech.org/) | VIC | 13-May-2020 | 14-May-2020 ||| Women in Tech |
+| [Voxxed Days](https://australia.voxxeddays.com/) | NSW ||||| Various |
+| [Australian Test & Tech Automation Conference (ATTAC) ](https://attac.tech/) | VIC ||||| Testing, QA |
+| [LAST Conference Adelaide](https://www.lastconference.com/adelaide/) | SA ||||| Agile, Lean, Systems Thinking |
+| [SQL Saturday Brisbane](https://www.sqlsaturday.com/838/eventhome.aspx) | QLD ||||| Data |
+| [SQL Saturday Melbourne](https://www.sqlsaturday.com/865/eventhome.aspx) | VIC ||||| Data |
+| [OzSecCon](https://www.ozseccon.com/) | VIC ||||| Security |
+| [Global DevOps Bootcamp] | NSW ||||| DevOps, Azure |
+| [Web Directions Code](https://www.webdirections.org/code/) | VIC ||||| JavaScript, Front End, Design |
+| [AgileAus 2020](http://agileaustralia.com.au/2020/) | NSW | 15-Jun-2020 | 16-Jun-2020 ||| Agile |
+| [Great International Developer Summit (GIDS) Sydney](https://developersummit.com) | NSW | 19-Oct-2020 | 21-Oct-2020 ||| Various |
+| [Great International Developer Summit (GIDS) Melbourne](https://developersummit.com) | VIC | 21-Oct-2020 | 23-Oct-2020 ||| Various |
+| [XConf]  | NSW ||||| Thoughtworks |
+| [XConf] | VIC ||||| Thoughtworks |
+| [Container Camp] | NSW ||||| Container, Kubernetes, Docker |
+| [LAST Conference Melbourne](https://www.lastconference.com/melbourne/) | VIC ||||| Agile, Lean, Systems Thinking |
+| [Web Directions Product](https://www.webdirections.org/product/) | VIC ||||| Product, Design |
+| [PyCon AU] | NSW ||||| Python |
+| [SQL Saturday Sydney] | NSW ||||| Data |
+| [DDD Perth](https://dddperth.com/) | WA ||||| Various |
+| [DDD Melbourne](https://dddmelbourne.com/) | VIC ||||| Various |
+| [Australia Summit for Microsoft Business Applications](https://www.australiasummit.com/home) | VIC ||||| Data, Business Applications, Power Platform |
+| [ServerlessDays Sydney](https://sydney.serverlessdays.io/) | NSW ||||| Serverless |
+| [ServerlessDays Melbourne](https://www.serverlessdays.me/) | VIC ||||| Serverless |
+| [LAST Conference Sydney](https://www.lastconference.com/sydney/) | NSW ||||| Agile, Lean, Systems Thinking |
+| [YOW! Perth](https://yowconference.com/) | WA ||||| Various |
+| [Global AI Night] | VIC ||||| ML, A, Bots|
+| [ComponentsConf](https://www.componentsconf.com.au/) | VIC ||||| Front End |
+| [SQL Saturday Perth] | WA ||||| Data |
+| [YOW! Business Agility Conference](https://businessagility.yowconference.com.au/) | VIC ||||| Agile |
+| [APIDays](https://www.apidays.co) | VIC ||||| Various |
+| [DDD Sydney](https://next.dddsydney.com.au) | NSW ||||| Various |
+| [LAST Conference Brisbane](https://www.lastconference.com/brisbane/) | QLD ||||| Agile, Lean, Systems Thinking |
+| [Devopsdays Sydney 2020] | NSW ||||| Various |
+| [NDC Sydney 2020](https://ndcsydney.com/) | NSW ||||| Various |
+| [JetBrains Night Sydney 2020] | NSW ||||| Various |
+| [LAST Conference ACT](https://www.lastconference.com/canberra/) | ACT ||||| Agile, Lean, Systems Thinking |
+| [JetBrains Meetup Melbourne 2020] | VIC ||||| Various |
+| [JetBrains Night Brisbane 2020] | QLD ||||| Various |
+| [GopherCon AU](https://gophercon.com.au/) | NSW ||||| Golang |
+| [Web Directions Summit](https://www.webdirections.org/wds/) | NSW ||||| Front End, JavaScript, Product, Design |
+| [GDG DevFest Melbourne](https://www.gdgmelbourne.com/devfest) | VIC ||||| Google Tech |
+| [Latency Conf](https://www.latencyconf.io/#/) | WA ||||| Various |
+| [DDD Adelaide](https://dddadelaide.com) | SA ||||| Various |
+| [TConf](https://tconf.io/) | VIC ||||| Testing, QA |
+| [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW ||||| Various |
+| [Microservices, Containers & Serverless Day](https://1point21gws.com/microservices/melbourne/) | VIC ||||| Microservices |
+| [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD ||||| Various |
+| [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC ||||| Various |
+| [Kubernetes Forum Sydney] | NSW ||||| Kubernetes, CNCF-related projects |
 
 ### All Year Round CFP
 | Event Name | State | Tags |
