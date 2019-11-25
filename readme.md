@@ -106,7 +106,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 3-May-2020 | 4-May-2020 ||| Various |
 | [YOW! Lambda Jam](https://lambdajam.yowconference.com.au/) | VIC | 6-May-2020 | 8-May-2020 || 23-Feb-2020 | Functional Programming |VIC | 13-May-2020 | 14-May-2020 ||| Women in Tech |
 | [AgileAus 2020](http://agileaustralia.com.au/2020/) | NSW | 15-Jun-2020 | 16-Jun-2020 ||| Agile |
-| [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 12-Oct-2019 | 16-Oct-2019 |  |  | Various |
+| [NDC Sydney 2020](https://ndcsydney.com/) | NSW | 12-Oct-2020 | 16-Oct-2020 | | | Various |
 | [Great International Developer Summit (GIDS) Sydney](https://developersummit.com) | NSW | 19-Oct-2020 | 21-Oct-2020 ||| Various |
 | [Great International Developer Summit (GIDS) Melbourne](https://developersummit.com) | VIC | 21-Oct-2020 | 23-Oct-2020 ||| Various |
 
