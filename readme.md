@@ -70,7 +70,7 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/Rea
 | [DDD Sydney](https://next.dddsydney.com.au) | NSW | 21-Sep-2019 | 21-Sep-2019 | 10-Jun-2019 | 14-Jul-2019 | Various |
 | [LAST Conference Brisbane](https://www.lastconference.com/brisbane/) | QLD | 04-Oct-2019 | 04-Oct-2019 | | | Agile, Lean, Systems Thinking |
 | [Devopsdays Sydney 2019](https://devopsdays.org/events/2019-sydney/welcome/) | NSW | 10-Oct-2019 | 11-Oct-2019 | 03-Jun-2019  | 05-Aug-2019 | Various |
-| [NDC Sydney 2019](https://ndcsydney.com/) | NSW | 14-Oct-2019 | 18-Oct-2019 | 10-Feb-2019  | 15-Jun-2019 | Various |
+| [NDC Sydney 2020](https://ndcsydney.com/) | NSW | 12-Oct-2020 | 16-Oct-2020 | | | Various |
 | [JetBrains Night Sydney 2019](https://info.jetbrains.com/jetbrains-night-sydney-2019.html) | NSW | 15-Oct-2019 | 15-Oct-2019 | | | Various |
 | [LAST Conference ACT](https://www.lastconference.com/canberra/) | ACT | 16-Oct-2019 | 16-Oct-2019 | | | Agile, Lean, Systems Thinking |
 | [JetBrains Meetup Melbourne 2019](https://info.jetbrains.com/jetbrains-meetup-melbourne-2019.html) | VIC | 21-Oct-2019 | 21-Oct-2019 | | | Various |
