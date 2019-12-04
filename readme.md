@@ -5,6 +5,16 @@ We've collated a list of all the events in Australia that might be of interest t
 
 ## Upcoming Events
 
+### 2019
+
+| Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
+| ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
+| [YOW! Sydney](http://sydney.yowconference.com.au/) | NSW | 05-Dec-2019 | 06-Dec-2019 |  |  | Various |
+| [Microservices, Containers & Serverless Day](https://1point21gws.com/microservices/melbourne/) | VIC | 05-Dec-2019 | 05-Dec-2019 |  |  | Microservices |
+| [YOW! Brisbane](http://brisbane.yowconference.com.au/) | QLD | 09-Dec-2019 | 10-Dec-2019 |  |  | Various |
+| [YOW! Melbourne](http://melbourne.yowconference.com.au/) | VIC | 12-Dec-2019 | 13-Dec-2019 |  |  | Various |
+| [Kubernetes Forum Sydney](https://events.linuxfoundation.org/events/kubernetes-forum-sydney-2019/) | NSW | 12-Dec-2019 | 13-Dec-2019 |  31-Jul-2019 | 06-Sep-2019 | Kubernetes, CNCF-related projects |
+
 ### 2020
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
