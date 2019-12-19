@@ -19,7 +19,7 @@ We've collated a list of all the events in Australia that might be of interest t
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
-| [Australian Accessibility Conference](http://ozewai.org/conference/) | WA | 11-Feb-2020 | 13-Feb-2020 ||| Accessibility | 
+| [Australian Accessibility Conference](https://ozewai.org/conference/) | WA | 11-Feb-2020 | 13-Feb-2020 ||| Accessibility | 
 | [Microsoft Ignite Tour](https://www.microsoft.com/en-au/ignite-the-tour/sydney) | NSW | 13-Feb-2020 | 14-Feb-2020 ||| Cloud Infrastructure |
 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/223) | WA | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/236) | VIC | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
