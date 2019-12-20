@@ -26,7 +26,7 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Global Diversity CFP Day (Sydney)](https://www.globaldiversitycfpday.com/events/215) | NSW | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
 | [Global Diversity CFP Day (Newcastle)](https://www.globaldiversitycfpday.com/events/245) | NSW | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/240) | QLD | 18-Feb-2020 | 18-Feb-2020 ||| Tech Talks |
-| [RubyConf](https://www.rubyconf.org.au/2020) | VIC | 20-Fev-2020 | 21-Feb-2020 || 8-Nov-2019 | Ruby |
+| [RubyConf](https://www.rubyconf.org.au/2020) | VIC | 20-Feb-2020 | 21-Feb-2020 || 8-Nov-2019 | Ruby |
 | [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 18-Mar-2020 | 20-Mar-2020 || 15-Jan-2020 | DevOps |
 | [YOW! Data](https://data.yowconference.com.au/) | NSW | 29-Apr-2020 | 1-May-2020 || 16-Feb-2020 | Data |
 | [BSides Canberra](https://www.bsidescbr.com.au/) | ACT | 1-May-2020 |2-May-2020 || 15-Jan-2020 | Security |
