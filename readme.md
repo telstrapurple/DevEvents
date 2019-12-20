@@ -26,7 +26,7 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/240) | QLD | 18-Jan-2020 | 18-Jan-2020 ||| Tech Talks |
 | [Australian Accessibility Conference](https://ozewai.org/conference/) | WA | 11-Feb-2020 | 13-Feb-2020 ||| Accessibility | 
 | [Microsoft Ignite Tour](https://www.microsoft.com/en-au/ignite-the-tour/sydney) | NSW | 13-Feb-2020 | 14-Feb-2020 ||| Cloud Infrastructure |
-| [RubyConf](https://www.rubyconf.org.au/2020) | VIC | 20-Fev-2020 | 21-Feb-2020 || 8-Nov-2019 | Ruby |
+| [RubyConf](https://www.rubyconf.org.au/2020) | VIC | 20-Feb-2020 | 21-Feb-2020 || 8-Nov-2019 | Ruby |
 | [ReactConf AU](https://www.reactconf.com.au) | NSW | 27-Feb-2020 | 28-Feb-2020 || | JavaScript, React |
 | [DevOps Talks Conference](https://devopstalks.com/au/devops.html/) | VIC | 18-Mar-2020 | 20-Mar-2020 || 15-Jan-2020 | DevOps |
 | [YOW! Data](https://data.yowconference.com.au/) | NSW | 29-Apr-2020 | 1-May-2020 || 16-Feb-2020 | Data |
