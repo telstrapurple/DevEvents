@@ -33,10 +33,17 @@ We've collated a list of all the events in Australia that might be of interest t
 | [BSides Canberra](https://www.bsidescbr.com.au/) | ACT | 1-May-2020 |2-May-2020 || 15-Jan-2020 | Security |
 | [Pivot Summit](https://www.pivotsummit.com.au/) | VIC | 3-May-2020 | 4-May-2020 ||| Various |
 | [YOW! Lambda Jam](https://lambdajam.yowconference.com.au/) | VIC | 6-May-2020 | 8-May-2020 || 23-Feb-2020 | Functional Programming |VIC | 13-May-2020 | 14-May-2020 ||| Women in Tech |
+| [Web Directions Code Leaders](https://www.webdirections.org/leaders/) | VIC | 03-Jun-2020 | 03-Jun-2020 ||| Leadership |
+| [Web Directions Code](https://www.webdirections.org/code/) | VIC | 04-Jun-2020 | 05-Jun-2020 ||| Web |
 | [AgileAus 2020](http://agileaustralia.com.au/2020/) | NSW | 15-Jun-2020 | 16-Jun-2020 ||| Agile |
+| [Web Directions Product](https://www.webdirections.org/product/) | VIC | 01-Jul-2020 | 02-Jul-2020 ||| Product Design |
+| [Web Directions Design Leaders](https://www.webdirections.org/designleaders/) | VIC | 03-Jul-2020 | 03-Jul-2020 ||| Leadership |
+| [NDC Melbourne 2020](https://melbourne.com/) | VIC | 27-Jul-2020 | 30-Jul-2020 | | 05-Apr-2020 | Various |
+| [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 01-Sep-2020 | 01-Set-2020 | | 31-Mar-2020 | JavaScript |
 | [NDC Sydney 2020](https://ndcsydney.com/) | NSW | 12-Oct-2020 | 16-Oct-2020 | | | Various |
 | [Great International Developer Summit (GIDS) Sydney](https://developersummit.com) | NSW | 19-Oct-2020 | 21-Oct-2020 ||| Various |
 | [Great International Developer Summit (GIDS) Melbourne](https://developersummit.com) | VIC | 21-Oct-2020 | 23-Oct-2020 ||| Various |
+| [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 04-Nov-2020 | 05-Nov-2020 ||| Various |
 
 ### Call For Presenters - Year Round
 
