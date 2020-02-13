@@ -27,6 +27,7 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Web Directions Product](https://www.webdirections.org/product/) | VIC | 01-Jul-2020 | 02-Jul-2020 ||| Product Design |
 | [Web Directions Design Leaders](https://www.webdirections.org/designleaders/) | VIC | 03-Jul-2020 | 03-Jul-2020 ||| Leadership |
 | [NDC Melbourne 2020](https://ndcmelbourne.com/) | VIC | 27-Jul-2020 | 30-Jul-2020 | | 05-Apr-2020 | Various |
+| [PyCon AU 2020](https://2020.pycon.org.au) | SA | 7-Aug-2020 | 11-Aug-2020 | TBA | TBA | Python |
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 01-Sep-2020 | 01-Set-2020 | | 31-Mar-2020 | JavaScript |
 | [NDC Sydney 2020](https://ndcsydney.com/) | NSW | 12-Oct-2020 | 16-Oct-2020 | | | Various |
 | [Great International Developer Summit (GIDS) Sydney](https://developersummit.com) | NSW | 19-Oct-2020 | 21-Oct-2020 ||| Various |
