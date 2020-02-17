@@ -26,10 +26,11 @@ We've collated a list of all the events in Australia that might be of interest t
 | [AgileAus 2020](http://agileaustralia.com.au/2020/) | NSW | 15-Jun-2020 | 16-Jun-2020 ||| Agile |
 | [Web Directions Product](https://www.webdirections.org/product/) | VIC | 01-Jul-2020 | 02-Jul-2020 ||| Product Design |
 | [Web Directions Design Leaders](https://www.webdirections.org/designleaders/) | VIC | 03-Jul-2020 | 03-Jul-2020 ||| Leadership |
-| [NDC Melbourne 2020](https://ndcmelbourne.com/) | VIC | 27-Jul-2020 | 30-Jul-2020 | | 05-Apr-2020 | Various |
+| [NDC Melbourne 2020](https://ndcmelbourne.com/) | VIC | 27-Jul-2020 | 30-Jul-2020 | [01-Jan-2020](https://sessionize.com/ndc-melbourne-2020/) | [05-Apr-2020](https://sessionize.com/ndc-melbourne-2020/) | Various |
 | [PyCon AU 2020](https://2020.pycon.org.au) | SA | 7-Aug-2020 | 11-Aug-2020 | TBA | TBA | Python |
+| [ServerlessDays Melbourne](https://www.serverlessdays.me/) | VIC | 20-Aug-2020 | 20-Aug-2020 | [17-Feb-2020](https://www.papercall.io/serverless-days-melbourne) | [30-May-2020](https://www.papercall.io/serverless-days-melbourne) | Serverless |
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 01-Sep-2020 | 01-Set-2020 | | 31-Mar-2020 | JavaScript |
-| [NDC Sydney 2020](https://ndcsydney.com/) | NSW | 12-Oct-2020 | 16-Oct-2020 | | | Various |
+| [NDC Sydney 2020](https://ndcsydney.com/) | NSW | 12-Oct-2020 | 16-Oct-2020 | [10-Feb-2020](https://sessionize.com/ndc-sydney-2020/) | [07-Jun-2020](https://sessionize.com/ndc-sydney-2020/) | Various |
 | [Great International Developer Summit (GIDS) Sydney](https://developersummit.com) | NSW | 19-Oct-2020 | 21-Oct-2020 ||| Various |
 | [Great International Developer Summit (GIDS) Melbourne](https://developersummit.com) | VIC | 21-Oct-2020 | 23-Oct-2020 ||| Various |
 | [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 04-Nov-2020 | 05-Nov-2020 ||| Various |
