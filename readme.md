@@ -27,8 +27,8 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Web Directions Product](https://www.webdirections.org/product/) | VIC | 01-Jul-2020 | 02-Jul-2020 ||| Product Design |
 | [Web Directions Design Leaders](https://www.webdirections.org/designleaders/) | VIC | 03-Jul-2020 | 03-Jul-2020 ||| Leadership |
 | [NDC Melbourne 2020](https://ndcmelbourne.com/) | VIC | 27-Jul-2020 | 30-Jul-2020 | [01-Jan-2020](https://sessionize.com/ndc-melbourne-2020/) | [05-Apr-2020](https://sessionize.com/ndc-melbourne-2020/) | Various |
-| [DataEngConfAU 2020](https://dataengconf.com.au/) | NSW | 03-Aug-2020 | 04-Aug-2020 | | 01-May-2020 | Data Engineering, Machine Learning |
-| [PyCon AU 2020](https://2020.pycon.org.au) | SA | 7-Aug-2020 | 11-Aug-2020 | TBA | TBA | Python |
+| [DataEngBytes 2020](https://dataengconf.com.au/) | online | 20-Aug-2020 | 21-Aug-2020 | [01-Jun-2020](https://sessionize.com/dataengbytes/) | [01-Jul-2020](https://sessionize.com/dataengbytes/) | Data Engineering, Machine Learning |
+| [PyConline AU 2020](https://2020.pycon.org.au) | online | TBA | TBA | TBA | TBA | Python |
 | [ServerlessDays Sydney 2020](https://sydney.serverlessdays.io/) | NSW | 17-Aug-2020 | 18-Aug-2020 | [01-Feb-2020](https://www.papercall.io/serverlessdays-sydney-2020) | 15-May-2020 | Serverless |
 | [ServerlessDays Melbourne](https://www.serverlessdays.me/) | VIC | 20-Aug-2020 | 20-Aug-2020 | [17-Feb-2020](https://www.papercall.io/serverless-days-melbourne) | [30-May-2020](https://www.papercall.io/serverless-days-melbourne) | Serverless |
 | [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 01-Sep-2020 | 01-Set-2020 | [01-Feb-2020](https://componentsconf.com.au/cfp) | 31-Mar-2020 | JavaScript |
