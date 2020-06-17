@@ -28,11 +28,11 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Web Directions Design Leaders](https://www.webdirections.org/designleaders/) | VIC | 03-Jul-2020 | 03-Jul-2020 ||| Leadership |
 | [NDC Melbourne 2020](https://ndcmelbourne.com/) | VIC | 27-Jul-2020 | 30-Jul-2020 | [01-Jan-2020](https://sessionize.com/ndc-melbourne-2020/) | [05-Apr-2020](https://sessionize.com/ndc-melbourne-2020/) | Various |
 | [DataEngBytes 2020](https://dataengconf.com.au/) | online | 20-Aug-2020 | 21-Aug-2020 | [01-Jun-2020](https://sessionize.com/dataengbytes/) | [01-Jul-2020](https://sessionize.com/dataengbytes/) | Data Engineering, Machine Learning |
-| [PyConline AU 2020](https://2020.pycon.org.au) | online | 04-Sep-2020 | 06-Sep-2020 | | | Python |
+| [PyConline AU 2020](https://2020.pycon.org.au) | online | 04-Sep-2020 | 06-Sep-2020 | [18-Jun-2020](https://2020.pycon.org.au/speak/) | [12-Jul-2020](https://2020.pycon.org.au/speak/) | Python |
 | [ServerlessDays Sydney 2020](https://sydney.serverlessdays.io/) | NSW | 17-Aug-2020 | 18-Aug-2020 | [01-Feb-2020](https://www.papercall.io/serverlessdays-sydney-2020) | 15-May-2020 | Serverless |
 | [ServerlessDays Melbourne](https://www.serverlessdays.me/) | VIC | 20-Aug-2020 | 20-Aug-2020 | [17-Feb-2020](https://www.papercall.io/serverless-days-melbourne) | [30-May-2020](https://www.papercall.io/serverless-days-melbourne) | Serverless |
-| [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 01-Sep-2020 | 01-Set-2020 | [01-Feb-2020](https://componentsconf.com.au/cfp) | 31-Mar-2020 | JavaScript |
-| [API Days Melbourne](https://www.apidays.co/melbourne) | VIC | 15-Sep-2020 | 16-Set-2020 | [01-Feb-2020](https://apidays.typeform.com/to/J1snsg) | NA | Connection, Automation, Intelligence |
+| [ComponentsConf](https://www.componentsconf.com.au/) | VIC | 01-Sep-2020 | 01-Sep-2020 | [01-Feb-2020](https://componentsconf.com.au/cfp) | 31-Mar-2020 | JavaScript |
+| [API Days Melbourne](https://www.apidays.co/melbourne) | VIC | 15-Sep-2020 | 16-Sep-2020 | [01-Feb-2020](https://apidays.typeform.com/to/J1snsg) | NA | Connection, Automation, Intelligence |
 | [NDC Sydney 2020](https://ndcsydney.com/) | NSW | 12-Oct-2020 | 16-Oct-2020 | [10-Feb-2020](https://sessionize.com/ndc-sydney-2020/) | [07-Jun-2020](https://sessionize.com/ndc-sydney-2020/) | Various |
 | [Great International Developer Summit (GIDS) Sydney](https://developersummit.com) | NSW | 19-Oct-2020 | 21-Oct-2020 ||| Various |
 | [Great International Developer Summit (GIDS) Melbourne](https://developersummit.com) | VIC | 21-Oct-2020 | 23-Oct-2020 ||| Various |
