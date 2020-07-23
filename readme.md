@@ -32,6 +32,9 @@ We've collated a list of all the events in Australia that might be of interest t
 | [PyConline AU 2020](https://2020.pycon.org.au) | online | 04-Sep-2020 | 06-Sep-2020 | [18-Jun-2020](https://2020.pycon.org.au/speak/) | [12-Jul-2020](https://2020.pycon.org.au/speak/) | Python |
 | [API Days Melbourne](https://www.apidays.co/melbourne) | online | 15-Sep-2020 | 16-Sep-2020 | [01-Feb-2020](https://apidays.typeform.com/to/J1snsg) | NA | Connection, Automation, Intelligence |
 | [NDC Sydney 2020](https://ndcsydney.com/) | NSW | 12-Oct-2020 | 16-Oct-2020 | [10-Feb-2020](https://sessionize.com/ndc-sydney-2020/) | [07-Jun-2020](https://sessionize.com/ndc-sydney-2020/) | Various |
+| [Latency Conf 2020](https://www.latencyconf.io/home) | WA | 18-Nov-2020 | 19-Nov-2020 | Open | [16-Aug-2020](https://docs.google.com/forms/d/e/1FAIpQLSdjvhe8LgAycAsoES_PiNqhZzVhxVSN3pwIhoat3vFcfY8Nrw/viewform) | Cloud |
+
+
 
 ### Call For Presenters - Year Round
 
