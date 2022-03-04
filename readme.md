@@ -7,6 +7,8 @@ We've collated a list of all the events in Australia that might be of interest t
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
+| [Web Directions Code Leaders](https://webdirections.org/leaders) | NSW | 30-Nov-2022 | 30-Nov-2022 | Engineering Leadership|| Tech Talks |
+| [Web Directions Summit](https://webdirections.org/summit) | NSW | 01-Dec-2022 | 02-Dec-2022 | Product, design, FE dev|| Tech Talks |
 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/223) | WA | 18-Jan-2020 | 18-Jan-2020 ||| Tech Talks |
 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/236) | VIC | 18-Jan-2020 | 18-Jan-2020 ||| Tech Talks |
 | [Global Diversity CFP Day (Sydney)](https://www.globaldiversitycfpday.com/events/215) | NSW | 18-Jan-2020 | 18-Jan-2020 ||| Tech Talks |
@@ -40,6 +42,8 @@ We've collated a list of all the events in Australia that might be of interest t
 
 | Event Name | State | Tags |
 | ---------- | ----- | ---- |
+| [Web Directions Code Leaders](https://webdirections.org/speaking/) | NSW | Engineering Leadership |
+| [Web Directions Summit](https://webdirections.org/speaking/) | NSW | Product, design, frontend dev |
 | [Fenders](http://www.fenders.co/) | WA | Front End |
 | [Junior Dev](https://bit.ly/JDSpeakers) | WA and VIC | |
 
