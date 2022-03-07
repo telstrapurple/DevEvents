@@ -35,7 +35,7 @@ We've collated a list of all the events in Australia that might be of interest t
 * [SA](Meetups/SA.md)
 * [TAS](Meetups/TAS.md)
 * [VIC](Meetups/VIC.md)
-* [WA](Meetups/Western Australia.md)
+* [WA](Meetups/WA.md)
 
 ## More Information
 
