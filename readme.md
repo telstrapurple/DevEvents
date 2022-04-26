@@ -12,11 +12,15 @@ We've collated a list of all the events in Australia that might be of interest t
 | [YOW! Data 2022](https://skillsmatter.com/conferences/13659-yow-data-2022) | Virtual | 1-Jun-2022 | 2-Jun-2022 | [info](https://skillsmatter.com/conferences/13659-yow-data-2022#get_involved) | | Big Data, analytics, machine learning|
 | [FullStack eXchange](https://skillsmatter.com/conferences/13727-fullstack-exchange-online) | Virtual | 27-Jul-2022 | 28-Jul-2022 | [now](https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved) | 28-Apr-2022| various|
 | [Bazel eXchange](https://skillsmatter.com/conferences/13682-bazel-exchange) | Virtual | 21-Jun-2022 | 22-Jun-2022 | [now](https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved) | 23-Mar-2022| Bazel|
+| [YOW! Perth 2022](https://skillsmatter.com/conferences/13732-yow-perth-2022) | Perth | 19-Sep-2022 | 20-Sept-2022 |  | | various|
 | [YOW! London 2022](https://skillsmatter.com/conferences/13691-yow-london-online) | Virtual | 22-Sep-2022 | 23-Sept-2022 |  | | various|
 | [Product Elevation 2022](https://skillsmatter.com/conferences/13681-product-elevation-2022) | Virtual | 9-Nov-2022 | 10-Nov-2022 | [now](https://skillsmatter.com/conferences/13681-product-elevation-2022#get_involved) | 31-May-2022 | product, UX|
 | [Web Directions Code Leaders](https://webdirections.org/leaders) | NSW | 30-Nov-2022 | 30-Nov-2022 | Engineering Leadership|| Tech Talks |
 | [Web Directions Summit](https://webdirections.org/summit) | NSW | 01-Dec-2022 | 02-Dec-2022 | Product, design, FE dev|| Tech Talks |
 | [Haskell eXchange 2022](https://skillsmatter.com/conferences/13688-haskell-exchange-2022) | Virtual | 8-Dec-2022 | 9-Dec-2022 |  |  | Haskell|
+| [YOW! Brisbane 2022](https://skillsmatter.com/conferences/) | Brisbane | 5-Dec-2022 | 6-Dec-2022 |  |  | various|
+| [YOW! Melbourne 2022](https://skillsmatter.com/conferences/) | Melbourne | 8-Dec-2022 | 9-Dec-2022 |  |  | various|
+| [YOW! Sydney 2022](https://skillsmatter.com/conferences/) | Sydney | 12-Dec-2022 | 13-Dec-2022 |  |  | various|
 
 ### Call For Presenters - Year Round
 
