@@ -7,6 +7,7 @@ We've collated a list of all the events in Australia that might be of interest t
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
+| [Testing Talks Conference](https://www.testingtalks.com.au/) | VIC | 20-Oct-2022 | 20-Oct-2022 | Testing || Tech Talks |
 | [Web Directions Code Leaders](https://webdirections.org/leaders) | NSW | 30-Nov-2022 | 30-Nov-2022 | Engineering Leadership|| Tech Talks |
 | [Web Directions Summit](https://webdirections.org/summit) | NSW | 01-Dec-2022 | 02-Dec-2022 | Product, design, FE dev|| Tech Talks |
 
