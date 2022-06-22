@@ -15,12 +15,14 @@ We've collated a list of all the events in Australia that might be of interest t
 | [YOW! Perth 2022](https://skillsmatter.com/conferences/13732-yow-perth-2022) | Perth | 19-Sep-2022 | 20-Sept-2022 |  | | various|
 | [YOW! London 2022](https://skillsmatter.com/conferences/13691-yow-london-online) | Virtual | 22-Sep-2022 | 23-Sept-2022 |  | | various|
 | [Product Elevation 2022](https://skillsmatter.com/conferences/13681-product-elevation-2022) | Virtual | 9-Nov-2022 | 10-Nov-2022 | [now](https://skillsmatter.com/conferences/13681-product-elevation-2022#get_involved) | 31-May-2022 | product, UX|
+| [NDC Sydney 2022](https://ndcsydney.com/) | NSW | 10-Oct-2022 | 14-Oct-2022||| Tech Talks, Workshops |
+| [Testing Talks Conference](https://www.testingtalks.com.au/) | VIC | 20-Oct-2022 | 20-Oct-2022 | Testing || Tech Talks |
 | [Web Directions Code Leaders](https://webdirections.org/leaders) | NSW | 30-Nov-2022 | 30-Nov-2022 | Engineering Leadership|| Tech Talks |
 | [Web Directions Summit](https://webdirections.org/summit) | NSW | 01-Dec-2022 | 02-Dec-2022 | Product, design, FE dev|| Tech Talks |
 | [Haskell eXchange 2022](https://skillsmatter.com/conferences/13688-haskell-exchange-2022) | Virtual | 8-Dec-2022 | 9-Dec-2022 |  |  | Haskell|
-| [YOW! Brisbane 2022](https://skillsmatter.com/conferences/) | Brisbane | 5-Dec-2022 | 6-Dec-2022 |  |  | various|
-| [YOW! Melbourne 2022](https://skillsmatter.com/conferences/) | Melbourne | 8-Dec-2022 | 9-Dec-2022 |  |  | various|
-| [YOW! Sydney 2022](https://skillsmatter.com/conferences/) | Sydney | 12-Dec-2022 | 13-Dec-2022 |  |  | various|
+| [YOW! Brisbane 2022](https://www.skillsmatter.com/conferences/13735-yow-brisbane-2022) | Brisbane | 5-Dec-2022 | 6-Dec-2022 |  |  | various|
+| [YOW! Melbourne 2022](https://www.skillsmatter.com/conferences/13733-yow-melbourne-2022) | Melbourne | 8-Dec-2022 | 9-Dec-2022 |  |  | various|
+| [YOW! Sydney 2022](https://www.skillsmatter.com/conferences/13734-yow-sydney-2022) | Sydney | 12-Dec-2022 | 13-Dec-2022 |  |  | various|
 
 ### Call For Presenters - Year Round
 
