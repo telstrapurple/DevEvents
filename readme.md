@@ -12,6 +12,7 @@ We've collated a list of all the events in Australia that might be of interest t
 | [YOW! Data 2022](https://skillsmatter.com/conferences/13659-yow-data-2022) | Virtual | 1-Jun-2022 | 2-Jun-2022 | [info](https://skillsmatter.com/conferences/13659-yow-data-2022#get_involved) | | Big Data, analytics, machine learning|
 | [FullStack eXchange](https://skillsmatter.com/conferences/13727-fullstack-exchange-online) | Virtual | 27-Jul-2022 | 28-Jul-2022 | [now](https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved) | 28-Apr-2022| various|
 | [Bazel eXchange](https://skillsmatter.com/conferences/13682-bazel-exchange) | Virtual | 21-Jun-2022 | 22-Jun-2022 | [now](https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved) | 23-Mar-2022| Bazel|
+| [DDD Perth 2022](https://dddperth.com/) | Perth | 10-Sep-2022 | 120-Sept-2022 |  | | various|
 | [YOW! Perth 2022](https://skillsmatter.com/conferences/13732-yow-perth-2022) | Perth | 19-Sep-2022 | 20-Sept-2022 |  | | various|
 | [YOW! London 2022](https://skillsmatter.com/conferences/13691-yow-london-online) | Virtual | 22-Sep-2022 | 23-Sept-2022 |  | | various|
 | [Product Elevation 2022](https://skillsmatter.com/conferences/13681-product-elevation-2022) | Virtual | 9-Nov-2022 | 10-Nov-2022 | [now](https://skillsmatter.com/conferences/13681-product-elevation-2022#get_involved) | 31-May-2022 | product, UX|
