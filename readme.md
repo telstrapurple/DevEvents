@@ -20,9 +20,10 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Testing Talks Conference](https://www.testingtalks.com.au/) | VIC | 20-Oct-2022 | 20-Oct-2022 | Testing || Tech Talks |
 | [Web Directions Code Leaders](https://webdirections.org/leaders) | NSW | 30-Nov-2022 | 30-Nov-2022 | Engineering Leadership|| Tech Talks |
 | [Web Directions Summit](https://webdirections.org/summit) | NSW | 01-Dec-2022 | 02-Dec-2022 | Product, design, FE dev|| Tech Talks |
-| [Haskell eXchange 2022](https://skillsmatter.com/conferences/13688-haskell-exchange-2022) | Virtual | 8-Dec-2022 | 9-Dec-2022 |  |  | Haskell|
+| [DDD Brisbane 2022](https://www.dddbrisbane.com/) | QLD | 03-Dec-2022 | 03-Dec-2022 | 05-Sept-2022 | 03-Oct-2022 | Tech Talks |
 | [YOW! Brisbane 2022](https://www.skillsmatter.com/conferences/13735-yow-brisbane-2022) | Brisbane | 5-Dec-2022 | 6-Dec-2022 |  |  | various|
 | [YOW! Melbourne 2022](https://www.skillsmatter.com/conferences/13733-yow-melbourne-2022) | Melbourne | 8-Dec-2022 | 9-Dec-2022 |  |  | various|
+| [Haskell eXchange 2022](https://skillsmatter.com/conferences/13688-haskell-exchange-2022) | Virtual | 8-Dec-2022 | 9-Dec-2022 |  |  | Haskell|
 | [YOW! Sydney 2022](https://www.skillsmatter.com/conferences/13734-yow-sydney-2022) | Sydney | 12-Dec-2022 | 13-Dec-2022 |  |  | various|
 
 ### Call For Presenters - Year Round
