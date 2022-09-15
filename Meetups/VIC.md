@@ -12,7 +12,7 @@
 | [Golang Melbourne](https://www.meetup.com/golang-mel/) | Level 3/469 La Trobe St, Melbourne VIC 3000 | Greensync | Monthly | |
 | [Junior Developers](https://www.meetup.com/Junior-Developers-Melbourne/) | 67 Queen St, Melbourne | Zendesk | Monthly | |
 | [Machine Learning & AI](https://www.meetup.com/Machine-Learning-AI-Meetup/) | 67 Queen St, Melbourne | Zendesk | Monthly | Machine Learning & AI |
-| [MelbJS](http://melbjs.com/) | 67 Queen St, Melbourne | Zendesk | | JavaScript |
+| [MelbJS](http://melbjs.com/) | Level 2/29 Stewart Street, Richmond | Culture Amp | | JavaScript |
 | [React Melbourne](https://www.meetup.com/React-Melbourne) | 139 Gladstone St, South Melbourne | Kogan | Quarterly | React |
 | [Ruby Melbourne](https://www.meetup.com/Ruby-On-Rails-Oceania-Melbourne/) | 67 Queen St, Melbourne | Zendesk | Monthly | Ruby |
 | [The Web Meetup](https://www.meetup.com/the-web) | 67 Queen St, Melbourne | Zendesk | Monthly | Development, Design, UX, Process |
