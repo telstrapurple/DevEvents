@@ -9,3 +9,5 @@
 | [Adelaide Data & Analytics User Group](https://www.eventbrite.com.au/o/adelaide-data-amp-analytics-user-group-938077899) | Microsoft Adelaide | LobsterPot Solutions | Monthly | SQL, Data, BI |
 | [Front-End Developers Adelaide](https://www.meetup.com/en-AU/Front-End-Developers-Adelaide-FEDA/) | Belgian Beer Cafe | - | Bimonthly | Front end, Web |
 | [Women in Technology SA](https://www.eventbrite.com.au/o/women-in-technology-sa-30256736884) | Whitmore Hotel / Virtual | - | Monthly | |
+| [Python Adelaide](https://www.meetup.com/pythonadelaide/) | UnA North Terrace Campus / Virtual | - | Monthly | Python|
+| [Junior Developers Adelaide](https://www.meetup.com/junior-developers-adelaide/)| Belgian Beer Cafe | - | Monthly | Junior |
