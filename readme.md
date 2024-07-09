@@ -7,27 +7,31 @@ We've collated a list of all the events in Australia that might be of interest t
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
-| [YOW! Lambda Jam 2022](https://skillsmatter.com/conferences/13660-yow-lambdajam-2022) | Virtual | 17-May-2022 | 18-May-2022 | [info](https://skillsmatter.com/conferences/13660-yow-lambdajam-2022#get_involved) | | functional programming|
-| [Rust Forum](https://skillsmatter.com/conferences/13771-rust-forum) | Virtual | 24-May-2022 | 24-May-2022 |  | | rust|
-| [YOW! Data 2022](https://skillsmatter.com/conferences/13659-yow-data-2022) | Virtual | 1-Jun-2022 | 2-Jun-2022 | [info](https://skillsmatter.com/conferences/13659-yow-data-2022#get_involved) | | Big Data, analytics, machine learning|
-| [FullStack eXchange](https://skillsmatter.com/conferences/13727-fullstack-exchange-online) | Virtual | 27-Jul-2022 | 28-Jul-2022 | [now](https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved) | 28-Apr-2022| various|
-| [Bazel eXchange](https://skillsmatter.com/conferences/13682-bazel-exchange) | Virtual | 21-Jun-2022 | 22-Jun-2022 | [now](https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved) | 23-Mar-2022| Bazel|
-| [DDD Perth 2022](https://dddperth.com/) | Perth | 10-Sep-2022 | 10-Sept-2022 |  | | various |
-| [API Days](https://www.apidays.global/australia/) | Melbourne | 14-Sep-2022 | 15-Sept-2022 |  | | API, Integration, Networks, Business|
-| [YOW! Perth 2022](https://skillsmatter.com/conferences/13732-yow-perth-2022) | Perth | 19-Sep-2022 | 20-Sept-2022 |  | | various|
-| [YOW! London 2022](https://skillsmatter.com/conferences/13691-yow-london-online) | Virtual | 22-Sep-2022 | 23-Sept-2022 |  | | various|
-| [NDC Sydney 2022](https://ndcsydney.com/) | NSW | 10-Oct-2022 | 14-Oct-2022||| Tech Talks, Workshops |
-| [Testing Talks Conference](https://www.testingtalks.com.au/) | VIC | 20-Oct-2022 | 20-Oct-2022 | Testing || Tech Talks |
-| [Product Elevation 2022](https://skillsmatter.com/conferences/13681-product-elevation-2022) | Virtual | 9-Nov-2022 | 10-Nov-2022 | [now](https://skillsmatter.com/conferences/13681-product-elevation-2022#get_involved) | 31-May-2022 | product, UX|
-| [Web Directions Code Leaders](https://webdirections.org/leaders) | NSW | 30-Nov-2022 | 30-Nov-2022 | Engineering Leadership|| Tech Talks |
-| [Web Directions Summit](https://webdirections.org/summit) | NSW | 01-Dec-2022 | 02-Dec-2022 | Product, design, FE dev|| Tech Talks |
-| [DDD Brisbane 2022](https://www.dddbrisbane.com/) | QLD | 03-Dec-2022 | 03-Dec-2022 | 05-Sept-2022 | 03-Oct-2022 | Tech Talks |
-| [YOW! Brisbane 2022](https://www.skillsmatter.com/conferences/13735-yow-brisbane-2022) | Brisbane | 5-Dec-2022 | 6-Dec-2022 |  |  | various|
-| [YOW! Melbourne 2022](https://www.skillsmatter.com/conferences/13733-yow-melbourne-2022) | Melbourne | 8-Dec-2022 | 9-Dec-2022 |  |  | various|
-| [Haskell eXchange 2022](https://skillsmatter.com/conferences/13688-haskell-exchange-2022) | Virtual | 8-Dec-2022 | 9-Dec-2022 |  |  | Haskell|
-| [YOW! Sydney 2022](https://www.skillsmatter.com/conferences/13734-yow-sydney-2022) | Sydney | 12-Dec-2022 | 13-Dec-2022 |  |  | various|
+| [YOW! Tech Leaders Summit](https://yowcon.com/melbourne-2024) | Melbourne | 11-Sep-2024 | | | | Tech Leadership |
+| [YOW! Tech Leaders Summit](https://yowcon.com/brisbane-2024) | Brisbane | 12-Sep-2024 | | | | Tech Leadership |
+| [YOW! Tech Leaders Summit](https://yowcon.com/sydney-2024) | Sydney | 13-Sep-2024 | | | | Tech Leadership |
+| [YOW!](https://yowcon.com/melbourne-2024) | Melbourne | 5-Dec-2024 | 6-Dec-2024 | | | Various |
+| [YOW!](https://yowcon.com/brisbane-2024) | Brisbane | 9-Dec-2024 | 10-Dec-2024 | | | Various |
+| [YOW!](https://yowcon.com/sydney-2024) | Sydney | 12-Dec-2024 | 13-Dec-2024 | | | Various |
+| [GopherCon](https://gophercon.com.au/) | Sydney | ? | ? | NOW | ? | Golang |
+| [RubyConf](https://2024.rubyconf.au/) | Sydney | 11-Apr-2024 | 12-Apr-2024 | | | Ruby |
+| [DDD Melbourne](https://www.dddmelbourne.com/) | Melbourne | 16-Mar-2024 | | 1-Sep-2023 | 1-Nov-2023 | Various |
+| [DDD Perth](https://dddperth.com/) | Perth | 16-Nov-2024 | | | 12-Jul-2023 | Various |
+| [DDD Adelaide](https://dddadelaide.com/) | Adelaide | 23-Nov-2024 | | 1-Aug-2024 | 6-Sep-2024 | Various |
+| [APIDays](https://www.apidays.global/australia/) | Melbourne | 16-Oct-2024 | 17-Oct-2024 | NOW | 16-Sep-2024 | APIs |
+| [Serverless Days Sydney](https://serverlessdays.io/) | Sydney | 21-May-2024 | | | | Serverless |
+| [Serverless Days Auckland](https://serverlessdays.io/) | Auckland | 24-May-2024 | | | | Serverless |
+| [NDC](https://ndcsydney.com/) | Sydney | 12-Feb-2024 | 16-Feb-2024 | | | Various |
+| [Testing Talks](https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-sydney) | Sydney | 15-Aug-2024 | | Now? | ? | Testing |
+| [Testing Talks](https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-melbourne) | Melbourne | 17-Oct-2024 | | Now? | ? | Testing |
+| [Web Directions Code Leaders](https://webdirections.org/leaders/) | Melbourne | 19-June-2024 | | | | Web Dev |
+| [Web Directions Developer Summit](https://webdirections.org/dev-summit/) | Sydney | 27-Nov-2024 | 28-Nov-2024 | | | Web Dev |
+| [DataEngBytes](https://dataengconf.com.au/) | Sydney | 24-Sep-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
+| [DataEngBytes](https://dataengconf.com.au/) | Perth | 27-Sep-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
+| [DataEngBytes](https://dataengconf.com.au/) | Melbourne | 1-Oct-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
+| [DataEngBytes](https://dataengconf.com.au/) | Auckland | 4-Oct-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
 
-### Call For Presenters - Year Round
+### Call For Presenters Year Round
 
 | Event Name | State | Tags |
 | ---------- | ----- | ---- |
@@ -36,7 +40,7 @@ We've collated a list of all the events in Australia that might be of interest t
 
 ### Prior Years
 
-* 2021 Events - 2021 didn't happen!
+* [2022 Events](Events/2022.md)
 * [2020 Events](Events/2020.md)
 * [2019 Events](Events/2019.md)
 * [2018 Events](Events/2018.md)
