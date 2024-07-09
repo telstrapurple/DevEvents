@@ -11,7 +11,7 @@ Contributing to DevEvents is very easy with the GitHub markdown editor; you can 
 
 ### To submit a change using GitHub markdown editor, do the following
 
-1. Browse to [readme.md](../README.md), the actual file behind it all
+1. Browse to [README.md](../README.md), the actual file behind it all
 1. Click the [_Edit this file_ pencil icon](../README.md)
 1. Make your changes, respecting the rules below please
 1. Use the _Preview Changes_ tab at the top to make sure everything still looks right

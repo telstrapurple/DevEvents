@@ -31,11 +31,6 @@ We've collated a list of all the events in Australia that might be of interest t
 | [DataEngBytes](https://dataengconf.com.au/) | Melbourne | 1-Oct-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
 | [DataEngBytes](https://dataengconf.com.au/) | Auckland | 4-Oct-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
 
-### Call For Presenters Year Round
-
-| Event Name | State | Tags |
-| ---------- | ----- | ---- |
-
 ## Completed Events
 
 ### Prior Years
@@ -68,6 +63,6 @@ Got a question? [The FAQ](Info/FAQ.md) probably has the answer you need.
 
 There are lists of conferences that others are compiling too. You can [find them here](Events/OTHER.md).
 
-### Can I contribute, or add an event
+### Can I contribute, or add an event?
 
 Of course! We'd love you to! See the [contribution guide](Info/CONTRIBUTING.md) for how.
