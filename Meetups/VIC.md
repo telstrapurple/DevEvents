@@ -9,6 +9,7 @@
 | [AWS Programming and Tools](https://www.meetup.com/Melbourne-AWS-Programming-and-Tools-Meetup/) | Various | Various | Monthly | AWS |
 | [DDD By Night](https://www.meetup.com/DDD-Melbourne-By-Night/) | 452 Flinders Street, Melbourne | Mantel Group | Bi-Monthly | Various |
 | [Golang Melbourne](https://www.meetup.com/golang-mel/) | 452 Flinders Street, Melbourne | Mantel Group | Monthly | Golang |
+| [Her Tech Circle](https://www.hertechcircle.org/events) | Various | Various | Monthly | Women in Tech |
 | [Machine Learning & AI](https://www.meetup.com/Machine-Learning-AI-Meetup/) | 912 Collins Street, Melbourne | | Monthly | Machine Learning & AI |
 | [MelbJS](http://melbjs.com/) | Level 2/29 Stewart Street, Richmond | Culture Amp | | JavaScript |
 | [Melbourne MLOps Community](https://www.meetup.com/melbourne-mlops-community1/) | 452 Flinders St, Melbourne | Mantel Group | Bi-Monthly | MLOps |
