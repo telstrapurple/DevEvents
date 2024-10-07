@@ -25,6 +25,7 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Web Directions Developer Summit](https://webdirections.org/dev-summit/) | Sydney | 27-Nov-2024 | 28-Nov-2024 | | | Web Dev |
 | [LAST Conference](https://clubhouse.lastconference.com/lastmel24/) | Melbourne | 29-Nov-2024 | | | | Lean Agile Systems Thinking |
 | [YOW!](https://yowcon.com/melbourne-2024) | Melbourne | 5-Dec-2024 | 6-Dec-2024 | | | Various |
+| [DDD Brisbane](https://www.dddbrisbane.com) | Brisbane | 7-Dec-2024 | | | | Various |
 | [YOW!](https://yowcon.com/brisbane-2024) | Brisbane | 9-Dec-2024 | 10-Dec-2024 | | | Various |
 | [YOW!](https://yowcon.com/sydney-2024) | Sydney | 12-Dec-2024 | 13-Dec-2024 | | | Various |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | Melbourne | 22-Feb-2025 | | | | Various |
