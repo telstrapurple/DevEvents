@@ -7,18 +7,6 @@ We've collated a list of all the events in Australia that might be of interest t
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
-| [YOW! Tech Leaders Summit](https://yowcon.com/melbourne-2024) | Melbourne | 11-Sep-2024 | | | | Tech Leadership |
-| [YOW! Tech Leaders Summit](https://yowcon.com/brisbane-2024) | Brisbane | 12-Sep-2024 | | | | Tech Leadership |
-| [YOW! Tech Leaders Summit](https://yowcon.com/sydney-2024) | Sydney | 13-Sep-2024 | | | | Tech Leadership |
-| [DataEngBytes](https://dataengconf.com.au/) | Sydney | 24-Sep-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
-| [DataEngBytes](https://dataengconf.com.au/) | Perth | 27-Sep-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
-| [LAST Conference](https://www.lastconference.com/brisbane/) | Brisbane | 27-Sep-2024 | | | | Lean Agile Systems Thinking |
-| [DataEngBytes](https://dataengconf.com.au/) | Melbourne | 1-Oct-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
-| [DataEngBytes](https://dataengconf.com.au/) | Auckland | 4-Oct-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
-| [GDG Melbourne DevFest](https://gdgmelbourne.com/) | Melbourne | 5-Oct-2024 | | 30-Jul-2024 | 30-Aug-2024 | Google Tech |
-| [APIDays](https://www.apidays.global/australia/) | Melbourne | 16-Oct-2024 | 17-Oct-2024 | NOW | 16-Sep-2024 | APIs |
-| [Testing Talks](https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-melbourne) | Melbourne | 17-Oct-2024 | | Now? | ? | Testing |
-| [LAST Conference](https://www.lastconference.com/sydney/) | Sydney | 18-Oct-2024 | | | | Lean Agile Systems Thinking |
 | [GopherCon](https://gophercon.com.au/) | Sydney | 7-Nov-2024 | 8-Nov-2024 | NOW | 30-Aug-2024 | Golang |
 | [DDD Perth](https://dddperth.com/) | Perth | 16-Nov-2024 | | | 12-Jul-2023 | Various |
 | [DDD Adelaide](https://dddadelaide.com/) | Adelaide | 23-Nov-2024 | | 1-Aug-2024 | 6-Sep-2024 | Various |
@@ -28,6 +16,8 @@ We've collated a list of all the events in Australia that might be of interest t
 | [YOW!](https://yowcon.com/brisbane-2024) | Brisbane | 9-Dec-2024 | 10-Dec-2024 | | | Various |
 | [YOW!](https://yowcon.com/sydney-2024) | Sydney | 12-Dec-2024 | 13-Dec-2024 | | | Various |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | Melbourne | 22-Feb-2025 | | | | Various |
+| [Programmable Melbourne](https://www.programmable.tech/) | Melbourne | 18-Mar-2025 | | NOW | 2-Dec-2024 | Various |
+| [Programmable Sydney](https://www.programmable.tech/) | Sydney | 20-Mar-2025 | | NOW | 2-Dec-2024 | Various |
 
 ## Completed Events
 
@@ -40,7 +30,18 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Serverless Days Auckland](https://serverlessdays.io/) | Auckland | 24-May-2024 | | | | Serverless |
 | [Web Directions Code Leaders](https://webdirections.org/leaders/) | Melbourne | 19-June-2024 | | | | Web Dev |
 | [Testing Talks](https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-sydney) | Sydney | 15-Aug-2024 | | Now? | ? | Testing |
-
+| [YOW! Tech Leaders Summit](https://yowcon.com/melbourne-2024) | Melbourne | 11-Sep-2024 | | | | Tech Leadership |
+| [YOW! Tech Leaders Summit](https://yowcon.com/brisbane-2024) | Brisbane | 12-Sep-2024 | | | | Tech Leadership |
+| [YOW! Tech Leaders Summit](https://yowcon.com/sydney-2024) | Sydney | 13-Sep-2024 | | | | Tech Leadership |
+| [DataEngBytes](https://dataengconf.com.au/) | Sydney | 24-Sep-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
+| [DataEngBytes](https://dataengconf.com.au/) | Perth | 27-Sep-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
+| [LAST Conference](https://www.lastconference.com/brisbane/) | Brisbane | 27-Sep-2024 | | | | Lean Agile Systems Thinking |
+| [DataEngBytes](https://dataengconf.com.au/) | Melbourne | 1-Oct-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
+| [DataEngBytes](https://dataengconf.com.au/) | Auckland | 4-Oct-2024 | | 18-Mar-2024 | 14-Jul-2024 | Data |
+| [GDG Melbourne DevFest](https://gdgmelbourne.com/) | Melbourne | 5-Oct-2024 | | 30-Jul-2024 | 30-Aug-2024 | Google Tech |
+| [APIDays](https://www.apidays.global/australia/) | Melbourne | 16-Oct-2024 | 17-Oct-2024 | NOW | 16-Sep-2024 | APIs |
+| [Testing Talks](https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-melbourne) | Melbourne | 17-Oct-2024 | | Now? | ? | Testing |
+| [LAST Conference](https://www.lastconference.com/sydney/) | Sydney | 18-Oct-2024 | | | | Lean Agile Systems Thinking |
 
 ### Prior Years
 
