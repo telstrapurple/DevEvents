@@ -16,8 +16,8 @@ We've collated a list of all the events in Australia that might be of interest t
 | [YOW!](https://yowcon.com/brisbane-2024) | Brisbane | 9-Dec-2024 | 10-Dec-2024 | | | Various |
 | [YOW!](https://yowcon.com/sydney-2024) | Sydney | 12-Dec-2024 | 13-Dec-2024 | | | Various |
 | [DDD Melbourne](https://www.dddmelbourne.com/) | Melbourne | 22-Feb-2025 | | | | Various |
-| [Programmable Melbourne](https://www.programmable.tech/) | Melbourne | 18-Mar-2025 | | | | Various |
-| [Programmable Sydney](https://www.programmable.tech/) | Sydney | 20-Mar-2025 | | | | Various |
+| [Programmable Melbourne](https://www.programmable.tech/) | Melbourne | 18-Mar-2025 | | NOW | 2-Dec-2024 | Various |
+| [Programmable Sydney](https://www.programmable.tech/) | Sydney | 20-Mar-2025 | | NOW | 2-Dec-2024 | Various |
 
 ## Completed Events
 
