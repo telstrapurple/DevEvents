@@ -23,6 +23,7 @@ We've collated a list of all the events in Australia that might be of interest t
 | [DDD Perth](https://dddperth.com/) | Perth | 16-Nov-2024 | | | 12-Jul-2023 | Various |
 | [DDD Adelaide](https://dddadelaide.com/) | Adelaide | 23-Nov-2024 | | 1-Aug-2024 | 6-Sep-2024 | Various |
 | [Web Directions Developer Summit](https://webdirections.org/dev-summit/) | Sydney | 27-Nov-2024 | 28-Nov-2024 | | | Web Dev |
+| [Write the Docs Australia](https://www.writethedocs.org/conf/australia/2024/) | Melbourne | 28-Nov-2024 | 29-Nov-2024 | | | Docs |
 | [LAST Conference](https://clubhouse.lastconference.com/lastmel24/) | Melbourne | 29-Nov-2024 | | | | Lean Agile Systems Thinking |
 | [YOW!](https://yowcon.com/melbourne-2024) | Melbourne | 5-Dec-2024 | 6-Dec-2024 | | | Various |
 | [YOW!](https://yowcon.com/brisbane-2024) | Brisbane | 9-Dec-2024 | 10-Dec-2024 | | | Various |
