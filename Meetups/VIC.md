@@ -8,6 +8,7 @@
 | [Angular Melbourne](https://www.meetup.com/Angular-Melbourne/) | 6/180 Flinders St, Melbourne | Netwealth | Quarterly | Angular |
 | [AWS Programming and Tools](https://www.meetup.com/Melbourne-AWS-Programming-and-Tools-Meetup/) | Various | Various | Monthly | AWS |
 | [DDD By Night](https://www.meetup.com/DDD-Melbourne-By-Night/) | 452 Flinders Street, Melbourne | Mantel Group | Bi-Monthly | Various |
+| [GDG Melbourne](https://www.meetup.com/gdg-melbourne/) | 452 Flinders Street, Melbourne | Mantel Group | Monthly | GCP |
 | [Golang Melbourne](https://www.meetup.com/golang-mel/) | 452 Flinders Street, Melbourne | Mantel Group | Monthly | Golang |
 | [Her Tech Circle](https://www.hertechcircle.org/events) | Various | Various | Monthly | Women in Tech |
 | [IRL by Amber](https://lu.ma/SparksXGenesis?k=c) | Various | Various | Monthly | "Australia's top minds & startups" |
